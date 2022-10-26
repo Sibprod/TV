@@ -64,6 +64,8 @@ https://dacastmmd.mmdlive.lldns.net/dacastmmd/e446f4d33bad407daded05a77154b977/p
 https://d4de59d01af447a498cb0565ad005588.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/viewmedia-7/live_092/HD/playlist.m3u8
 #EXTINF:-1 tvg-id="TV5MondeFranceBelgiumSwitzerland.fr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv5monde-france-belgique-suisse-monaco-fr.png" group-title="France",35 - TV5 Monde (France Belgique Suisse Monaco)
 https://ott.tv5monde.com/Content/HLS/Live/channel(FBS)/variant.m3u8
+#EXTINF:-1 tvg-id="Equidia.fr" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-64.png" group-title="Sport",39 - Equidia
+http://www.callofliberty.fr/stream/EQUIDIA/master.m3u8
 #EXTINF:-1 tvg-id="ParisPremiere.fr" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-145.png" group-title="Général",41 - Paris Première 
 http://192.168.1.254:52424/freeboxtv/mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=213
 #EXTINF:-1 tvg-id="" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-5.png" group-title="Cinéma-Séries",44 - AB1
@@ -226,6 +228,8 @@ http://www.callofliberty.fr/stream/france.3midipyrenees/master.m3u8
 http://www.callofliberty.fr/stream/france.3corse/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.callofliberty.fr/tv/218-france.3NoA/218-france.3NoA.png" group-title="Général",325 - France 3 NoA
 http://www.callofliberty.fr/stream/france.3noa/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-1562.png" group-title="Cinéma-Séries",452 - Paramount Channel
+https://wza.idipper.com/live/_definst_/channel/3010/PARAMOUNT_CHANNEL/manifest_mvtime.mpd?tracking=IW99147ac68317488369&ticket=7acdd53f-f984-4725-9482-bb048d224c05
 #EXTINF:-1 tvg-logo="https://www.lyngsat-stream.com/logo/radio/rr/rtl_radio_fr.png" group-title="Général",600 - RTL
 https://www.dailymotion.com/video/xl1km0
 #EXTINF:-1 tvg-logo="https://www.lyngsat-stream.com/logo/radio/rr/rtl2_radio_fr.png" group-title="Musique",601 - RTL 2
