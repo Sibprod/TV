@@ -67,7 +67,7 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(FBS)/variant.m3u8
 #EXTINF:-1 tvg-id="ParisPremiere.fr" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-145.png" group-title="Général",41 - Paris Première 
 http://192.168.1.254:52424/freeboxtv/mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=213
 #EXTINF:-1 tvg-id="" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-5.png" group-title="Cinéma-Séries",44 - AB1
-https://mdw-cji.akamaized.net/ab1/hls/mwab1.m3u8?hdnts=exp=1666896118~acl=/ab1/dash/*~hmac=a411545d06b5f932a8731b18d373084bb254fa1697c8523cc4cfc38c514cbeb5
+https://wza.idipper.com/live/_definst_/channel/3000/AB1/manifest_mvtime.mpd?tracking=IW99147ac68317488369&ticket=e5122207-e6ef-4c4e-a22f-b619787eaedb
 #EXTINF:-1 tvg-id="CanalJ.fr" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-32.png" group-title="Jeunesse",47 - Canal J
 http://livetv.ktv.zone/176/play.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.centraltv.fr/wp-content/uploads/D5TV.jpg" group-title="Général",50 - D5TV
@@ -103,7 +103,7 @@ https://mdw-cji.akamaized.net/chassepeche/hls/mwchassepeche.m3u8?hdnts=exp=16668
 #EXTINF:-1 tvg-id="" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-63.png" group-title="Culture-Découverte",73 - Science & Vie
 https://mdw-cji.akamaized.net/scienceetvie/hls/mwscienceetvie.m3u8?hdnts=exp=1666896432~acl=/scienceetvie/hls/*~hmac=9e4c81ce6ec99c7ca1a0228f1fbfda2445b693c63065b87ff01abd7da17885fa
 #EXTINF:-1 tvg-id="" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-12.png" group-title="Culture-Découverte",74 - Animaux
-https://mdw-cji.akamaized.net/animauxtv/hls/mwanimauxtv.m3u8?hdnts=exp=1666896495~acl=/animauxtv/hls/*~hmac=5ee81363f71acf69e755ba0d054e7bdfc15b56c6ca13249641eb9dc4f49f843f
+https://wza.idipper.com/live/_definst_/channel/3003/ANIMAUX_TV/manifest_mvtime.mpd?tracking=IW99147ac68317488369&ticket=34562ca3-5e8b-4835-8885-db3a9101a93b
 #EXTINF:-1 tvg-id="" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-7.png" group-title="Culture-Découverte",75 - Toute l'Histoire
 https://mdw-cji.akamaized.net/toutelhistoire/hls/mwtoutelhistoire.m3u8?hdnts=exp=1666896568~acl=/toutelhistoire/hls/*~hmac=2c029e2193bedcb35e12f83e9ba9f8cce52fd0d807e76babc9a46e597fdc2df3
 #EXTINF:-1 tvg-id="" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-1776.png" group-title="Sport",76 - Trek
@@ -163,7 +163,7 @@ https://live-edge.rtl.lu/channel1/smil:channel1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="RTL.lu" tvg-logo="https://play.rtl.lu/images/logo_rtlzwee_outline.svg" group-title="Général",161 - RTL Zwee
 https://live-edge.rtl.lu/channel2/smil:channel2.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="AutomotoLaChaine.fr" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-15.png" group-title="Lifestyle",170 - Automoto La Chaîne
-https://mdw-cji.akamaized.net/automotolachaine/hls/automotolachaine.m3u8?hdnts=exp=1666897142~acl=/automotolachaine/hls/*~hmac=02e176a00091839f707fac5b3cb5e4a4e544c693346a3e6204693426d81b06ea
+https://wza.idipper.com/live/_definst_/channel/3004/AB_MOTEURS/manifest_mvtime.mpd?tracking=IW99147ac68317488369&ticket=f61a6449-94de-498b-a414-3c29cd8ee656
 #EXTINF:-1 tvg-id="Mangas.fr" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-6.png" group-title="Jeunesse",171 - Mangas
 https://mdw-cji.akamaized.net/mangas/hls/mwmangas.m3u8?hdnts=exp=1666897070~acl=/mangas/hls/*~hmac=dd8407bdf95197a45e5f9b729f4c736f68fc7fa2f320ea1bd5d49466c593e295
 #EXTINF:-1 tvg-id="GolfChannel.fr" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-1166.png" group-title="Sport",172 - Golf Channel
