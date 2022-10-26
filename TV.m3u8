@@ -97,7 +97,7 @@ http://192.168.1.254:52424/freeboxtv/mafreebox.freebox.fr/fbxtv_pub/stream?names
 #EXTINF:-1 tvg-id=" " tvg-logo="https://monacoinfo.com/wp-content/themes/monacoinfo_v4/assets/img/monacoinfo-color.png" group-title="Général",70 - Monaco Info
 https://webtvmonacoinfo.mc/live/prod_720/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear- .png" group-title="Lifestyle",71 - Lucky Jack
-https://mdw-cji.akamaized.net/luckyjack/hls/luckyjack.m3u8?hdnts=exp=1666897798~acl=/luckyjack/hls/*~hmac=e490f6199affc6c1aec64cc49b5ec666b64f561056b67dbb3cb4651d7e116487
+https://mdw-cji.akamaized.net/luckyjack/dash/manifest.mpd?hdnts=exp=1666897798~acl=/luckyjack/dash/*~hmac=e490f6199affc6c1aec64cc49b5ec666b64f561056b67dbb3cb4651d7e116487
 #EXTINF:-1 tvg-id="" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-38.png" group-title="Lifestyle",72 - Chasse et Pêche
 https://mdw-cji.akamaized.net/chassepeche/hls/mwchassepeche.m3u8?hdnts=exp=1666896381~acl=/chassepeche/hls/*~hmac=ee3c1361a782dcda08be53848bbc48f58fd91712c22c9e1e3fa6307d6a0228b2
 #EXTINF:-1 tvg-id="" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-63.png" group-title="Culture-Découverte",73 - Science & Vie
