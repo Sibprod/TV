@@ -96,22 +96,20 @@ https://shls-tiji-tv-prod-dub.shahid.net/out/v1/ee05878a88474f408ff04495d44cc249
 http://192.168.1.254:52424/freeboxtv/mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=767
 #EXTINF:-1 tvg-id=" " tvg-logo="https://monacoinfo.com/wp-content/themes/monacoinfo_v4/assets/img/monacoinfo-color.png" group-title="Général",70 - Monaco Info
 https://webtvmonacoinfo.mc/live/prod_720/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear- .png" group-title="Lifestyle",71 - Lucky Jack
-https://mdw-cji.akamaized.net/luckyjack/dash/manifest.mpd?hdnts=exp=1666897798~acl=/luckyjack/dash/*~hmac=e490f6199affc6c1aec64cc49b5ec666b64f561056b67dbb3cb4651d7e116487
 #EXTINF:-1 tvg-id="" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-38.png" group-title="Lifestyle",72 - Chasse et Pêche
-https://mdw-cji.akamaized.net/chassepeche/hls/mwchassepeche.m3u8?hdnts=exp=1666896381~acl=/chassepeche/hls/*~hmac=ee3c1361a782dcda08be53848bbc48f58fd91712c22c9e1e3fa6307d6a0228b2
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-63.png" group-title="Culture-Découverte",73 - Science & Vie
-https://mdw-cji.akamaized.net/scienceetvie/hls/mwscienceetvie.m3u8?hdnts=exp=1666896432~acl=/scienceetvie/hls/*~hmac=9e4c81ce6ec99c7ca1a0228f1fbfda2445b693c63065b87ff01abd7da17885fa
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-12.png" group-title="Culture-Découverte",74 - Animaux
 https://wza.idipper.com/live/_definst_/channel/3003/ANIMAUX_TV/manifest_mvtime.mpd?tracking=IW99147ac68317488369&ticket=34562ca3-5e8b-4835-8885-db3a9101a93b
 #EXTINF:-1 tvg-id="" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-7.png" group-title="Culture-Découverte",75 - Toute l'Histoire
-https://mdw-cji.akamaized.net/toutelhistoire/hls/mwtoutelhistoire.m3u8?hdnts=exp=1666896568~acl=/toutelhistoire/hls/*~hmac=2c029e2193bedcb35e12f83e9ba9f8cce52fd0d807e76babc9a46e597fdc2df3
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-1776.png" group-title="Sport",76 - Trek
-https://mdw-cji.akamaized.net/trekhd/hls/mwtrekhd.m3u8?hdnts=exp=1666896614~acl=/trekhd/hls/*~hmac=f6df80c1d2ef3867e46068553634e5f6d936f62c00d178f03bbea2590d9d310f
+
 #EXTINF:-1 tvg-id="AB3.be" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-254.png" group-title="Divertissement",77 - AB3
-https://mdw-cji.akamaized.net/ab3/hls/mwab3.m3u8?hdnts=exp=1666896614~acl=/trekhd/hls/*~hmac=f6df80c1d2ef3867e46068553634e5f6d936f62c00d178f03bbea2590d9d310f
+
 #EXTINF:-1 tvg-id="ABXplore.be" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-303.png" group-title="Culture-Découverte",78 - ABXplore
-https://mdw-cji.akamaized.net/abxplore/hls/mwabxplore.m3u8?hdnts=exp=1666896893~acl=/abxplore/hls/*~hmac=1ce176200548a9d30fb4c80e70854904d868a107a83c421d2c01a43c8bb023ef
+
 #EXTINF:-1 channel-id="samsung-FRBB1900001FA" tvg-id="FRBB1900001FA" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/34/FRBB1900001FA_20220323T075747.png" group-title="Musique",79 - Clubbing TV
 https://d1j2csarxnwazk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-uze1m6xh4fiyr-ssai-prd/master.m3u8
 #EXTINF:-1 tvg-id="Melody.fr" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-265.png" group-title="Musique",80 - Melody
@@ -165,11 +163,13 @@ https://live-edge.rtl.lu/channel2/smil:channel2.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="AutomotoLaChaine.fr" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-15.png" group-title="Lifestyle",170 - Automoto La Chaîne
 https://wza.idipper.com/live/_definst_/channel/3004/AB_MOTEURS/manifest_mvtime.mpd?tracking=IW99147ac68317488369&ticket=f61a6449-94de-498b-a414-3c29cd8ee656
 #EXTINF:-1 tvg-id="Mangas.fr" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-6.png" group-title="Jeunesse",171 - Mangas
-https://mdw-cji.akamaized.net/mangas/hls/mwmangas.m3u8?hdnts=exp=1666897070~acl=/mangas/hls/*~hmac=dd8407bdf95197a45e5f9b729f4c736f68fc7fa2f320ea1bd5d49466c593e295
+
 #EXTINF:-1 tvg-id="GolfChannel.fr" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-1166.png" group-title="Sport",172 - Golf Channel
-https://mdw-cji.akamaized.net/golfchannel/hls/golfchannel.m3u8?hdnts=exp=1666896990~acl=/golfchannel/hls/*~hmac=99a118a7cdfb635840fcf5e4ab2bad83167ba3320cb1f1fc68e64fcd4400f6ad
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-2037.png" group-title="Culture-Découverte",173 - Crime District
-https://mdw-cji.akamaized.net/crimedistrict/hls/crimedistrict.m3u8?hdnts=exp=1666897258~acl=/crimedistrict/hls/*~hmac=46bb435c8bba7cd6300fe9ed0bd7200888af523893b3b251a5352c03a630dbeb
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear- .png" group-title="Lifestyle",174 - Lucky Jack
+
 #EXTINF:-1 channel-id="samsung-FRBC900001LB" tvg-id="FRBC900001LB" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/59/FRBC900001LB_20220323T080500.png" group-title="Musique",180 - Harmony
 https://amg01736-harmonysecomgro-harmonymelody-samsungfr-n25pe.amagi.tv/playlist/amg01736-harmonysecomgro-harmonymelody-samsungfr/playlist.m3u8
 #EXTINF:-1 channel-id="samsung-FRBA3300063FP" tvg-id="FRBA3300063FP" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/21/FRBA3300063FP_20220323T080053.png" group-title="Lifestyle",181 - My Zen Fit
