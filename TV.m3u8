@@ -44,7 +44,7 @@ http://livetv.ktv.zone/24/play.m3u8
 #EXTINF:-1 tvg-id="RMCStory.fr" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-1402.png" group-title="Général",23 - RMC Story
 http://livetv.ktv.zone/25/play.m3u8
 #EXTINF:-1 tvg-id="RMCDecouverte.fr" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-1400.png" group-title="Culture-Découverte",24 - RMC Découverte
-http://www.callofliberty.fr/stream/rmcdecouverte/master.m3u8
+http://livetv.ktv.zone/26/play.m3u8
 #EXTINF:-1 tvg-id="Cherie25.fr" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-1399.png" group-title="Divertissement",25 - Chérie 25
 http://livetv.ktv.zone/27/play.m3u8
 #EXTINF:-1 tvg-id="LCI.fr" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-112.png" group-title="Information",26 - LCI
