@@ -8,7 +8,7 @@ http://www.callofliberty.fr/stream/france.2/master.m3u8
 http://www.callofliberty.fr/stream/France.3/master.m3u8
 #EXTINF:-1 tvg-id="CanalPlusFrance.fr" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-34.png" group-title="Général",04 - Canal+
 http://hls-m007.live-lv3.canalplus-cdn.net/live/disk/canalplusclair-hd/hls-ios-fhd-clair/canalplusclair-hd.m3u8
-#EXTINF:-1 tvg-id="France5.fr" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-47.png" group-title="Culture_Découverte",05 - France 5
+#EXTINF:-1 tvg-id="France5.fr" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-47.png" group-title="Culture-Découverte",05 - France 5
 http://www.callofliberty.fr/stream/France.5/master.m3u8
 #EXTINF:-1 tvg-id="M6.fr" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-118.png" group-title="Général",06 - M6
 https://shls-m6-france-prod-dub.shahid.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c15988/index.m3u8
