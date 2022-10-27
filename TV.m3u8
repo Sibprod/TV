@@ -27,11 +27,11 @@ http://livetv.ktv.zone/14/play.m3u8
 http://livetv.ktv.zone/15/play.m3u8
 #EXTINF:-1 tvg-id="France4.fr" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-78.png" group-title="Divertissement",14 - France 4
 http://www.callofliberty.fr/stream/france.4/master.m3u8
-#EXTINF:-1 tvg-id="BFMTV.fr" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-481.png" group-title="France",15 - BFM TV
+#EXTINF:-1 tvg-id="BFMTV.fr" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-481.png" group-title="Information",15 - BFM TV
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?start=LIVE&end=END
-#EXTINF:-1 tvg-id="CNews.fr" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-226.png" group-title="France",16 - CNews
+#EXTINF:-1 tvg-id="CNews.fr" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-226.png" group-title="Information",16 - CNews
 https://hls-m010.live-lv3.canalplus-cdn.net/live/disk/cnews-clair-hd/ios-v3-hd-clair/cnews-clair-hd.m3u8
-#EXTINF:-1 tvg-id="CStar.fr" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-458.png" group-title="France",17 - CStar
+#EXTINF:-1 tvg-id="CStar.fr" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-458.png" group-title="Divertissement",17 - CStar
 http://www.callofliberty.fr/stream/cstar/master.m3u8
 #EXTINF:-1 tvg-id="Gulli.fr" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-482.png" group-title="Jeunesse",18 - Gulli
 https://d13anarbtxy8c5.cloudfront.net/pool_u81ytesz/gulli/sixplaysd/hls_short/index.m3u8
@@ -61,7 +61,7 @@ https://wza.idipper.com/live/_definst_/channel/3001/RTL9/manifest_mvtime.mpd?tra
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/e446f4d33bad407daded05a77154b977/playlist.m3u8
 #EXTINF:-1 tvg-id="France24French.fr" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-529.png" group-title="Information",33 - France 24
 https://d4de59d01af447a498cb0565ad005588.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/viewmedia-7/live_092/HD/playlist.m3u8
-#EXTINF:-1 tvg-id="TV5MondeFranceBelgiumSwitzerland.fr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv5monde-france-belgique-suisse-monaco-fr.png" group-title="France",35 - TV5 Monde (France Belgique Suisse Monaco)
+#EXTINF:-1 tvg-id="TV5MondeFranceBelgiumSwitzerland.fr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv5monde-france-belgique-suisse-monaco-fr.png" group-title="Général",35 - TV5 Monde (France Belgique Suisse Monaco)
 https://ott.tv5monde.com/Content/HLS/Live/channel(FBS)/variant.m3u8
 #EXTINF:-1 tvg-id="Equidia.fr" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-64.png" group-title="Sport",39 - Equidia
 http://www.callofliberty.fr/stream/EQUIDIA/master.m3u8
@@ -123,15 +123,15 @@ http://www.callofliberty.fr/stream/MaisonEtTravauxTV/master.m3u8
 https://raw.githubusercontent.com/Sibprod/streams/main/files/Museum_TV/master.m3u8
 #EXTINF:-1 channel-id="samsung-FRBC1400002JN" tvg-id="FRBC1400002JN" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/FRBC1400002JN_20221012T021116.png" group-title="Information",84 - Le Figaro Live
 https://d358c6mfrono1y.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0ppx9nh29jpk7-prod/lefigaro/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="France",90 - Autoplus TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Lifestyle",90 - Autoplus TV
 https://dvun9n03fdh46.cloudfront.net/out/v1/0a19823718464534a0f67925c4463815/index.mpd
-#EXTINF:-1 tvg-id=" " tvg-logo="http://www.callofliberty.fr/tv/119-TOPSanteTV/119-TOPSanteTV.png" group-title="France",91 - Top Santé TV
+#EXTINF:-1 tvg-id=" " tvg-logo="http://www.callofliberty.fr/tv/119-TOPSanteTV/119-TOPSanteTV.png" group-title="Lifestyle",91 - Top Santé TV
 http://www.callofliberty.fr/stream/TOPSanteTV/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="France",92 - Gourmand TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Lifestyle",92 - Gourmand TV
 https://gourmandtv.ziostream.cloud/hls/gt1604323067_hig/index.m3u8
-#EXTINF:-1 tvg-id=" " tvg-logo="http://www.callofliberty.fr/tv/118-MaisonEtTravauxTV/118-MaisonEtTravauxTV.png" group-title="France",93 - Maison & Travaux TV
+#EXTINF:-1 tvg-id=" " tvg-logo="http://www.callofliberty.fr/tv/118-MaisonEtTravauxTV/118-MaisonEtTravauxTV.png" group-title="Lifestyle",93 - Maison & Travaux TV
 http://www.callofliberty.fr/stream/MaisonEtTravauxTV/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="France",94 - Sport En France
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",94 - Sport En France
 https://sportenfrance.ziostream.cloud/hls/sp1564435593_hig/index.m3u8
 #EXTINF:-1 tvg-id="TVBreizh.fr" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-225.png" group-title="Cinéma-Séries",100 - TV Breizh
 https://wza.idipper.com/live/_definst_/channel/3006/TVBREIZH/manifest_mvtime.mpd?tracking=IW99147ac68317488369&ticket=f5c680ad-a0a7-4f9f-9dbb-58b9186cfa86
@@ -147,11 +147,11 @@ https://wza.idipper.com/live/_definst_/channel/3008/USHUAIATV/manifest_mvtime.mp
 https://wza.idipper.com/live/_definst_/channel/3005/HISTOIRE_HD/manifest_mvtime.mpd?tracking=IW99147ac68317488369&ticket=19c8ba4c-dac6-4ab6-9a62-af8c412d8669
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",121 - Le Journal du Golf TV
 
-#EXTINF:-1 tvg-id="LCP.fr" tvg-logo="https://www.ktv.zone/wp-content/uploads/2016/12/15_dune.png" group-title="France",130 - La Chaîne Parlementaire
+#EXTINF:-1 tvg-id="LCP.fr" tvg-logo="https://www.ktv.zone/wp-content/uploads/2016/12/15_dune.png" group-title="Information",130 - La Chaîne Parlementaire
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/xgepjr
-#EXTINF:-1 tvg-id="PublicSenat.fr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/public-senat-fr.png" group-title="France",131 - Public Sénat
+#EXTINF:-1 tvg-id="PublicSenat.fr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/public-senat-fr.png" group-title="Information",131 - Public Sénat
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/xkxbzc
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="France",135 - TV5 Monde Europe
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Général",135 - TV5 Monde Europe
 http://livetv.ktv.zone/61/play.m3u8
 #EXTINF:-1 tvg-id="BFMBusiness.fr" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-1073.png" group-title="Information",150 - BFM Business
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_BUSINESS/index.m3u8?start=LIVE&end=END
