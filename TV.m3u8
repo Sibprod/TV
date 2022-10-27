@@ -137,14 +137,6 @@ https://sportenfrance.ziostream.cloud/hls/sp1564435593_hig/index.m3u8
 https://srgssrch.akamaized.net/hls/live/2022077/srgssr-hls-stream20-ch-dvr/29087486f90b91e4368bf61fe2a84dad/profile3/hdntl=exp=1666975293~acl=%2f*~data=hdntl~hmac=48fc57a1914aebe25055b4d37b546427d0fe37f2e7e472714dd85ae86375f22e/child3-archive.m3u8?aka_me_session_id=AAAAAAAAAAA9BlxjAAAAAJjBQ9sD0LdonBFJyg3nb4s9sWm+SW9xteOOWpVwnqYYlCxgck0o5c5Ufn1y0WqfZ9YwFu6zoNAk&aka_media_format_type=hls&startTime=1666881600
 #EXTINF:-1 tvg-id="TVBreizh.fr" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-225.png" group-title="Cinéma-Séries",100 - TV Breizh
 https://wza.idipper.com/live/_definst_/channel/3006/TVBREIZH/manifest_mvtime.mpd?tracking=IW99147ac68317488369&ticket=f5c680ad-a0a7-4f9f-9dbb-58b9186cfa86
-#EXTINF:-1 tvg-id="LaUne.be" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-164.png" group-title="Général",101 - La Une
-http://185.236.229.31:9981/play/a030
-#EXTINF:-1 tvg-id="Tipik.be" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-187.png" group-title="Général",102 - Tipik
-http://185.236.229.31:9981/play/a031
-#EXTINF:-1 tvg-id="LaTrois.be" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-892.png" group-title="Général",103 - La Trois
-http://185.236.229.31:9981/play/a02y
-
-
 #EXTINF:-1 tvg-id="UshuaiaTV.fr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/uu/ushuaia-tv-fr.png" group-title="Culture-Découverte",110 - Ushuaïa TV
 https://wza.idipper.com/live/_definst_/channel/3008/USHUAIATV/manifest_mvtime.mpd?tracking=IW99147ac68317488369&ticket=77c5f05f-ca6c-4491-bd35-255e5359fb59
 #EXTINF:-1 tvg-id="" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-88.png" group-title="Culture-Découverte",111 - Histoire 
@@ -283,6 +275,16 @@ https://rtlradio-streaming.rtl.lu/radio/rtllx/playlist.m3u8
 https://live-edge.rtl.lu/radio/rtltodayradio/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://stock.rtl.lu/rtl/1200/play/livestream_rtl-gold_v3.jpg" group-title="Radio",610 - RTL Gold
 https://rtlradio-streaming.rtl.lu/radio/rtlgold/playlist.m3u8
+#EXTINF:-1 tvg-id="LaUne.be" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-164.png" group-title="Général",701 - La Une
+http://185.236.229.31:9981/play/a030
+#EXTINF:-1 tvg-id="Tipik.be" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-187.png" group-title="Général",702 - Tipik
+http://185.236.229.31:9981/play/a031
+#EXTINF:-1 tvg-id="LaTrois.be" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-892.png" group-title="Général",703 - La Trois
+http://185.236.229.31:9981/play/a02y
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Général",801 - RTS Un
+http://livetv.ktv.zone/1/play.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Général",802 - RTS Deux
+http://livetv.ktv.zone/2/play.m3u8
 #EXTINF:-1 tvg-id="BFMParis.fr" tvg-logo="http://www.callofliberty.fr/tv/32-BFMPARIS/32-BFMPARIS.png" group-title="Information",1500 - BFM Paris-Île-de-France
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_PARIS/index.m3u8?start=LIVE&end=END
 #EXTINF:-1 tvg-id="BFMLyon.fr" tvg-logo="http://www.callofliberty.fr/tv/33-BFMLYON/33-BFMLYON.png" group-title="Information",1501 - BFM Lyon Métropole
