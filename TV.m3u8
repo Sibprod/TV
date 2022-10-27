@@ -227,6 +227,8 @@ http://www.callofliberty.fr/stream/france.3corse/master.m3u8
 http://www.callofliberty.fr/stream/france.3noa/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-1562.png" group-title="Cinéma-Séries",452 - Paramount Channel
 https://wza.idipper.com/live/_definst_/channel/3010/PARAMOUNT_CHANNEL/manifest_mvtime.mpd?tracking=IW99147ac68317488369&ticket=7acdd53f-f984-4725-9482-bb048d224c05
+#EXTINF:-1 tvg-logo="https://www.lyngsat-stream.com/logo/radio/rr/rfi_fr.png" group-title="France",507 - RFI
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/RFIfr/live
 #EXTINF:-1 tvg-logo="https://www.lyngsat-stream.com/logo/radio/rr/rtl_radio_fr.png" group-title="Général",600 - RTL
 https://www.dailymotion.com/video/xl1km0
 #EXTINF:-1 tvg-logo="https://www.lyngsat-stream.com/logo/radio/rr/rtl2_radio_fr.png" group-title="Musique",601 - RTL 2
@@ -249,6 +251,42 @@ https://rtlradio-streaming.rtl.lu/radio/rtllx/playlist.m3u8
 https://live-edge.rtl.lu/radio/rtltodayradio/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://stock.rtl.lu/rtl/1200/play/livestream_rtl-gold_v3.jpg" group-title="Radio",610 - RTL Gold
 https://rtlradio-streaming.rtl.lu/radio/rtlgold/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat-stream.com/logo/tv/rr/radio-bruno-tv-it.png" group-title="Musique",710 - Radio Bruno TV
+https://stream4.xdevel.com/video0s975758-473/stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat-stream.com/logo/radio/rr/radio-capital-it.png" group-title="Musique",713 - Radio Capital TV
+https://streamcdnb5-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S35394734/Z6U2wGoDYANk/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/m2o_it_tv.png" group-title="Musique",715 - M2O TV
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/radio/rr/radio-monte-carlo-it.png" group-title="Musique",716 - Radio Monte-Carlo TV
+https://live2-radio-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(bb)/index.m3u8
+#EXTINF:-1 tvg-id="CompanyTV.it" tvg-logo="https://i.imgur.com/A7q1zRj.png" group-title="Musique",719 - Company TV
+https://5929b138b139d.streamlock.net/CompanyTV/smil:CompanyTV.smil/master.m3u8
+#EXTINF:-1 tvg-id="VH1.it" tvg-logo="https://www.lyngsat-logo.com/logo/tv/vv/vh1-us.png" group-title="Musique",722 - VH1 Italia
+https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat-stream.com/logo/radio/rr/radio-italia-trend-it.png" group-title="Musique",726 - Radio Italia Trend TV
+https://radioitalia-samsungitaly.amagi.tv/hls/amagi_hls_data_radioital-radioitaly-samsung-italy/CDN/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/radio/rr/rtl_1025.png" group-title="Musique",736 - RTL 102.5 TV
+https://streamcdnb12-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_video.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/radio/rr/radio_zeta_it.png" group-title="Musique",737 - Radio Zeta TV
+https://streamcdnb1-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/XEx1LqlYbNic/playlist_video.m3u8
+#EXTINF:-1 tvg-id="Radiofreccia.it" tvg-logo="https://www.lyngsat-logo.com/logo/radio/rr/radio_freccia_it.png" group-title="Musique",738 - Radiofreccia TV
+https://streamcdnb1-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/playlist_video.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/radio/vv/virgin_radio_it.png" group-title="Musique",757 - Virgin Radio TV
+https://live3.msr.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(ew)/manifest.mpd
+#EXTINF:-1 tvg-id="KissKissTV.it" tvg-logo="https://i.imgur.com/pETXOU7.jpg" group-title="Musique",758 - Radio Kiss Kiss TV
+https://58f12ffd2447a.streamlock.net/KKMulti/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat-stream.com/logo/tv/rr/rds-social-tv-it.png" group-title="Musique",765 - RDS Social TV
+https://stream.rdstv.radio/out/v1/ec85f72b87f04555aa41d616d5be41dc/index_8.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/radio/rr/radio_105_it_radio.png" group-title="Musique",766 - Radio 105 TV
+https://live2-radio-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(ec)/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/radio/rr/r101_radio_it.png" group-title="Musique",767 - R101 TV
+https://live2-radio-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(er)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/radio/rr/radio_deejay_it.png" group-title="Musique",769 - Deejay TV
+https://streamcdnb4-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/radio/rr/radio-italia-it.png" group-title="Musique",770 - Radio Italia TV
+https://radioitaliatv.akamaized.net/hls/live/2093117/RadioitaliaTV/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo=" " group-title="Musique",795 - RDS Relax
+http://45.153.35.200:8001/play/a02n
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Général",801 - RTS Un
 http://livetv.ktv.zone/1/play.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Général",802 - RTS Deux
