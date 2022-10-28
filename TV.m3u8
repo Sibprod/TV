@@ -123,15 +123,15 @@ http://www.callofliberty.fr/stream/MaisonEtTravauxTV/master.m3u8
 https://raw.githubusercontent.com/Sibprod/streams/main/files/Museum_TV/master.m3u8
 #EXTINF:-1 channel-id="samsung-FRBC1400002JN" tvg-id="FRBC1400002JN" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/FRBC1400002JN_20221012T021116.png" group-title="Information",84 - Le Figaro Live
 https://d358c6mfrono1y.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0ppx9nh29jpk7-prod/lefigaro/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Lifestyle",90 - Autoplus TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://db7fdbb9cq5hq.cloudfront.net/img/lo/08f1695507ed94096d43c1454737cb4d.png" group-title="Lifestyle",90 - Autoplus TV
 https://dvun9n03fdh46.cloudfront.net/out/v1/0a19823718464534a0f67925c4463815/index.mpd
 #EXTINF:-1 tvg-id=" " tvg-logo="http://www.callofliberty.fr/tv/119-TOPSanteTV/119-TOPSanteTV.png" group-title="Lifestyle",91 - Top Santé TV
 https://stream-10.dc3.dailymotion.com/sec(OZ0ERGOH4oE-_Xr-zBQ5v5ZzoryjVPA8hIu6FwohZucgWA75dcNCdEi48r7r18x1)/dm/3/x89yjnn/s/live-2.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Lifestyle",92 - Gourmand TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://gourmandtv.fr/themes/gourmandtv/css/images/def2.png" group-title="Lifestyle",92 - Gourmand TV
 https://gt1604323067.mytvchain.info/live/gt1604323067_720/index.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="http://www.callofliberty.fr/tv/118-MaisonEtTravauxTV/118-MaisonEtTravauxTV.png" group-title="Lifestyle",93 - Maison & Travaux TV
 https://stream-07.dc3.dailymotion.com/sec(kBDwkJsL9-oSpBjjjrqeeDozuvSbNyzkt2PesRucjqxW2-jyoq-YRs4cQqX1JJUP)/dm/3/x85e5l8/s/live-2.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",94 - Sport En France
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.sportenfrance.com/wp-content/themes/cnosf/img/logo.svg" group-title="Sport",94 - Sport En France
 https://sp1564435593.mytvchain.info/live/sp1564435593_720/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Information",99 - RTS Info
 
