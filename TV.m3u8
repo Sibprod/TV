@@ -228,7 +228,7 @@ http://www.callofliberty.fr/stream/france.3noa/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-1562.png" group-title="Cinéma-Séries",452 - Paramount Channel
 https://wza.idipper.com/live/_definst_/channel/3010/PARAMOUNT_CHANNEL/manifest_mvtime.mpd?tracking=IW99147ac68317488369&ticket=7acdd53f-f984-4725-9482-bb048d224c05
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat-stream.com/radiochannels/fr/France-Inter.html" group-title="Culture-Découverte",501 - France Inter
-https://www.dailymotion.com/cdn/live/video/x17qw0a.m3u8?sec=z8FMhqP1aPAhCinpk9lrgEBP-KofVlv3vM4z4b6CdiU_vw03eoFlkLTf5rbFsYhiYR5-6RXSddRsrQpGkKTDIA&dmTs=293693&dmV1st=86E5FACD75F2C27540264E9684C706CF
+https://www.dailymotion.com/cdn/live/video/x17qw0a.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat-stream.com/logo/radio/rr/rfi_fr.png" group-title="Information",507 - RFI
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/RFIfr/live
 #EXTINF:-1 tvg-logo="https://www.lyngsat-stream.com/logo/radio/rr/rtl_radio_fr.png" group-title="Général",600 - RTL
