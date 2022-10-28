@@ -234,7 +234,7 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/RFIfr
 #EXTINF:-1 tvg-logo="https://www.lyngsat-stream.com/logo/radio/rr/rtl_radio_fr.png" group-title="Général",600 - RTL
 https://www.dailymotion.com/video/xl1km0
 #EXTINF:-1 tvg-logo="https://www.lyngsat-stream.com/logo/radio/rr/rtl2_radio_fr.png" group-title="Musique",601 - RTL 2
-https://www.dailymotion.com/video/x2tzzpj
+https://www.dailymotion.com/embed/video/x2tzzpj?api=postMessage&autoplay=true&id=fullscreen-player-video&mute=false&origin=https%3A%2F%2Fwww.rtl2.fr&pip-at-start=true&pubtool=jssdk&queue-enable=false&referrerPolicy=no-referrer-when-downgrade&webkit-playsinline=true
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fun-vision-fr-be.png" group-title="Musique",602 - Fun Radio (France)
 https://www.dailymotion.com/video/xxtuy6
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat-stream.com/logo/radio/rr/radio_contact_be.png" group-title="Musique",603 - Radio Contact
