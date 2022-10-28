@@ -177,6 +177,14 @@ https://amg01255-secomcofites-my-myzen-samsungfr-samsungfr-36vwz.amagi.tv/playli
 https://amg01492-secomsasmediart-museumtv-fr-samsungfr-re8lh.amagi.tv/playlist/amg01492-secomsasmediart-museumtv-fr-samsungfr/playlist.m3u8
 #EXTINF:-1 tvg-id="France2.fr" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-4.png" group-title="Général",200 - France 2
 https://live-ssai.ftven.fr/ZXhwPTE2NjY5OTU5MTB+YWNsPSUyZip+aG1hYz03NzlmNmE3MDQzMDgzMzcxN2UzMTRiYmJjN2ZhOTNiZGI3ZGE1YTg5NTcxOGZhZGM4YmExNDc2YzkzMDNlZDY1/dai/v1/manifest/14bff07f70f2518f32f1c6cc13a91ef489dc83f1/SSARFrance2OTTEMTConfiguration/988ed0bb-57c7-40a2-b8be-776db16843b0/5.m3u8
+#EXTINF:-1 tvg-id="AntenneReunion.fr" tvg-logo="https://i.imgur.com/EPIMMaB.png" group-title="Général",220 - Antenne Réunion
+https://live-antenne-reunion.zeop.tv/live/c3eds/antreunihd/hls_fta/antreunihd.m3u8?location=ZEOP01
+#EXTINF:-1 tvg-id="ViaATV.mq" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Vi%C3%A0ATV.png/512px-Vi%C3%A0ATV.png" group-title="Général",228 - ViàATV
+https://streamer01.myvideoplace.tv/streamer02/hls/ATV_DIRECT_EV_111018_medium/index.m3u8
+#EXTINF:-1 tvg-id="FusionTV.mq" tvg-logo="http://fusiontv.fr/wp-content/uploads/2021/03/cropped-LOGO-FUSION-TV2.png" group-title="Général",243 - Fusion TV
+https://fusiontv.vedge.infomaniak.com/livecast/fusiontv/manifest.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.callofliberty.fr/tv/46-TNTV/46-TNTV.png" group-title="Lifestyle",246 - TNTV
+https://tntv-samsung-fr.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://sos-docteur.tv/public/Styles_tv/images/logo_site_2022.png" group-title="Lifestyle",264 - SOS Docteur TV
 https://pvqyb34odz24-hls-live.5centscdn.com/doc2/tv.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="France3Picardie.fr" tvg-logo="http://www.callofliberty.fr/tv/222-france.3picardie/222-france.3picardie.png" group-title="Général",301 - France 3 Picardie
