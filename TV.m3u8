@@ -131,10 +131,10 @@ https://stream-10.dc3.dailymotion.com/sec(OZ0ERGOH4oE-_Xr-zBQ5v5ZzoryjVPA8hIu6Fw
 https://gt1604323067.mytvchain.info/live/gt1604323067_720/index.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="http://www.callofliberty.fr/tv/118-MaisonEtTravauxTV/118-MaisonEtTravauxTV.png" group-title="Lifestyle",93 - Maison & Travaux TV
 https://stream-07.dc3.dailymotion.com/sec(kBDwkJsL9-oSpBjjjrqeeDozuvSbNyzkt2PesRucjqxW2-jyoq-YRs4cQqX1JJUP)/dm/3/x85e5l8/s/live-2.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.sportenfrance.com/wp-content/themes/cnosf/img/logo.svg" group-title="Sport",94 - Sport En France
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.sportenfrance.com/android-icon-192x192.png" group-title="Sport",94 - Sport En France
 https://sp1564435593.mytvchain.info/live/sp1564435593_720/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Information",99 - RTS Info
-
+https://raw.githubusercontent.com/Sibprod/streams/main/RTS_Info/master.m3u8
 #EXTINF:-1 tvg-id="TVBreizh.fr" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-225.png" group-title="Cinéma-Séries",100 - TV Breizh
 https://wza.idipper.com/live/_definst_/channel/3006/TVBREIZH/manifest_mvtime.mpd?tracking=IW99147ac68317488369&ticket=f5c680ad-a0a7-4f9f-9dbb-58b9186cfa86
 #EXTINF:-1 tvg-id="UshuaiaTV.fr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/uu/ushuaia-tv-fr.png" group-title="Culture-Découverte",110 - Ushuaïa TV
