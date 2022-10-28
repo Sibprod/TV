@@ -67,8 +67,10 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(FBS)/variant.m3u8
 http://www.callofliberty.fr/stream/EQUIDIA/master.m3u8
 #EXTINF:-1 tvg-id="ParisPremiere.fr" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-145.png" group-title="Général",41 - Paris Première 
 http://192.168.0.254:52424/freeboxtv/mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=213
-#EXTINF:-1 tvg-id="" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-5.png" group-title="Cinéma-Séries",44 - AB1
+#EXTINF:-1 tvg-id="AB1.fr" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-5.png" group-title="Cinéma-Séries",44 - AB1
 https://wza.idipper.com/live/_definst_/channel/3000/AB1/manifest_mvtime.mpd?tracking=IW99147ac68317488369&ticket=e5122207-e6ef-4c4e-a22f-b619787eaedb
+#EXTINF:-1 tvg-id="PlanetePlus.fr" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-147.png" group-title="Culture-Découverte",45 - Planète+
+http://37.235.38.139:4000/play/a00k
 #EXTINF:-1 tvg-id="CanalJ.fr" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-32.png" group-title="Jeunesse",47 - Canal J
 http://livetv.ktv.zone/176/play.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.mytelevision.tv/assets/img/chaines/d5tv.png" group-title="Général",50 - D5TV
