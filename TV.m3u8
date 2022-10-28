@@ -21,7 +21,7 @@ http://livetv.ktv.zone/11/play.m3u8
 https://tmc-hls-live-cdn1.tf1.fr/out/v1/982927d0b5d24bd58ac42184b10c63d7/index.m3u8
 #EXTINF:-1 tvg-id="TFX.fr" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-446.png" group-title="Divertissement",11 - TFX
 https://tfx-hls-live-cdn1.tf1.fr/out/v1/818e38d791854222b71a950791fb7002/index.m3u8
-#EXTINF:-1 tvg-id="NRJ12.fr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nrj-12-fr.svg" group-title="Divertissement",12 - NRJ 12
+#EXTINF:-1 tvg-id="NRJ12.fr" tvg-logo="http://www.mytelevision.tv/assets/img/chaines/nrj12.png" group-title="Divertissement",12 - NRJ 12
 http://livetv.ktv.zone/14/play.m3u8
 #EXTINF:-1 tvg-id="LCP.fr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ll/lcp-tnt-fr.png" group-title="Information",13 - LCP-AN
 http://livetv.ktv.zone/15/play.m3u8
@@ -175,6 +175,8 @@ https://amg01736-harmonysecomgro-harmonymelody-samsungfr-n25pe.amagi.tv/playlist
 https://amg01255-secomcofites-my-myzen-samsungfr-samsungfr-36vwz.amagi.tv/playlist/amg01255-secomcofites-my-myzen-samsungfr-samsungfr/playlist.m3u8
 #EXTINF:-1 channel-id="samsung-FRBA3300064WS" tvg-id="FRBA3300064WS" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/66/FRBA3300064WS_20220323T080041.png" group-title="Culture-Découverte",183 - Museum TV FAST
 https://amg01492-secomsasmediart-museumtv-fr-samsungfr-re8lh.amagi.tv/playlist/amg01492-secomsasmediart-museumtv-fr-samsungfr/playlist.m3u8
+#EXTINF:-1 tvg-id="France2.fr" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-4.png" group-title="Général",200 - France 2
+https://live-ssai.ftven.fr/ZXhwPTE2NjY5OTU5MTB+YWNsPSUyZip+aG1hYz03NzlmNmE3MDQzMDgzMzcxN2UzMTRiYmJjN2ZhOTNiZGI3ZGE1YTg5NTcxOGZhZGM4YmExNDc2YzkzMDNlZDY1/dai/v1/manifest/14bff07f70f2518f32f1c6cc13a91ef489dc83f1/SSARFrance2OTTEMTConfiguration/988ed0bb-57c7-40a2-b8be-776db16843b0/5.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://sos-docteur.tv/public/Styles_tv/images/logo_site_2022.png" group-title="Lifestyle",264 - SOS Docteur TV
 https://pvqyb34odz24-hls-live.5centscdn.com/doc2/tv.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="France3Picardie.fr" tvg-logo="http://www.callofliberty.fr/tv/222-france.3picardie/222-france.3picardie.png" group-title="Général",301 - France 3 Picardie
@@ -233,6 +235,8 @@ https://stream-02.sv4.dailymotion.com/sec(kIyZk1TvJ__htJbCTbJjvM8YQfM1riBnsv9X3S
 https://wza.idipper.com/live/_definst_/channel/3010/PARAMOUNT_CHANNEL/manifest_mvtime.mpd?tracking=IW99147ac68317488369&ticket=7acdd53f-f984-4725-9482-bb048d224c05
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat-stream.com/radiochannels/fr/France-Inter.html" group-title="Culture-Découverte",501 - France Inter
 https://stream-04.sv4.dailymotion.com/sec(66HRmDFwqbaSlyQKVIB7sRNHL-IFmioGM2Dspg_sGTDzw6Ws43KQdCVm2dYdD-3Z)/dm/3/x17qw0a/s/live-4.m3u8
+#EXTINF:-1 tvg-logo="https://mytelevision.tv/assets/img/chaines/mouvtv.png" group-title="Musique",506 - Mouv'
+https://stream-08.dc3.dailymotion.com/sec(-8z-ydkfFnUKhC-3tlqPmqtihkRuMFPYtAxXiOF8UvGwJOgDsxhihwlSn7UeyqBI)/dm/3/x590cb7/s/live-2.m3u8#cell=lcore
 #EXTINF:-1 tvg-logo="https://www.lyngsat-stream.com/logo/radio/rr/rfi_fr.png" group-title="Information",507 - RFI
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/RFIfr/live
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Information",527 - Sud Radio
