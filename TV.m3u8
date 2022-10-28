@@ -56,7 +56,7 @@ https://euronews.alteox.app/hls/fr_stream.m3u8
 #EXTINF:-1 tvg-id="RTL9.lu" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-115.png" group-title="Cinéma-Séries",29 - RTL 9
 https://wza.idipper.com/live/_definst_/channel/3001/RTL9/manifest_mvtime.mpd?tracking=IW99147ac68317488369&ticket=ca73f9cb-40ec-4e8d-9839-dfbc707a74e2
 #EXTINF:-1 tvg-id="TV8MontBlanc.fr" tvg-logo="https://i.imgur.com/74pAtJu.png" group-title="Lifestyle",31 - 8 Mont-Blanc
-
+https://stream-02.dc3.dailymotion.com/sec(83LlaZiAJCzMRX6-TfWr_4sstM5R7igrh0TgLB3MsTnhm_0tb1Tluv1XMR6mphYt)/dm/3/x71o73v/s/live-1.m3u8
 #EXTINF:-1 tvg-id="IDF1.fr" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-701.png" group-title="Divertissement",32 - IDF1
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/e446f4d33bad407daded05a77154b977/playlist.m3u8
 #EXTINF:-1 tvg-id="France24French.fr" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-529.png" group-title="Information",33 - France 24
@@ -66,7 +66,7 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(FBS)/variant.m3u8
 #EXTINF:-1 tvg-id="Equidia.fr" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-64.png" group-title="Sport",39 - Equidia
 http://www.callofliberty.fr/stream/EQUIDIA/master.m3u8
 #EXTINF:-1 tvg-id="ParisPremiere.fr" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-145.png" group-title="Général",41 - Paris Première 
-http://192.168.1.254:52424/freeboxtv/mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=213
+http://192.168.0.254:52424/freeboxtv/mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=213
 #EXTINF:-1 tvg-id="" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-5.png" group-title="Cinéma-Séries",44 - AB1
 https://wza.idipper.com/live/_definst_/channel/3000/AB1/manifest_mvtime.mpd?tracking=IW99147ac68317488369&ticket=e5122207-e6ef-4c4e-a22f-b619787eaedb
 #EXTINF:-1 tvg-id="CanalJ.fr" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-32.png" group-title="Jeunesse",47 - Canal J
@@ -90,7 +90,7 @@ http://185.236.229.31:9981/play/a032
 #EXTINF:-1 tvg-id="PlugRTL.lu" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-377.png" group-title="Divertissement",65 - Plug RTL
 http://185.236.229.31:9981/play/a033
 #EXTINF:-1 tvg-id="Teva.fr" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-191.png" group-title="Divertissement",66 - Teva
-http://192.168.1.254:52424/freeboxtv/mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=404
+http://192.168.0.254:52424/freeboxtv/mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=404
 #EXTINF:-1 tvg-id="Tiji.fr" tvg-logo="https://i.imgur.com/vjGeVmX.png" group-title="Jeunesse",67 - Tiji
 https://shls-tiji-tv-prod-dub.shahid.net/out/v1/ee05878a88474f408ff04495d44cc249/index.m3u8
 #EXTINF:-1 tvg-id="MCMTop.fr" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-343.png" group-title="Musique",68 - MCM Top
