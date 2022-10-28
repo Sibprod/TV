@@ -108,7 +108,7 @@ https://mdw-cji.akamaized.net/toutelhistoire/dash/manifest.mpd?hdnts=exp=1667073
 #EXTINF:-1 tvg-id="" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-1776.png" group-title="Sport",76 - Trek
 https://mdw-cji.akamaized.net/trekhd/dash/manifest.mpd?hdnts=exp=1667073288~acl=/trekhd/dash/*~hmac=cde3f7f28caeb297c1942aefcd7330392cc7aedf44130f67bcd27ffac0d2fa80
 #EXTINF:-1 tvg-id="AB3.be" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-254.png" group-title="Divertissement",77 - AB3
-https://mdw-cji.akamaized.net/ab3/hls/index.m3u8?hdnts=exp=1667073468~acl=/ab3/hls/*~hmac=f344f3ba2ce977eb430f40e8588fa0a8765ebf4d6d105eb8dc1c4b64836de396
+http://37.235.38.139:4000/play/a0c6
 #EXTINF:-1 tvg-id="ABXplore.be" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-303.png" group-title="Culture-Découverte",78 - ABXplore
 https://mdw-cji.akamaized.net/abxplore/dash/manifest.mpd?hdnts=exp=1667073533~acl=/abxplore/dash/*~hmac=9b6a66942872a1cb48b5fad953a587383c9285f812067b258e8c1d11c7ab842b
 #EXTINF:-1 channel-id="samsung-FRBB1900001FA" tvg-id="FRBB1900001FA" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/34/FRBB1900001FA_20220323T075747.png" group-title="Musique",79 - Clubbing TV
