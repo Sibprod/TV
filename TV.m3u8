@@ -257,7 +257,7 @@ http://www.callofliberty.fr/stream/france.3corse/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.callofliberty.fr/tv/218-france.3NoA/218-france.3NoA.png" group-title="Général",325 - France 3 NoA
 http://www.callofliberty.fr/stream/france.3noa/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Général",400 - Europe 1
-https://stream-02.sv4.dailymotion.com/sec(kIyZk1TvJ__htJbCTbJjvM8YQfM1riBnsv9X3SwGX99_YktRLsi6ZLL8LeKWD3Fv)/dm/3/xqjkfz/d/live-4.m3u8#cell=lsv4
+https://www.dailymotion.com/video/xqjkfz#tag_embed.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-1562.png" group-title="Cinéma-Séries",452 - Paramount Channel
 https://wza.idipper.com/live/_definst_/channel/3010/PARAMOUNT_CHANNEL/manifest_mvtime.mpd?tracking=IW99147ac68317488369&ticket=7acdd53f-f984-4725-9482-bb048d224c05
 #EXTINF:-1 tvg-id="CGTNFrench.cn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/CGTN_-_fran%C3%A7ais.png/512px-CGTN_-_fran%C3%A7ais.png" group-title="Information",487 - CGTN Français
