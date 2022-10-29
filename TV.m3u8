@@ -56,7 +56,7 @@ https://euronews.alteox.app/hls/fr_stream.m3u8
 #EXTINF:-1 tvg-id="RTL9.lu" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-115.png" group-title="Cinéma-Séries",29 - RTL 9
 https://wza.idipper.com/live/_definst_/channel/3001/RTL9/manifest_mvtime.mpd?tracking=IW99147ac68317488369&ticket=ca73f9cb-40ec-4e8d-9839-dfbc707a74e2
 #EXTINF:-1 tvg-id="TV8MontBlanc.fr" tvg-logo="https://i.imgur.com/74pAtJu.png" group-title="Lifestyle",31 - 8 Mont-Blanc
-https://stream-02.dc3.dailymotion.com/sec(83LlaZiAJCzMRX6-TfWr_4sstM5R7igrh0TgLB3MsTnhm_0tb1Tluv1XMR6mphYt)/dm/3/x71o73v/s/live-1.m3u8
+https://www.dailymotion.com/video/x71o73v#tab_embed
 #EXTINF:-1 tvg-id="IDF1.fr" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-701.png" group-title="Divertissement",32 - IDF1
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/e446f4d33bad407daded05a77154b977/playlist.m3u8
 #EXTINF:-1 tvg-id="France24French.fr" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-529.png" group-title="Information",33 - France 24
@@ -131,11 +131,11 @@ https://d358c6mfrono1y.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-id="" tvg-logo="https://db7fdbb9cq5hq.cloudfront.net/img/lo/08f1695507ed94096d43c1454737cb4d.png" group-title="Lifestyle",90 - Autoplus TV
 https://dvun9n03fdh46.cloudfront.net/out/v1/0a19823718464534a0f67925c4463815/index.mpd
 #EXTINF:-1 tvg-id=" " tvg-logo="http://www.callofliberty.fr/tv/119-TOPSanteTV/119-TOPSanteTV.png" group-title="Lifestyle",91 - Top Santé TV
-https://stream-10.dc3.dailymotion.com/sec(OZ0ERGOH4oE-_Xr-zBQ5v5ZzoryjVPA8hIu6FwohZucgWA75dcNCdEi48r7r18x1)/dm/3/x89yjnn/s/live-2.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://gourmandtv.fr/themes/gourmandtv/css/images/def2.png" group-title="Lifestyle",92 - Gourmand TV
 https://gt1604323067.mytvchain.info/live/gt1604323067_720/index.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="http://www.callofliberty.fr/tv/118-MaisonEtTravauxTV/118-MaisonEtTravauxTV.png" group-title="Lifestyle",93 - Maison & Travaux TV
-https://stream-06.dc3.dailymotion.com/sec(kBDwkJsL9-oSpBjjjrqeeFTUfsqu4UJtLnGJKlt4h0_5uywVPdCO7N3I2KN68o32)/dm/3/x85e5l8/s/live-2.m3u8#cell=lcore
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.sportenfrance.com/android-icon-192x192.png" group-title="Sport",94 - Sport En France
 https://sp1564435593.mytvchain.info/live/sp1564435593_720/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Information",99 - RTS Info
@@ -263,25 +263,25 @@ http://www.callofliberty.fr/stream/france.3corse/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.callofliberty.fr/tv/218-france.3NoA/218-france.3NoA.png" group-title="Général",325 - France 3 NoA
 http://www.callofliberty.fr/stream/france.3noa/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Général",400 - Europe 1
-https://stream-02.sv4.dailymotion.com/sec(kIyZk1TvJ__htJbCTbJjvM8YQfM1riBnsv9X3SwGX99_YktRLsi6ZLL8LeKWD3Fv)/dm/3/xqjkfz/d/live-4.m3u8#cell=lsv4
+https://www.dailymotion.com/video/xqjkfz#tab_embed
 #EXTINF:-1 tvg-id="" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-1562.png" group-title="Cinéma-Séries",452 - Paramount Channel
 https://wza.idipper.com/live/_definst_/channel/3010/PARAMOUNT_CHANNEL/manifest_mvtime.mpd?tracking=IW99147ac68317488369&ticket=7acdd53f-f984-4725-9482-bb048d224c05
 #EXTINF:-1 tvg-id="CGTNFrench.cn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/CGTN_-_fran%C3%A7ais.png/512px-CGTN_-_fran%C3%A7ais.png" group-title="Information",487 - CGTN Français
 https://livefr.cgtn.com/1000f/prog_index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat-stream.com/radiochannels/fr/France-Inter.html" group-title="Culture-Découverte",501 - France Inter
-https://stream-04.sv4.dailymotion.com/sec(66HRmDFwqbaSlyQKVIB7sRNHL-IFmioGM2Dspg_sGTDzw6Ws43KQdCVm2dYdD-3Z)/dm/3/x17qw0a/s/live-4.m3u8
+https://www.dailymotion.com/video/x17qw0a#tab_embed
 #EXTINF:-1 tvg-logo="https://mytelevision.tv/assets/img/chaines/mouvtv.png" group-title="Musique",506 - Mouv'
-https://stream-08.dc3.dailymotion.com/sec(-8z-ydkfFnUKhC-3tlqPmqtihkRuMFPYtAxXiOF8UvGwJOgDsxhihwlSn7UeyqBI)/dm/3/x590cb7/s/live-2.m3u8#cell=lcore
+https://www.dailymotion.com/video/x590cb7#tab_embed
 #EXTINF:-1 tvg-logo="https://www.lyngsat-stream.com/logo/radio/rr/rfi_fr.png" group-title="Information",507 - RFI
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/RFIfr/live
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Information",527 - Sud Radio
-https://stream-02.sv4.dailymotion.com/sec(CFYS0CyzC0phI1myd5MCSxuOkSUCGSCVEggLLbDS78eGD6blJAmT2Di4cAtBgrS6)/dm/3/x75yzts/s/live-2.m3u8
+https://www.dailymotion.com/video/x75yzts#tab_embed
 #EXTINF:-1 tvg-logo="https://www.lyngsat-stream.com/logo/radio/rr/rtl_radio_fr.png" group-title="Général",600 - RTL
-https://stream-03.dc3.dailymotion.com/sec(LWxkRxSld-NF2-DYw1tVj7Jzliad8k391Ae_DR4vQtnIcKzu57vVPYD0V54DlDnv)/dm/3/x7rkctx/s/live-4.m3u8
+https://www.dailymotion.com/video/x7rkctx#tab_embed
 #EXTINF:-1 tvg-logo="https://www.lyngsat-stream.com/logo/radio/rr/rtl2_radio_fr.png" group-title="Musique",601 - RTL 2
-https://stream-01.sv4.dailymotion.com/sec(LWxkRxSld-NF2-DYw1tVj2ToVl9DNneinY2kYGzVJf32mMte2qh__bfXUEsEc1E2)/dm/3/x7rkbk4/s/live-4.m3u8
+https://www.dailymotion.com/video/x7rkbk4#tab_embed
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fun-vision-fr-be.png" group-title="Musique",602 - Fun Radio (France)
-https://stream-02.sv4.dailymotion.com/sec(LWxkRxSld-NF2-DYw1tVj7j1jigZ4FcwmtUw8jdLXsJTh05_rFR0RkB8sAWfzgwe)/dm/3/x7rk9ec/s/live-4.m3u8
+https://www.dailymotion.com/video/x7rk9ec#tab_embed
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat-stream.com/logo/radio/rr/radio_contact_be.png" group-title="Musique",603 - Radio Contact
 https://contact-live-hls.akamaized.net/hls/live/2038650/CONTACT-Live-HLS/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat-stream.com/logo/radio/bb/bel-rtl-be.png" group-title="Musique",604 - Bel RTL
@@ -304,6 +304,8 @@ http://livetv.ktv.zone/130/play.m3u8
 http://livetv.ktv.zone/131/play.m3u8
 #EXTINF:-1 tvg-id="RAI3.it" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rai_3.png" group-title="Général",703 - RAI Tre
 http://livetv.ktv.zone/132/play.m3u8
+#EXTINF:-1 tvg-id="La7.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/LA7_-_Logo_2011.svg/512px-LA7_-_Logo_2011.svg.png" group-title="Divertissement",707 - La7
+https://d15umi5iaezxgx.cloudfront.net/LA7/CLN/HLS-B/Live.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat-stream.com/logo/tv/rr/radio-bruno-tv-it.png" group-title="Musique",710 - Radio Bruno TV
 https://stream4.xdevel.com/video0s975758-473/stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat-stream.com/logo/radio/rr/radio-capital-it.png" group-title="Musique",713 - Radio Capital TV
@@ -318,12 +320,18 @@ https://5929b138b139d.streamlock.net/CompanyTV/smil:CompanyTV.smil/master.m3u8
 https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat-stream.com/logo/radio/rr/radio-italia-trend-it.png" group-title="Musique",726 - Radio Italia Trend TV
 https://radioitalia-samsungitaly.amagi.tv/hls/amagi_hls_data_radioital-radioitaly-samsung-italy/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="La7d.it" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ll/la-7-d-it.svg" group-title="Divertissement",729 - La7d
+https://d15umi5iaezxgx.cloudfront.net/LA7D/CLN/HLS-B/Live.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/radio/rr/rtl_1025.png" group-title="Musique",736 - RTL 102.5 TV
 https://streamcdnb12-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_video.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/radio/rr/radio_zeta_it.png" group-title="Musique",737 - Radio Zeta TV
 https://streamcdnb1-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/XEx1LqlYbNic/playlist_video.m3u8
 #EXTINF:-1 tvg-id="Radiofreccia.it" tvg-logo="https://www.lyngsat-logo.com/logo/radio/rr/radio_freccia_it.png" group-title="Musique",738 - Radiofreccia TV
 https://streamcdnb1-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/playlist_video.m3u8
+#EXTINF:-1 tvg-id="Super.it" tvg-logo="https://www.lyngsat-stream.com/logo/tv/ss/super-it.png" group-title="Jeunesse",747 - Super !
+https://vimnitaly.akamaized.net/hls/live/2094034/super/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rai-news-24-it.svg" group-title="Information",748 - Rai News 24
+http://livetv.ktv.zone/133/play.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/radio/vv/virgin_radio_it.png" group-title="Musique",757 - Virgin Radio TV
 https://live3.msr.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(ew)/manifest.mpd
 #EXTINF:-1 tvg-id="KissKissTV.it" tvg-logo="https://i.imgur.com/pETXOU7.jpg" group-title="Musique",758 - Radio Kiss Kiss TV
