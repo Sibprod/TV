@@ -114,7 +114,7 @@ http://37.235.38.139:4000/play/a0c6
 #EXTINF:-1 tvg-id="ABXplore.be" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-303.png" group-title="Culture-Découverte",78 - ABXplore
 https://mdw-cji.akamaized.net/abxplore/dash/manifest.mpd?hdnts=exp=1667073533~acl=/abxplore/dash/*~hmac=9b6a66942872a1cb48b5fad953a587383c9285f812067b258e8c1d11c7ab842b
 #EXTINF:-1 channel-id="samsung-FRBB1900001FA" tvg-id="FRBB1900001FA" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/34/FRBB1900001FA_20220323T075747.png" group-title="Musique",79 - Clubbing TV
-https://d1j2csarxnwazk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-uze1m6xh4fiyr-ssai-prd/master.m3u8
+https://clubbingtv-oando.amagi.tv/hls/amagi_hls_data_clubbingt-clubbingtv-oando/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="Melody.fr" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-265.png" group-title="Musique",80 - Melody
 https://raw.githubusercontent.com/Sibprod/streams/main/files/Melody/master.m3u8
 #EXTINF:-1 tvg-id="MyZenTV.fr" tvg-logo="https://i.imgur.com/fIi8o0C.png" group-title="Lifestyle",81 - My Zen TV
