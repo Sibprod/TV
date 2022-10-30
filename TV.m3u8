@@ -154,6 +154,10 @@ https://wza.idipper.com/live/_definst_/channel/3005/HISTOIRE_HD/manifest_mvtime.
 https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_3000.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",121 - Le Journal du Golf TV
 https://stream-10.ix7.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHYU36n65ynJKWN-TvryxF32mBH6a6t5A6D-oqosgq_Rx)/dm/3/x6qdjk7/d/live-2.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Culture-Découverte",125 - National Geographic
+http://37.235.38.139:4000/play/a00g
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Culture-Découverte",126 - NatGeo Wild
+http://37.235.38.139:4000/play/a0bq
 #EXTINF:-1 tvg-id="TeleQuebec.ca" tvg-logo="https://i.ibb.co/RY6jbK0/image.png" group-title="Jeunesse",126 - Télé Québec
 https://bcovlive-a.akamaihd.net/575d86160eb143458d51f7ab187a4e68/us-east-1/6101674910001/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalSavoir.ca" tvg-logo="https://www.lyngsat.com/logo/tv/cc/canal-savoir-ca.png" group-title="Culture-Découverte",129 - Savoir.Media
@@ -185,7 +189,7 @@ https://mdw-cji.akamaized.net/crimedistrict/dash/manifest.mpd?hdnts=exp=16672499
 #EXTINF:-1 tvg-id="" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear- .png" group-title="Lifestyle",174 - Lucky Jack
 https://mdw-cji.akamaized.net/luckyjack/dash/manifest.mpd?https://mdw-cji.akamaized.net/luckyjack/dash/manifest.mpd?hdnts=exp=1667250079~acl=/luckyjack/dash/*~hmac=b52003fb669c474ba975584d5a2625fdf1943ad834ea7440c82a3e91d6f1b79c
 #EXTINF:-1 tvg-id="" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-10.png" group-title="Cinéma-Séries",175 - Action
-https://mdw-cji.akamaized.net/action/dash/manifest.mpd?hdnts=exp=1667249998~acl=/action/dash/*~hmac=a0f80b6f56a8e4570108f0021ad728cd3b422a983a781a93a1f35544623678b0
+http://37.235.38.139:4000/play/a048
 #EXTINF:-1 channel-id="samsung-FRBC900001LB" tvg-id="FRBC900001LB" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/59/FRBC900001LB_20220323T080500.png" group-title="Musique",180 - Harmony
 https://amg01736-harmonysecomgro-harmonymelody-samsungfr-n25pe.amagi.tv/playlist/amg01736-harmonysecomgro-harmonymelody-samsungfr/playlist.m3u8
 #EXTINF:-1 channel-id="samsung-FRBA3300063FP" tvg-id="FRBA3300063FP" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/21/FRBA3300063FP_20220323T080053.png" group-title="Lifestyle",181 - My Zen Fit
@@ -193,7 +197,7 @@ https://amg01255-secomcofites-my-myzen-samsungfr-samsungfr-36vwz.amagi.tv/playli
 #EXTINF:-1 channel-id="samsung-FRBA3300064WS" tvg-id="FRBA3300064WS" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/66/FRBA3300064WS_20220323T080041.png" group-title="Culture-Découverte",183 - Museum TV FAST
 https://amg01492-secomsasmediart-museumtv-fr-samsungfr-re8lh.amagi.tv/playlist/amg01492-secomsasmediart-museumtv-fr-samsungfr/playlist.m3u8
 #EXTINF:-1 tvg-id="France2.fr" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-4.png" group-title="Général",200 - France 2
-https://live-ssai.ftven.fr/ZXhwPTE2NjY5OTU5MTB+YWNsPSUyZip+aG1hYz03NzlmNmE3MDQzMDgzMzcxN2UzMTRiYmJjN2ZhOTNiZGI3ZGE1YTg5NTcxOGZhZGM4YmExNDc2YzkzMDNlZDY1/dai/v1/manifest/14bff07f70f2518f32f1c6cc13a91ef489dc83f1/SSARFrance2OTTEMTConfiguration/988ed0bb-57c7-40a2-b8be-776db16843b0/5.m3u8
+
 #EXTINF:-1 tvg-id="LaNouvelleChaineIvorienne.ci" tvg-logo="https://i.imgur.com/I3pv69r.png" group-title="Divertissement",204 - NCI
 https://raw.githubusercontent.com/Sibprod/streams/main/files/NCI/master.m3u8
 #EXTINF:-1 tvg-id="LifeTV.ci" tvg-logo="https://service.canal-overseas.com/image-api/v1/image/8d30972b41c0abf6fedfedd425d60605" group-title="Divertissement",206 - Life TV
@@ -278,6 +282,8 @@ http://www.callofliberty.fr/stream/france.3noa/master.m3u8
 https://www.dailymotion.com/video/xqjkfz#tab_embed
 #EXTINF:-1 tvg-id="" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-1562.png" group-title="Cinéma-Séries",452 - Paramount Channel
 https://wza.idipper.com/live/_definst_/channel/3010/PARAMOUNT_CHANNEL/manifest_mvtime.mpd?tracking=IW99147ac68317488369&ticket=7acdd53f-f984-4725-9482-bb048d224c05
+#EXTINF:-1 tvg-id="" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-54.png" group-title="Général",480 - Comédie+
+http://37.235.38.139:4000/play/a09o
 #EXTINF:-1 tvg-id="CGTNFrench.cn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/CGTN_-_fran%C3%A7ais.png/512px-CGTN_-_fran%C3%A7ais.png" group-title="Information",487 - CGTN Français
 https://livefr.cgtn.com/1000f/prog_index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat-stream.com/radiochannels/fr/France-Inter.html" group-title="Culture-Découverte",501 - France Inter
@@ -458,13 +464,13 @@ https://rtvelivestream6.akamaized.net/segments/la2/la2_main.m3u8
 #EXTINF:-1 tvg-id="TV3CAT.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/TV3CAT.svg/512px-TV3CAT.svg.png" group-title="Général",1803 - TV3 Catalunya
 https://directes-tv-int.ccma.cat/live-origin/tvi-hls/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/antena3.png" group-title="Général",1804 - Antena 3
-http://tvnov.com/es/watch/span/m3u/jiiii/antena3hd.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Général",1805 - Cuatro
 http://livek.mediaset.es/orilinear21/live/linear21/playlist/playlist.isml/ctv.m3u8?hdnts=st=1667073364~exp=1667159764~acl=/*~hmac=bcbb21eed4a76aab561c7731a29703945ca13a1eef812d7bf6c8ac8cb3ee617b
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Général",1806 - Telecinco
 http://tvnov.com/es/watch/span/m3u/jeee/telecinco.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ll/la_sexta_es.png" group-title="Général",1807 - La Sexta
-http://tvnov.com/es/watch/span/m3u/jiiii/lasextahd.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/antena_neox.png" group-title="Divertissement",1818 - Neox
 http://tvnov.com/es/watch/span/m3u/jiiii/neox.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/antena_nova.png" group-title="Divertissement",1819 - Nova
@@ -473,8 +479,12 @@ http://tvnov.com/es/watch/span/m3u/jiiii/nova.m3u8
 http://94.158.219.85:8081/channel/1b2b3f7a/index.m3u8?q=eyJ1c2VySWQiOiJhZG1pbiJ9.y1Ubsu9jmzophdGjATa9tpy7Lwu89ZvlFBjw4Urdy8xwjeVmPLFWo6H0_H7WHjK-ks-W5x32XD_u5Ji0WbOs9A
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Musique",2100 - RTJ
 http://public.acangroup.org:1935/output/rtjtv.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Général",3500 - TV5 Monde Europe
+#EXTINF:-1 tvg-id="" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-232.png" group-title="Général",3500 - TV5 Monde Europe
 http://livetv.ktv.zone/61/play.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-402.png" group-title="Culture-Découverte",4500 - Planète+ Aventure
+http://37.235.38.139:4000/play/a09r
+#EXTINF:-1 tvg-id="" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-662.png" group-title="Culture-Découverte",4501 - Planète+ Crime
+http://37.235.38.139:4000/play/a03a
 #EXTINF:-1 channel-id="samsung-FRBC4000001IO" tvg-id="FRBC4000001IO" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/FRBC4000001IO_20221012T021115.png" group-title="Culture-Découverte", 10001 - Destination Nature
 https://d2lkb3wuytha2.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1sf8g3d5udmzh-ssai-prd/master.m3u8
 #EXTINF:-1 channel-id="samsung-FRAJ3800002W5" tvg-id="FRAJ3800002W5" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/54/FRAJ3800002W5_20220713T034413.png" group-title="Cinéma-Séries",10050 - PTV Ciné
