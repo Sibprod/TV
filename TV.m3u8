@@ -145,11 +145,13 @@ https://wza.idipper.com/live/_definst_/channel/3006/TVBREIZH/manifest_mvtime.mpd
 #EXTINF:-1 tvg-id="UshuaiaTV.fr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/uu/ushuaia-tv-fr.png" group-title="Culture-Découverte",101 - Ushuaïa TV
 https://wza.idipper.com/live/_definst_/channel/3008/USHUAIATV/manifest_mvtime.mpd?tracking=IW99147ac68317488369&ticket=77c5f05f-ca6c-4491-bd35-255e5359fb59
 #EXTINF:-1 tvg-id="CBFT.ca" tvg-logo="https://i.ibb.co/f18g74n/image.png" group-title="Général",102 - Ici Télé
-https://rcavlive.akamaized.net/hls/live/696615/xcancbft/master_3000.m3u8
+http://angeltv.biz:6969/32103210/32103210/30645
 #EXTINF:-1 tvg-id="CFTM.ca" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tva-ca.png" group-title="Général",110 - TVA
-http://crystal.ottc.pro:80/5QFAMZZSJE/3FZCVBKINE/8633
+http://angeltv.biz:6969/32103210/32103210/30685
 #EXTINF:-1 tvg-id="Histoire.fr" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-88.png" group-title="Culture-Découverte",111 - Histoire 
 https://wza.idipper.com/live/_definst_/channel/3005/HISTOIRE_HD/manifest_mvtime.mpd?tracking=IW99147ac68317488369&ticket=19c8ba4c-dac6-4ab6-9a62-af8c412d8669
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Information",115 - LCN
+http://angeltv.biz:6969/32103210/32103210/30652
 #EXTINF:-1 tvg-id="IciRDI.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/ICI_RDI_logo.svg/512px-ICI_RDI_logo.svg.png" group-title="Information",117 - Ici RDI
 https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_3000.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",121 - Le Journal du Golf TV
@@ -433,6 +435,8 @@ https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,magic-alldev.m3u8?y
 https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,kerrang-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/kerrang/
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/muzzik-rs.png" group-title="Musique",956 - Muzzik
 https://muzzik-live.morescreens.com/mts-6/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo=" " group-title="Musique",978 - Now 70's
+http://194.76.186.55:8888/udp/239.12.203.139:1234
 #EXTINF:-1 tvg-id="BFMParis.fr" tvg-logo="http://www.callofliberty.fr/tv/32-BFMPARIS/32-BFMPARIS.png" group-title="Information",1500 - BFM Paris-Île-de-France
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_PARIS/index.m3u8?start=LIVE&end=END
 #EXTINF:-1 tvg-id="BFMLyon.fr" tvg-logo="http://www.callofliberty.fr/tv/33-BFMLYON/33-BFMLYON.png" group-title="Information",1501 - BFM Lyon Métropole
