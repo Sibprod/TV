@@ -163,7 +163,7 @@ https://stream-09.dc3.dailymotion.com/sec(LXtmlI0CiuEL3FS4mE_4F1kkYktX33L5R6Divw
 #EXTINF:-1 tvg-id="PublicSenat.fr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/public-senat-fr.png" group-title="Information",131 - Public Sénat
 https://stream-05.dc3.dailymotion.com/sec(3ftLdWES0pUbXTKGx4u-k0UehG1E5YXFCJZFu726knM3NUPma5BQ49zYTrEUfoZ6)/dm/3/xkxbzc/d/live-2.m3u8
 #EXTINF:-1 tvg-id="Noovo.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Noovo_logo.png/512px-Noovo_logo.png" group-title="Divertissement",135 - Noovo
-https://pe-fa-lp03a.9c9media.com/live/NOOVO/p/hls/00000201/716cf4c845225692/index/de22f34f/live/stream/h264/v1/3500000/manifest.m3u8
+https://pe-ak-lp04a-9c9media.akamaized.net/live/NOOVO/p/dash/00000001/f481c583dbd06b6c/manifest.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cpac-ca.png" group-title="Information",144 - CPAC Français
 https://d7z3qjdsxbwoq.cloudfront.net/groupa/live/f9809cea-1e07-47cd-a94d-2ddd3e1351db/live.isml/.m3u8
 #EXTINF:-1 tvg-id="BFMBusiness.fr" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-1073.png" group-title="Information",150 - BFM Business
