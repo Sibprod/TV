@@ -280,7 +280,7 @@ https://mdw-cji.akamaized.net/mangas/dash/manifest.mpd?hdnts=exp=1667249216~acl=
 https://wza.idipper.com/live/_definst_/channel/3008/USHUAIATV/manifest_mvtime.mpd?tracking=IW99147ac68317488369&ticket=77c5f05f-ca6c-4491-bd35-255e5359fb59
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-38.png" group-title="Lifestyle",BIS72 - Chasse et Pêche
-https://mdw-cji.akamaized.net/chassepeche/dash/manifest.mpd?hdnts=exp=1667249478~acl=/chassepeche/dash/*~hmac=8307ab0ad4733ef45aeb6a174fe76dc4e51f40f5dbefeab48b4d3a72e875377c
+https://mdw-cji.akamaized.net/chassepeche/dash/manifest.mpd?hdnts=exp=1667422155~acl=/chassepeche/dash/*~hmac=f54daf3946fc1ec80159ba27f62c5727a28fbba4cfb9f3a476c4b801458af825
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-63.png" group-title="Culture-Découverte",BIS73 - Science & Vie
 https://mdw-cji.akamaized.net/scienceetvie/dash/manifest.mpd?hdnts=exp=1667249369~acl=/scienceetvie/dash/*~hmac=0f2149c504174a862a5e90cf8d6c7eb10ea7e5ce158658d03e15ed9bf5bd0431
@@ -460,7 +460,7 @@ https://59959724487e3.streamlock.net:443/stream/live/playlist.m3u8
 http://37.235.38.139:4000/play/a0c6
 
 #EXTINF:-1 tvg-id="ABXplore.be" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-303.png" group-title="Culture-Découverte",BE-W15 - ABXplore
-https://mdw-cji.akamaized.net/abxplore/dash/manifest.mpd?hdnts=exp=1667248699~acl=/abxplore/dash/*~hmac=855ff6485816572d62274636b8a60579dd03073f9c7bda685baf362d3990ff4f
+https://mdw-cji.akamaized.net/abxplore/dash/manifest.mpd?hdnts=exp=1667422238~acl=/abxplore/dash/*~hmac=2fea6fe0d43ab9754b2045ee22da592fd636e907d5ca1e2682788ab0dae5c611
 
 #EXTINF:-1 tvg-id="LN24.be" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/LN24_-_Logo.png" group-title="Information",BE-W18 - LN24
 https://hls-origin01-ln24.cdn01.rambla.be/adliveorigin-ln24/_definst_/ApYjOq.smil/playlist.m3u8
@@ -525,10 +525,10 @@ https://live-edge.rtl.lu/radio/rtltodayradio/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://stock.rtl.lu/rtl/1200/play/livestream_rtl-gold_v3.jpg" group-title="Radio",RV-LU34 - RTL Gold
 https://rtlradio-streaming.rtl.lu/radio/rtlgold/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Général",CH-RO01 - RTS Un
+#EXTINF:-1 tvg-id="" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-202.png" group-title="Général",CH-RO01 - RTS Un
 http://livetv.ktv.zone/1/play.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Général",CH-RO02 - RTS Deux
+#EXTINF:-1 tvg-id="" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-183.png" group-title="Général",CH-RO02 - RTS Deux
 http://livetv.ktv.zone/2/play.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Information",CH-RO03 - Léman Bleu
@@ -624,7 +624,10 @@ https://fl001.elpcinc.com/CTB-TV/index.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo=" " tvg-chno="" group-title="Musique",CA- 101 - Stingray Classic Rock
 https://xumo-redbox.ott-channels.stingray.com/101/master.m3u8
 
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Culture-Découverte",AF - L'As TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Divertissement",IP-AF - A2i Music
+https://stream.sen-gt.com/A2iMusic/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Culture-Découverte",IP-AF - L'As TV
 https://helga.iptv2022.com/Planete_Dev_TV/index.m3u8
 
 #EXTINF:-1 tvg-id="BF1.bf" tvg-logo="https://i.imgur.com/GvStyo0.png" group-title="Divertissement",BF02 - BF1
@@ -731,6 +734,9 @@ http://public.acangroup.org:1935/output/rtjtv.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Général",TG07 - Direct 7
 https://helga.iptv2022.com/DIRECT__7/index.m3u8
+
+#EXTINF:-1 tvg-id="Telesud.fr" tvg-logo="https://service.canal-overseas.com/image-api/v1/image/b4da4d9e38738f7883d5fad106e56646" group-title="Afrique",CSAT-CM45 - TeleSud
+https://www.dailymotion.com/video/x7wrxqb
 
 #EXTINF:-1 tvg-id="Business24Africa.ci" tvg-logo="https://service.canal-overseas.com/image-api/v1/image/663d6c877a14fa32b50f45345c9515ce" group-title="Information",CSAT-CI171 - Business TV
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/business24_tv/hls_video/index.m3u8
@@ -1103,3 +1109,6 @@ https://saarland2.iptv-playoutcenter.de/saarland2/saarland2.stream_2/playlist.m3
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Musique",RV-DE-BW03 - SWR3 Visual Radio
 https://swrswr3vr-hls.akamaized.net/hls/live/2018683/swr3vr/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.andorradifusio.ad/images/logo/andorradifusio_logo_22122020091723.png" group-title="Général",AD01 - RTVA
+https://videos.rtva.ad/live/rtva/playlist.m3u8
