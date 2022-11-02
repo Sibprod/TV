@@ -244,7 +244,7 @@ https://www.dailymotion.com/video/x6qdjk7
 https://myowntvchannel.com:3132/stream/play.m3u8
 
 #EXTINF:-1 tvg-id="GolfChannel.fr" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-1166.png" group-title="Sport",BIS38 - Golf Channel
-https://mdw-cji.akamaized.net/golfchannel/dash/manifest.mpd?hdnts=exp=1667249803~acl=/golfchannel/dash/*~hmac=974dcf7328b0476f7af23be8ece23d74fc013660aae286a07b806ac3add966b7
+https://mdw-cji.akamaized.net/golfchannel/dash/manifest.mpd?hdnts=exp=1667508266~acl=/golfchannel/dash/*~hmac=b1967b1002f31ec7ea2f0e3cb03865c3cc4a0a89494058d4d287fb3d2d911ddb
 
 #EXTINF:-1 tvg-id="Equidia.fr" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-64.png" group-title="Sport",BIS39 - Equidia
 http://www.callofliberty.fr/stream/EQUIDIA/master.m3u8
@@ -253,7 +253,7 @@ http://www.callofliberty.fr/stream/EQUIDIA/master.m3u8
 https://wza.idipper.com/live/_definst_/channel/3004/AB_MOTEURS/manifest_mvtime.mpd?tracking=IW99147ac68317488369&ticket=f61a6449-94de-498b-a414-3c29cd8ee656
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-2037.png" group-title="Culture-Découverte",BIS48 - Crime District
-https://mdw-cji.akamaized.net/crimedistrict/dash/manifest.mpd?hdnts=exp=1667249923~acl=/crimedistrict/dash/*~hmac=9b68cbf5b5a814aeb7a84c65872142ab7daa88e580c23abd9ab0a57e3f26857a
+https://mdw-cji.akamaized.net/crimedistrict/dash/manifest.mpd?hdnts=exp=1667508326~acl=/crimedistrict/dash/*~hmac=ee7a4bd94189a144da66c5031af2a9e8d96ab3f2829a09663baa988417636a05
 
 #EXTINF:-1 tvg-id="TVBreizh.fr" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-225.png" group-title="Cinéma-Séries",BIS49 - TV Breizh
 https://wza.idipper.com/live/_definst_/channel/3006/TVBREIZH/manifest_mvtime.mpd?tracking=IW99147ac68317488369&ticket=f5c680ad-a0a7-4f9f-9dbb-58b9186cfa86
@@ -274,25 +274,25 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(FBS)/variant.m3u8
 http://192.168.0.254:52424/freeboxtv/mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=404
 
 #EXTINF:-1 tvg-id="Mangas.fr" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-6.png" group-title="Jeunesse",BIS62 - Mangas
-https://mdw-cji.akamaized.net/mangas/dash/manifest.mpd?hdnts=exp=1667249216~acl=/mangas/dash/*~hmac=55336303e9a1457d736ef5a9f1c1fc45219df33326f90ee1276e2e15bae0836b
+http://192.168.0.254:52424/freeboxtv/mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=
 
 #EXTINF:-1 tvg-id="UshuaiaTV.fr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/uu/ushuaia-tv-fr.png" group-title="Culture-Découverte",BIS63 - Ushuaïa TV
 https://wza.idipper.com/live/_definst_/channel/3008/USHUAIATV/manifest_mvtime.mpd?tracking=IW99147ac68317488369&ticket=77c5f05f-ca6c-4491-bd35-255e5359fb59
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-38.png" group-title="Lifestyle",BIS72 - Chasse et Pêche
-https://mdw-cji.akamaized.net/chassepeche/dash/manifest.mpd?hdnts=exp=1667422155~acl=/chassepeche/dash/*~hmac=f54daf3946fc1ec80159ba27f62c5727a28fbba4cfb9f3a476c4b801458af825
+https://mdw-cji.akamaized.net/chassepeche/dash/manifest.mpd?hdnts=exp=1667508175~acl=/chassepeche/dash/*~hmac=652d49b9bc992558fcfcb48e2a2a5d85f18d1a1a24bb937233c8597c78a17ccd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-63.png" group-title="Culture-Découverte",BIS73 - Science & Vie
-https://mdw-cji.akamaized.net/scienceetvie/dash/manifest.mpd?hdnts=exp=1667249369~acl=/scienceetvie/dash/*~hmac=0f2149c504174a862a5e90cf8d6c7eb10ea7e5ce158658d03e15ed9bf5bd0431
+https://mdw-cji.akamaized.net/scienceetvie/dash/manifest.mpd?hdnts=exp=1667508566~acl=/scienceetvie/dash/*~hmac=413987d9bb0af5586bb9dac330bd9a4f100c3795b7a2b078ed58e33c8813c293
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-12.png" group-title="Culture-Découverte",BIS74 - Animaux
 https://wza.idipper.com/live/_definst_/channel/3003/ANIMAUX_TV/manifest_mvtime.mpd?tracking=IW99147ac68317488369&ticket=34562ca3-5e8b-4835-8885-db3a9101a93b
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-7.png" group-title="Culture-Découverte",BIS75 - Toute l'Histoire
-https://mdw-cji.akamaized.net/toutelhistoire/dash/manifest.mpd?hdnts=exp=1667249575~acl=/toutelhistoire/dash/*~hmac=56f81f54c331e85e91cefc11a3c0f57ade9d3d0b513ec17aeee7ceb23f424bfd
+https://mdw-cji.akamaized.net/toutelhistoire/dash/manifest.mpd?hdnts=exp=1667508617~acl=/toutelhistoire/dash/*~hmac=0a7e4133e06d54cc1cc2e2569857b0122d66cb7dc3480c76379201caf16b1c5b
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-1776.png" group-title="Sport",BIS76 - Trek
-https://mdw-cji.akamaized.net/trekhd/dash/manifest.mpd?hdnts=exp=1667249690~acl=/trekhd/dash/*~hmac=4d43fbcb2b7bddaf5cd0ef61b64a0c597ef80f6c03503ac0f1a2b39549b3942c
+https://mdw-cji.akamaized.net/trekhd/dash/manifest.mpd?hdnts=exp=1667508677~acl=/trekhd/dash/*~hmac=6359d5928f9d61af116537cda795cc671abad04de2b2ecc2aced51f8716fc1ea
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Information",BIS81 - Tech & Co
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TECHANDCO/index.m3u8?start=LIVE&end=END
@@ -304,7 +304,7 @@ https://livefr.cgtn.com/1000f/prog_index.m3u8
 https://wza.idipper.com/live/_definst_/channel/3005/HISTOIRE_HD/manifest_mvtime.mpd?tracking=IW99147ac68317488369&ticket=19c8ba4c-dac6-4ab6-9a62-af8c412d8669
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-1562.png" group-title="Cinéma-Séries",CSAT-FR43 - Paramount Channel
-https://wza.idipper.com/live/_definst_/channel/3010/PARAMOUNT_CHANNEL/manifest_mvtime.mpd?tracking=IW99147ac68317488369&ticket=7acdd53f-f984-4725-9482-bb048d224c05
+https://wza.idipper.com/live/_definst_/channel/3010/PARAMOUNT_CHANNEL/manifest_mvtime.mpd?tracking=IW99147ac68317488369&ticket=a3945274-0a46-44e8-a4f1-6c89fe3b8e2b
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-54.png" group-title="Général",CSAT-FR80 - Comédie+
 http://37.235.38.139:4000/play/a09o
@@ -460,7 +460,7 @@ https://59959724487e3.streamlock.net:443/stream/live/playlist.m3u8
 http://37.235.38.139:4000/play/a0c6
 
 #EXTINF:-1 tvg-id="ABXplore.be" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-303.png" group-title="Culture-Découverte",BE-W15 - ABXplore
-https://mdw-cji.akamaized.net/abxplore/dash/manifest.mpd?hdnts=exp=1667422238~acl=/abxplore/dash/*~hmac=2fea6fe0d43ab9754b2045ee22da592fd636e907d5ca1e2682788ab0dae5c611
+https://mdw-cji.akamaized.net/abxplore/dash/manifest.mpd?hdnts=exp=1667508048~acl=/abxplore/dash/*~hmac=bf4a8ae8c001f5608b03b302e7f47971f61abf5b89804406c8fe9ac297aef9ff
 
 #EXTINF:-1 tvg-id="LN24.be" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/LN24_-_Logo.png" group-title="Information",BE-W18 - LN24
 https://hls-origin01-ln24.cdn01.rambla.be/adliveorigin-ln24/_definst_/ApYjOq.smil/playlist.m3u8
