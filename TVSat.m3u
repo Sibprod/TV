@@ -57,7 +57,7 @@ http://livetv.ktv.zone/6/play.m3u8
 #EXTINF:0,045 - Planète+
 #EXTVLCOPT:network-caching=1000
 http://37.235.38.139:4000/play/a00k
-#EXTINF:0,947 - Canal J
+#EXTINF:0,047 - Canal J
 http://livetv.ktv.zone/176/play.m3u8
 #EXTINF:0,048 - LCI
 http://livetv.ktv.zone/28/play.m3u8
