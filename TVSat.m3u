@@ -191,6 +191,9 @@ http://81.250.140.218:80/stream/euronews/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="", TV Suisse Plus
 https://185.125.25.66:443/livecast/compack_media_1/index.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="", TVM3
+https://185.125.25.66:443/livecast/tvm3/index.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="", Canal 9
 https://185.125.25.66:443/livecast/livehd/index.m3u8
 
