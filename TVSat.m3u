@@ -140,11 +140,14 @@ http://192.168.0.254:52424/freeboxtv/212.27.38.253/fbxtv_pub/stream?namespace=1&
 #EXTINF:-1 tvg-logo="https://mytelevision.tv/assets/img/chaines/i24.png" group-title="", i24 News
 http://81.250.140.218:80/stream/i24NEWS/master.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="", TiJi
-http://livetv.ktv.zone/175/play.m3u8  
-
 #EXTINF:-1 tvg-logo="" group-title="", Toute l'Histoire
 http://192.168.0.254:52424/freeboxtv/212.27.38.253/fbxtv_pub/stream?namespace=1&service=250
+
+#EXTINF:-1 tvg-logo="" group-title="", Histoire
+http://192.168.0.254:52424/freeboxtv/212.27.38.253/fbxtv_pub/stream?namespace=1&service=235
+
+#EXTINF:-1 tvg-logo="" group-title="", TiJi
+http://livetv.ktv.zone/175/play.m3u8  
 
 #EXTINF:-1 tvg-logo="" group-title="", La Une
 http://185.236.229.31:9981/play/a030
