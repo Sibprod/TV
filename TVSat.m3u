@@ -203,6 +203,27 @@ https://185.125.25.66:443/livecast/latele/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="", Telebielingue
 https://185.125.25.66:443/livecast/telebielingue/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://mytelevision.tv/assets/img/chaines/ortb.png" group-title="", ORTB
+https://strhls.streamakaci.tv/ortb/ortb1-multi/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",BB24
+https://185.125.25.66:443/livecast/bb24-1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://mytelevision.tv/assets/img/chaines/nci.png" group-title="", NCI
+https://nci-live.secure2.footprint.net/nci/nci.isml/.m3u8
+
+#EXTINF:-1 tvg-logo="https://mytelevision.tv/assets/img/chaines/d5tv.png" group-title="",D5 TV
+https://213.152.6.232:443/d5tv/smil:d5tv.smil/index.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="",Life TV
+https://strhlslb01.streamakaci.tv/str_lifetv_lifetv/str_lifetv_multi/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://mytelevision.tv/assets/img/chaines/d5music.png" group-title="",D5 Music
+https://213.152.6.232:443/d5music/smil:d5music.smil/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://mytelevision.tv/assets/img/chaines/mycomedy.png" group-title="",My Comedy
+https://213.152.6.232:443/mycomedy/smil:mycomedy.smil/index.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="", SRF 1
 http://livetv.ktv.zone/128/play.m3u8 
 
