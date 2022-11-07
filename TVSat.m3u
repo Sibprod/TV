@@ -149,6 +149,23 @@ http://192.168.0.254:52424/freeboxtv/212.27.38.253/fbxtv_pub/stream?namespace=1&
 #EXTINF:-1 tvg-logo="" group-title="", TiJi
 http://livetv.ktv.zone/175/play.m3u8  
 
+#EXTINF:-1 tvg-logo="" group-title="", M6 (test)
+https://raw.githubusercontent.com/Sibprod/streams/main/files/M6/master.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="", W9 (test)
+https://raw.githubusercontent.com/Sibprod/streams/main/files/W9/master.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="", 6Ter (test)
+https://raw.githubusercontent.com/Sibprod/streams/main/files/6Ter/master.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",Paris Première (test)
+https://raw.githubusercontent.com/Sibprod/streams/main/files/PP/master.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="", Teva (test)
+https://raw.githubusercontent.com/Sibprod/streams/main/files/Teva/master.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="" group-title="", La Une
 http://185.236.229.31:9981/play/a030
 
@@ -235,8 +252,6 @@ https://213.152.6.232:443/d5tv/smil:d5tv.smil/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgs.search.brave.com/Gy07HIiGq9Hj8fbxuW9q8xjkrkyOJe-fyGWKuG3mkwc/rs:fit:900:900:1/g:ce/aHR0cHM6Ly95dDMu/Z2dwaHQuY29tL2Ev/QUFUWEFKeHhwUUlO/cGNKaW1Hckc1YkZI/bUVJRXNleVNJbmRk/S3ZHNWc2VHM9czkw/MC1jLWstYzB4ZmZm/ZmZmZmYtbm8tcmot/bW8" group-title="",Life TV
 https://strhlslb01.streamakaci.tv/str_lifetv_lifetv/str_lifetv_multi/playlist.m3u8
-
-
 
 #EXTINF:-1 tvg-logo="https://mytelevision.tv/assets/img/chaines/d5music.png" group-title="",D5 Music
 https://213.152.6.232:443/d5music/smil:d5music.smil/index.m3u8
