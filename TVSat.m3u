@@ -80,6 +80,9 @@ http://livetv.ktv.zone/28/play.m3u8
 #EXTINF:-1 tvg-logo="https://mytelevision.tv/assets/img/chaines/franceinfo.png" group-title="", France Info (TV)
 http://livetv.ktv.zone/29/play.m3u8  
 
+#EXTINF:-1 tvg-logo="" group-title="",RTL9
+http://192.168.0.254:52424/freeboxtv/212.27.38.253/fbxtv_pub/stream?namespace=1&service=210
+
 #EXTINF:-1 tvg-logo="https://mytelevision.tv/assets/img/chaines/bfmbusiness.png" group-title="", BFM Business
 http://192.168.0.254:52424/freeboxtv/212.27.38.253/fbxtv_pub/stream?namespace=1&service=897
 
