@@ -125,8 +125,11 @@ http://livetv.ktv.zone/61/play.m3u8
 #EXTINF:-1 tvg-logo="" group-title="", Antenne Réunion
 http://81.250.140.218:80/stream/AntenneREUNION/master.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="", TNTV
-http://192.168.0.254:52424/freeboxtv/212.27.38.253/fbxtv_pub/stream?namespace=1&service=1294
+#EXTINF:-1 tvg-logo="http://www.callofliberty.fr/tv/46-TNTV/46-TNTV.png" group-title="", TNTV
+http://81.250.140.218:80/stream/TNTV/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://viaatv.tv/fileadmin/via_main/img/logos/LOGO_ATV_Web.png" group-title="",viàATV
+https://94.103.137.198:443/streamer02/hls/ATV_DIRECT_EV_111018_medium/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="", Equidia
 http://192.168.0.254:52424/freeboxtv/212.27.38.253/fbxtv_pub/stream?namespace=1&service=212
@@ -215,6 +218,9 @@ https://strhls.streamakaci.tv/ortb/ortb1-multi/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ortb.bj/storage/2020/02/bb24.png" group-title="",BB24
 https://185.125.25.66:443/livecast/bb24-1/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.adotv-fm.bj/img/logo-ado-tv-slogan-ok.png" group-title="",Ado TV
+https://207.180.219.36:443/ado-tv-live/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://mytelevision.tv/assets/img/chaines/nci.png" group-title="", NCI
 https://nci-live.secure2.footprint.net/nci/nci.isml/.m3u8
 
@@ -223,6 +229,8 @@ https://213.152.6.232:443/d5tv/smil:d5tv.smil/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgs.search.brave.com/Gy07HIiGq9Hj8fbxuW9q8xjkrkyOJe-fyGWKuG3mkwc/rs:fit:900:900:1/g:ce/aHR0cHM6Ly95dDMu/Z2dwaHQuY29tL2Ev/QUFUWEFKeHhwUUlO/cGNKaW1Hckc1YkZI/bUVJRXNleVNJbmRk/S3ZHNWc2VHM9czkw/MC1jLWstYzB4ZmZm/ZmZmZmYtbm8tcmot/bW8" group-title="",Life TV
 https://strhlslb01.streamakaci.tv/str_lifetv_lifetv/str_lifetv_multi/playlist.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://mytelevision.tv/assets/img/chaines/d5music.png" group-title="",D5 Music
 https://213.152.6.232:443/d5music/smil:d5music.smil/index.m3u8
