@@ -1,85 +1,85 @@
 #EXTM3U
 #EXTM3U
 #EXTINF:-1 tvg-logo="" group-title="", TF1
-http://178.250.208.141/3/play.m3u8  
+http://livetv.ktv.zone/3/play.m3u8  
 
 #EXTINF:-1 tvg-logo="" group-title="", France 2
-http://178.250.208.141/4/play.m3u8 
+http://livetv.ktv.zone/4/play.m3u8 
 
 #EXTINF:-1 tvg-logo="" group-title="", France 3
-http://178.250.208.141/5/play.m3u8 
+http://livetv.ktv.zone/5/play.m3u8 
 
 #EXTINF:-1 tvg-logo="" group-title="", France 4
-http://178.250.208.141/16/play.m3u8  
+http://livetv.ktv.zone/16/play.m3u8  
 
 #EXTINF:-1 tvg-logo="" group-title="", France 5
-http://178.250.208.141/7/play.m3u8  
+http://livetv.ktv.zone/7/play.m3u8  
 
 #EXTINF:-1 tvg-logo="" group-title="", M6 
-http://178.250.208.141/8/play.m3u8   
+http://livetv.ktv.zone/8/play.m3u8   
 
 #EXTINF:-1 tvg-logo="" group-title="", ARTE France
-http://178.250.208.141/9/play.m3u8  
+http://livetv.ktv.zone/9/play.m3u8  
 
 #EXTINF:-1 tvg-logo="" group-title="", C8
-http://178.250.208.141/10/play.m3u8  
+http://livetv.ktv.zone/10/play.m3u8  
 
 #EXTINF:-1 tvg-logo="" group-title="", W9
-http://178.250.208.141/11/play.m3u8  
+http://livetv.ktv.zone/11/play.m3u8  
 
 #EXTINF:-1 tvg-logo="" group-title="", TMC
-http://178.250.208.141/12/play.m3u8  
+http://livetv.ktv.zone/12/play.m3u8  
 
 #EXTINF:-1 tvg-logo="" group-title="", TFX
-http://178.250.208.141/13/play.m3u8  
+http://livetv.ktv.zone/13/play.m3u8  
 
 #EXTINF:-1 tvg-logo="" group-title="", NRJ 12
-http://178.250.208.141/14/play.m3u8 
+http://livetv.ktv.zone/14/play.m3u8 
 
 #EXTINF:-1 tvg-logo="" group-title="", LCP-AN
-http://178.250.208.141/15/play.m3u8   
+http://livetv.ktv.zone/15/play.m3u8   
 
 #EXTINF:-1 tvg-logo="" group-title="", LCP 100%
 http://192.168.0.254:52424/freeboxtv/212.27.38.253/fbxtv_pub/stream?namespace=1&service=688
 
 #EXTINF:-1 tvg-logo="" group-title="", BFM TV
-http://178.250.208.141/17/play.m3u8 
+http://livetv.ktv.zone/17/play.m3u8 
 
 #EXTINF:-1 tvg-logo="" group-title="", CNews
-http://178.250.208.141/18/play.m3u8  
+http://livetv.ktv.zone/18/play.m3u8  
 
 #EXTINF:-1 tvg-logo="" group-title="", CStar
-http://178.250.208.141/19/play.m3u8  
+http://livetv.ktv.zone/19/play.m3u8  
 
 #EXTINF:-1 tvg-logo="" group-title="", Gulli
-http://178.250.208.141/20/play.m3u8  
+http://livetv.ktv.zone/20/play.m3u8  
 
 #EXTINF:-1 tvg-logo="" group-title="", Public Sénat
 http://192.168.0.254:52424/freeboxtv/212.27.38.253/fbxtv_pub/stream?namespace=1&service=692
 
 #EXTINF:-1 tvg-logo="" group-title="", TF1 Séries & Films
-http://178.250.208.141/22/play.m3u8  
+http://livetv.ktv.zone/22/play.m3u8  
 
 #EXTINF:-1 tvg-logo="" group-title="", L'Équipe
-http://178.250.208.141/23/play.m3u8  
+http://livetv.ktv.zone/23/play.m3u8  
 
 #EXTINF:-1 tvg-logo="" group-title="", 6Ter
-http://178.250.208.141/24/play.m3u8 
-
-#EXTINF:-1 tvg-logo="" group-title="", RMC Story
-http://178.250.208.141/25/play.m3u8 
+http://livetv.ktv.zone/24/play.m3u8 
 
 #EXTINF:-1 tvg-logo="" group-title="", RMC Découverte
-http://178.250.208.141/26/play.m3u8 
+http://livetv.ktv.zone/25/play.m3u8 
+
+#EXTINF:-1 tvg-logo="" group-title="", RMC Découverte
+http://livetv.ktv.zone/26/play.m3u8 
 
 #EXTINF:-1 tvg-logo="" group-title="", Chérie 25
-http://178.250.208.141/27/play.m3u8  
+http://livetv.ktv.zone/27/play.m3u8  
 
 #EXTINF:-1 tvg-logo="" group-title="", LCI
-http://178.250.208.141/28/play.m3u8 
+http://livetv.ktv.zone/28/play.m3u8 
 
 #EXTINF:-1 tvg-logo="" group-title="", France Info (TV)
-http://178.250.208.141/29/play.m3u8  
+http://livetv.ktv.zone/29/play.m3u8  
 
 #EXTINF:-1 tvg-logo="" group-title="", BFM Business
 http://192.168.0.254:52424/freeboxtv/212.27.38.253/fbxtv_pub/stream?namespace=1&service=897
@@ -118,10 +118,10 @@ http://192.168.0.254:52424/freeboxtv/212.27.38.253/fbxtv_pub/stream?namespace=1&
 https://80.94.97.78/live/prod_720/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="", France 24 (Français)
-http://178.250.208.141/56/play.m3u8 
+http://livetv.ktv.zone/56/play.m3u8 
 
 #EXTINF:-1 tvg-logo="" group-title="", TV5 Monde (Europe)
-http://178.250.208.141/61/play.m3u8
+http://livetv.ktv.zone/61/play.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="", TNTV
 http://192.168.0.254:52424/freeboxtv/212.27.38.253/fbxtv_pub/stream?namespace=1&service=1294
@@ -154,10 +154,10 @@ http://185.236.229.31:9981/play/a02y
 http://37.235.38.139:4000/play/a0c6
 
 #EXTINF:-1 tvg-logo="" group-title="", RTS Un
-http://178.250.208.141/1/play.m3u8 
+http://livetv.ktv.zone/1/play.m3u8 
 
 #EXTINF:-1 tvg-logo="" group-title="", RTS Deux
-http://178.250.208.141/2/play.m3u8
+http://livetv.ktv.zone/2/play.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="", Léman Bleu
 https://185.125.25.66:443/livecast/naxoo/index.m3u8
@@ -190,13 +190,13 @@ https://185.125.25.66:443/livecast/latele/index.m3u8
 https://185.125.25.66:443/livecast/telebielingue/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="", SRF 1
-http://178.250.208.141/128/play.m3u8 
+http://livetv.ktv.zone/128/play.m3u8 
 
 #EXTINF:-1 tvg-logo="" group-title="", SRF Zwei
 http://185.236.229.31:9981/play/a00i
 
 #EXTINF:-1 tvg-logo="" group-title="", 3 Sat
-http://178.250.208.141/69/play.m3u8 
+http://livetv.ktv.zone/69/play.m3u8 
 
 #EXTINF:-1 tvg-logo="" group-title="", SRF info
 http://185.236.229.31:9981/play/a00l
@@ -220,7 +220,7 @@ http://62.2.85.68:39981/play/a01s
 http://62.2.85.68:39981/play/a02k
 
 #EXTINF:-1 tvg-logo="" group-title="", KiKa
-http://178.250.208.141/68/play.m3u8
+http://livetv.ktv.zone/68/play.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",RTL II 
 http://livetv.ktv.zone/67/play.m3u8
@@ -229,19 +229,19 @@ http://livetv.ktv.zone/67/play.m3u8
 http://livetv.ktv.zone/65/play.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="", RSI La 1
-http://178.250.208.141/129/play.m3u8
+http://livetv.ktv.zone/129/play.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="", RSI La 2
 http://185.236.229.31:9981/play/a00n
 
 #EXTINF:-1 tvg-logo="" group-title="", RAI Uno
-http://178.250.208.141/130/play.m3u8 
+http://livetv.ktv.zone/130/play.m3u8 
 
 #EXTINF:-1 tvg-logo="" group-title="", RAI Due
-http://178.250.208.141/131/play.m3u8
+http://livetv.ktv.zone/131/play.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="", RAI Tre
-http://178.250.208.141/132/play.m3u8 
+http://livetv.ktv.zone/132/play.m3u8 
 
 #EXTINF:-1 tvg-logo="" group-title="", TVE 24h
 http://45.92.69.72:8000/play/a0jm
