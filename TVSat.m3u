@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://mytelevision.tv/assets/img/chaines/tf1.png" group-title="", TF1
-http://livetv.ktv.zone/3/play.m3u8  
+https://raw.githubusercontent.com/Sibprod/streams/main/files/TF1/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://mytelevision.tv/assets/img/chaines/france2.png" group-title="", France 2
 http://livetv.ktv.zone/4/play.m3u8 
@@ -15,22 +15,22 @@ http://livetv.ktv.zone/16/play.m3u8
 http://livetv.ktv.zone/7/play.m3u8  
 
 #EXTINF:-1 tvg-logo="https://mytelevision.tv/assets/img/chaines/m6.png" group-title="", M6 
-http://livetv.ktv.zone/8/play.m3u8   
+https://raw.githubusercontent.com/Sibprod/streams/main/files/M6/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://mytelevision.tv/assets/img/chaines/arte.png" group-title="", ARTE France
-http://livetv.ktv.zone/9/play.m3u8  
+https://raw.githubusercontent.com/Sibprod/streams/main/files/ARTE/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://mytelevision.tv/assets/img/chaines/c8.png" group-title="", C8
 http://livetv.ktv.zone/10/play.m3u8  
 
 #EXTINF:-1 tvg-logo="https://mytelevision.tv/assets/img/chaines/w9.png" group-title="", W9
-http://livetv.ktv.zone/11/play.m3u8  
+https://raw.githubusercontent.com/Sibprod/streams/main/files/W9/master.m3u8  
 
 #EXTINF:-1 tvg-logo="https://mytelevision.tv/assets/img/chaines/tmc.png" group-title="", TMC
-http://livetv.ktv.zone/12/play.m3u8  
+https://raw.githubusercontent.com/Sibprod/streams/main/files/TMC/master.m3u8 
 
 #EXTINF:-1 tvg-logo="https://mytelevision.tv/assets/img/chaines/tfx.png" group-title="", TFX
-http://livetv.ktv.zone/13/play.m3u8  
+https://raw.githubusercontent.com/Sibprod/streams/main/files/TFX/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://mytelevision.tv/assets/img/chaines/nrj12.png" group-title="", NRJ 12
 http://livetv.ktv.zone/14/play.m3u8 
@@ -51,13 +51,13 @@ http://livetv.ktv.zone/18/play.m3u8
 http://livetv.ktv.zone/19/play.m3u8  
 
 #EXTINF:-1 tvg-logo="https://mytelevision.tv/assets/img/chaines/gulli.png" group-title="", Gulli
-http://livetv.ktv.zone/20/play.m3u8  
+https://raw.githubusercontent.com/Sibprod/streams/main/files/6Ter/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://mytelevision.tv/assets/img/chaines/publicsenat.png" group-title="", Public Sénat
 http://192.168.0.254:52424/freeboxtv/212.27.38.253/fbxtv_pub/stream?namespace=1&service=692
 
 #EXTINF:-1 tvg-logo="https://mytelevision.tv/assets/img/chaines/tf1series.png" group-title="", TF1 Séries & Films
-http://livetv.ktv.zone/22/play.m3u8  
+https://raw.githubusercontent.com/Sibprod/streams/main/files/TF1_Series_Films/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://mytelevision.tv/assets/img/chaines/lequipe.png" group-title="", L'Équipe
 http://livetv.ktv.zone/23/play.m3u8  
@@ -75,7 +75,7 @@ http://livetv.ktv.zone/26/play.m3u8
 http://livetv.ktv.zone/27/play.m3u8  
 
 #EXTINF:-1 tvg-logo="https://mytelevision.tv/assets/img/chaines/lci.png" group-title="", LCI
-http://livetv.ktv.zone/28/play.m3u8 
+https://raw.githubusercontent.com/Sibprod/streams/main/files/LCI/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://mytelevision.tv/assets/img/chaines/franceinfo.png" group-title="", France Info (TV)
 http://livetv.ktv.zone/29/play.m3u8  
@@ -102,7 +102,7 @@ http://192.168.0.254:52424/freeboxtv/212.27.38.253/fbxtv_pub/stream?namespace=1&
 http://livetv.ktv.zone/6/play.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="", Paris Première
-http://192.168.0.254:52424/freeboxtv/212.27.38.253/fbxtv_pub/stream?namespace=1&service=213
+https://raw.githubusercontent.com/Sibprod/streams/main/files/PP/master.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="", AB1
 http://192.168.0.254:52424/freeboxtv/212.27.38.253/fbxtv_pub/stream?namespace=1&service=211
@@ -140,6 +140,9 @@ http://192.168.0.254:52424/freeboxtv/212.27.38.253/fbxtv_pub/stream?namespace=1&
 #EXTINF:-1 tvg-logo="https://mytelevision.tv/assets/img/chaines/i24.png" group-title="", i24 News
 http://81.250.140.218:80/stream/i24NEWS/master.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="", Téva
+https://raw.githubusercontent.com/Sibprod/streams/main/files/Teva/master.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="", Toute l'Histoire
 http://192.168.0.254:52424/freeboxtv/212.27.38.253/fbxtv_pub/stream?namespace=1&service=250
 
@@ -148,23 +151,6 @@ http://192.168.0.254:52424/freeboxtv/212.27.38.253/fbxtv_pub/stream?namespace=1&
 
 #EXTINF:-1 tvg-logo="" group-title="", TiJi
 http://livetv.ktv.zone/175/play.m3u8  
-
-#EXTINF:-1 tvg-logo="" group-title="", M6 (test)
-https://raw.githubusercontent.com/Sibprod/streams/main/files/M6/master.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="", W9 (test)
-https://raw.githubusercontent.com/Sibprod/streams/main/files/W9/master.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="", 6Ter (test)
-https://raw.githubusercontent.com/Sibprod/streams/main/files/6Ter/master.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="",Paris Première (test)
-https://raw.githubusercontent.com/Sibprod/streams/main/files/PP/master.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="", Teva (test)
-https://raw.githubusercontent.com/Sibprod/streams/main/files/Teva/master.m3u8
-
-
 
 #EXTINF:-1 tvg-logo="" group-title="", La Une
 http://185.236.229.31:9981/play/a030
