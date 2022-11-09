@@ -3,16 +3,16 @@
 https://raw.githubusercontent.com/Sibprod/streams/main/files/TF1/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://mytelevision.tv/assets/img/chaines/france2.png" group-title="", France 2
-http://livetv.ktv.zone/4/play.m3u8 
+https://raw.githubusercontent.com/Sibprod/streams/main/files/France_2/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://mytelevision.tv/assets/img/chaines/france3.png" group-title="", France 3
-http://livetv.ktv.zone/5/play.m3u8 
+https://raw.githubusercontent.com/Sibprod/streams/main/files/France_3/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://mytelevision.tv/assets/img/chaines/france4.png" group-title="", France 4
-http://livetv.ktv.zone/16/play.m3u8  
+https://raw.githubusercontent.com/Sibprod/streams/main/files/France_4/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://mytelevision.tv/assets/img/chaines/france5.png" group-title="", France 5
-http://livetv.ktv.zone/7/play.m3u8  
+https://raw.githubusercontent.com/Sibprod/streams/main/files/France_5/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://mytelevision.tv/assets/img/chaines/m6.png" group-title="", M6 
 https://raw.githubusercontent.com/Sibprod/streams/main/files/M6/master.m3u8
@@ -78,7 +78,7 @@ http://livetv.ktv.zone/27/play.m3u8
 https://raw.githubusercontent.com/Sibprod/streams/main/files/LCI/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://mytelevision.tv/assets/img/chaines/franceinfo.png" group-title="", France Info (TV)
-http://livetv.ktv.zone/29/play.m3u8  
+https://raw.githubusercontent.com/Sibprod/streams/main/files/France_Info/master_TV.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",RTL9
 http://192.168.0.254:52424/freeboxtv/212.27.38.253/fbxtv_pub/stream?namespace=1&service=210
@@ -111,7 +111,7 @@ http://192.168.0.254:52424/freeboxtv/212.27.38.253/fbxtv_pub/stream?namespace=1&
 http://37.235.38.139:4000/play/a00k
 
 #EXTINF:-1 tvg-logo="" group-title="", Canal J
-http://livetv.ktv.zone/176/play.m3u8 
+https://raw.githubusercontent.com/Sibprod/streams/main/files/Canal_J/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://mytelevision.tv/assets/img/chaines/tv5monde.png" group-title="", TV5 Monde (FBSM)
 http://192.168.0.254:52424/freeboxtv/212.27.38.253/fbxtv_pub/stream?namespace=1&service=206
@@ -150,7 +150,7 @@ http://192.168.0.254:52424/freeboxtv/212.27.38.253/fbxtv_pub/stream?namespace=1&
 http://192.168.0.254:52424/freeboxtv/212.27.38.253/fbxtv_pub/stream?namespace=1&service=235
 
 #EXTINF:-1 tvg-logo="" group-title="", TiJi
-http://livetv.ktv.zone/175/play.m3u8  
+https://raw.githubusercontent.com/Sibprod/streams/main/files/TiJi/master.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="", La Une
 http://185.236.229.31:9981/play/a030
