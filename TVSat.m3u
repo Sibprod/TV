@@ -162,10 +162,10 @@ http://185.236.229.31:9981/play/a031
 http://185.236.229.31:9981/play/a02z
 
 #EXTINF:-1 tvg-logo="" group-title="", Club RTL
-http://185.236.229.31:9981/play/a032
+https://github.com/Sibprod/streams/raw/main/files/Club_RTL/master.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="", Plug-RTL
-http://185.236.229.31:9981/play/a033
+https://github.com/Sibprod/streams/raw/main/files/Plug_RTL/master.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="", La Trois
 http://185.236.229.31:9981/play/a02y
