@@ -41,6 +41,9 @@ http://livetv.ktv.zone/15/play.m3u8
 #EXTINF:-1 tvg-logo="https://mytelevision.tv/assets/img/chaines/lcp.png" group-title="", LCP 100%
 http://192.168.0.254:52424/freeboxtv/212.27.38.253/fbxtv_pub/stream?namespace=1&service=688
 
+#EXTINF:-1 tvg-logo="https://mytelevision.tv/assets/img/chaines/publicsenat.png" group-title="", Public Sénat
+http://192.168.0.254:52424/freeboxtv/212.27.38.253/fbxtv_pub/stream?namespace=1&service=692
+
 #EXTINF:-1 tvg-logo="https://mytelevision.tv/assets/img/chaines/bfmtv.png" group-title="", BFM TV
 https://raw.githubusercontent.com/Sibprod/streams/main/files/BFM_TV/master.m3u8
 
@@ -53,8 +56,8 @@ http://livetv.ktv.zone/19/play.m3u8
 #EXTINF:-1 tvg-logo="https://mytelevision.tv/assets/img/chaines/gulli.png" group-title="", Gulli
 https://raw.githubusercontent.com/Sibprod/streams/main/files/Gulli/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://mytelevision.tv/assets/img/chaines/publicsenat.png" group-title="", Public Sénat
-http://192.168.0.254:52424/freeboxtv/212.27.38.253/fbxtv_pub/stream?namespace=1&service=692
+#EXTINF:-1 tvg-logo="https://mytelevision.tv/assets/img/chaines/france24.png" group-title="", France 24 (Français)
+http://81.250.140.218:80/stream/FRANCE24/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://mytelevision.tv/assets/img/chaines/tf1series.png" group-title="", TF1 Séries & Films
 https://raw.githubusercontent.com/Sibprod/streams/main/files/TF1_Series_Films/master.m3u8
@@ -114,16 +117,40 @@ http://37.235.38.139:4000/play/a00k
 https://raw.githubusercontent.com/Sibprod/streams/main/files/Canal_J/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://mytelevision.tv/assets/img/chaines/tv5monde.png" group-title="", TV5 Monde (FBSM)
-http://192.168.0.254:52424/freeboxtv/212.27.38.253/fbxtv_pub/stream?namespace=1&service=206
+https://raw.githubusercontent.com/Sibprod/streams/main/files/TV5_Monde_FBSM/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://mytelevision.tv/assets/img/chaines/i24.png" group-title="", i24 News
+https://raw.githubusercontent.com/Sibprod/streams/main/files/i24_News_FR/master.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="", Téva
+https://raw.githubusercontent.com/Sibprod/streams/main/files/Teva/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://videotron.com/sites/default/files/styles/original/public/dxp-channels/media/logo/M6I.webp" group-title="",M6 International
+https://raw.githubusercontent.com/Sibprod/streams/main/files/M6_International/master.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="", TiJi
+https://raw.githubusercontent.com/Sibprod/streams/main/files/TiJi/master.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="", Equidia
+https://raw.githubusercontent.com/Sibprod/streams/main/files/Equidia/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://mytelevision.tv/assets/img/chaines/monacochannel.png" group-title="", Monaco Info
 https://80.94.97.78/live/prod_720/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://mytelevision.tv/assets/img/chaines/france24.png" group-title="", France 24 (Français)
-http://81.250.140.218:80/stream/FRANCE24/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Toute l'Histoire
+http://192.168.0.254:52424/freeboxtv/212.27.38.253/fbxtv_pub/stream?namespace=1&service=250
 
 #EXTINF:-1 tvg-logo="" group-title="", TV5 Monde (Europe)
 http://livetv.ktv.zone/61/play.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Information", Tech & Co
+https://raw.githubusercontent.com/Sibprod/streams/main/files/Tech_and_Co/master.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="", Histoire TV
+http://192.168.0.254:52424/freeboxtv/212.27.38.253/fbxtv_pub/stream?namespace=1&service=235
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv5monde-info-fr.png" group-title="",TV5 Monde Info
+https://raw.githubusercontent.com/Sibprod/streams/main/files/TV5_Monde_Info/master.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="", Antenne Réunion
 http://81.250.140.218:80/stream/AntenneREUNION/master.m3u8
@@ -133,24 +160,6 @@ http://81.250.140.218:80/stream/TNTV/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://viaatv.tv/fileadmin/via_main/img/logos/LOGO_ATV_Web.png" group-title="",viàATV
 https://94.103.137.198:443/streamer02/hls/ATV_DIRECT_EV_111018_medium/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="", Equidia
-https://raw.githubusercontent.com/Sibprod/streams/main/files/Equidia/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://mytelevision.tv/assets/img/chaines/i24.png" group-title="", i24 News
-https://raw.githubusercontent.com/Sibprod/streams/main/files/i24_News_FR/master.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="", Téva
-https://raw.githubusercontent.com/Sibprod/streams/main/files/Teva/master.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="", Toute l'Histoire
-http://192.168.0.254:52424/freeboxtv/212.27.38.253/fbxtv_pub/stream?namespace=1&service=250
-
-#EXTINF:-1 tvg-logo="" group-title="", Histoire
-http://192.168.0.254:52424/freeboxtv/212.27.38.253/fbxtv_pub/stream?namespace=1&service=235
-
-#EXTINF:-1 tvg-logo="" group-title="", TiJi
-https://raw.githubusercontent.com/Sibprod/streams/main/files/TiJi/master.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="", La Une
 http://185.236.229.31:9981/play/a030
@@ -178,6 +187,12 @@ https://141.95.203.147:443/stream/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://mytelevision.tv/assets/img/chaines/ln24.png" group-title="",LN24
 https://live.digiteka.com/1/bEg0RmFLb1JMYXRI/dGhqbmIw/hls/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/radio/bb/bel-rtl-be.png" group-title="", BEL RTL
+https://raw.githubusercontent.com/Sibprod/streams/main/files/Bel_RTL/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/radio/rr/radio_contact_be.png" group-title="", Radio Contact Vision
+https://raw.githubusercontent.com/Sibprod/streams/main/files/Contact_Vision/master.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="", RTS Un
 http://livetv.ktv.zone/1/play.m3u8 
@@ -218,8 +233,14 @@ https://185.125.25.66:443/livecast/latele/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="", Telebielingue
 https://185.125.25.66:443/livecast/telebielingue/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tva-ca.png" group-title="", TVA
+https://raw.githubusercontent.com/Sibprod/streams/main/files/TVA/master.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.callofliberty.fr/tv/48-TeleQuebec/48-TeleQuebec.png" group-title="", Télé Québec
-http://81.250.140.218:80/stream/TeleQuebec/master.m3u8
+https://raw.githubusercontent.com/Sibprod/streams/main/files/Télé_Québec/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ll/lcn_ca.png" group-title="",LCN
+https://github.com/Sibprod/streams/blob/main/files/LCN/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://mytelevision.tv/assets/img/chaines/ortb.png" group-title="", ORTB
 https://strhls.streamakaci.tv/ortb/ortb1-multi/playlist.m3u8
@@ -238,6 +259,9 @@ https://213.152.6.232:443/d5tv/smil:d5tv.smil/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgs.search.brave.com/Gy07HIiGq9Hj8fbxuW9q8xjkrkyOJe-fyGWKuG3mkwc/rs:fit:900:900:1/g:ce/aHR0cHM6Ly95dDMu/Z2dwaHQuY29tL2Ev/QUFUWEFKeHhwUUlO/cGNKaW1Hckc1YkZI/bUVJRXNleVNJbmRk/S3ZHNWc2VHM9czkw/MC1jLWstYzB4ZmZm/ZmZmZmYtbm8tcmot/bW8" group-title="",Life TV
 https://strhlslb01.streamakaci.tv/str_lifetv_lifetv/str_lifetv_multi/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/medi-1-tv-afrique-ma.png" group-title="",Médi 1 Afrique
+https://raw.githubusercontent.com/Sibprod/streams/main/files/Medi_1_Afrique/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://mytelevision.tv/assets/img/chaines/d5music.png" group-title="",D5 Music
 https://213.152.6.232:443/d5music/smil:d5music.smil/index.m3u8
