@@ -45,13 +45,13 @@ http://192.168.0.254:52424/freeboxtv/212.27.38.253/fbxtv_pub/stream?namespace=1&
 https://raw.githubusercontent.com/Sibprod/streams/main/files/BFM_TV/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://mytelevision.tv/assets/img/chaines/cnews.png" group-title="", CNews
-https://github.com/Sibprod/streams/blob/main/files/CNews/master.m3u8 
+https://raw.githubusercontent.com/Sibprod/streams/main/CNews/master.m3u8 
 
 #EXTINF:-1 tvg-logo="https://mytelevision.tv/assets/img/chaines/cstar.png" group-title="", CStar
 http://livetv.ktv.zone/19/play.m3u8  
 
 #EXTINF:-1 tvg-logo="https://mytelevision.tv/assets/img/chaines/gulli.png" group-title="", Gulli
-https://raw.githubusercontent.com/Sibprod/streams/main/files/6Ter/master.m3u8
+https://raw.githubusercontent.com/Sibprod/streams/main/files/Gulli/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://mytelevision.tv/assets/img/chaines/publicsenat.png" group-title="", Public Sénat
 http://192.168.0.254:52424/freeboxtv/212.27.38.253/fbxtv_pub/stream?namespace=1&service=692
@@ -63,7 +63,7 @@ https://raw.githubusercontent.com/Sibprod/streams/main/files/TF1_Series_Films/ma
 http://livetv.ktv.zone/23/play.m3u8  
 
 #EXTINF:-1 tvg-logo="https://mytelevision.tv/assets/img/chaines/6ter.png" group-title="", 6Ter
-http://livetv.ktv.zone/24/play.m3u8 
+https://raw.githubusercontent.com/Sibprod/streams/main/files/6Ter/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://mytelevision.tv/assets/img/chaines/rmcstory.png" group-title="", RMC Story
 http://livetv.ktv.zone/25/play.m3u8 
