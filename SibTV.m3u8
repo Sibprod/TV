@@ -171,6 +171,9 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/C8T
 #EXTINF:-1 tvg-logo=" " group-title="",7 à Limoges
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCdFv_ZWQ3Xk_NfRiaK-ryGg/live
 
+#EXTINF:-1 tvg-id=" " tvg-logo="https://www.tele-astv.fr/img/LOGO%20CARRE.png" group-title="",ASTV
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=7PNU_fGEcyo
+
 #EXTINF:-1 tvg-logo=" " group-title="",France 24
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/FRANCE24/live
 
@@ -180,6 +183,14 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel
 #EXTINF:-1 tvg-logo=" " group-title="",Antenne Réunion
 https://live-antenne-reunion.zeop.tv/live/c3eds/antreunihd/hls_fta/antreunihd.m3u8?location=ZEOP01
 
+#EXTINF:-1 tvg-id="Weo.fr" tvg-logo="" group-title=" ",Wéo (La Voix du Nord)
+https://live.digiteka.com/1/WGQ1NnhEN0lzM0NU/dk1EOHhw/hls/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="WeoPicardie.fr" tvg-logo="" group-title="",Wéo (Le Courrier Picard)
+https://live.digiteka.com/1/Zks2L0VsM2V0T242/QTBqcFly/hls/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TV7Bordeaux.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/Tv7Bordeaux-logo.png" group-title="",TV7 Sud-Ouest
+http://live.digiteka.com/1/RVNZMmJtUURmd09I/U0dNU0tk/hls/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://mytelevision.tv/assets/img/chaines/ln24.png" group-title="",LN24
 https://live.digiteka.com/1/bEg0RmFLb1JMYXRI/dGhqbmIw/hls/live/playlist.m3u8
