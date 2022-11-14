@@ -81,11 +81,14 @@ https://raw.githubusercontent.com/Sibprod/streams/main/files/TiJi/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="", Equidia
 https://raw.githubusercontent.com/Sibprod/streams/main/files/Equidia/master.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Information", Tech & Co
+#EXTINF:-1 tvg-logo="" group-title="", Tech & Co
 https://raw.githubusercontent.com/Sibprod/streams/main/files/Tech_and_Co/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv5monde-info-fr.png" group-title="",TV5 Monde Info
 https://raw.githubusercontent.com/Sibprod/streams/main/files/TV5_Monde_Info/master.m3u8
+
+#EXTINF:-1 tvg-id="MyZenTV.fr" tvg-logo="https://i.imgur.com/fIi8o0C.png" group-title="",My Zen TV
+https://raw.githubusercontent.com/Sibprod/streams/main/files/My_Zen_TV/master.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="", RTL-TVi
 https://raw.githubusercontent.com/Sibprod/streams/main/files/RTL-TVI/master.m3u8
@@ -109,7 +112,58 @@ https://raw.githubusercontent.com/Sibprod/streams/main/files/Télé_Québec/mast
 https://raw.githubusercontent.com/Sibprod/streams/main/files/Medi_1_Afrique/master.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="",Alpe d'Huez TV
-https://adhtv.vedge.infomaniak.com/livecast/adhtv/chunklist.m3u8
+https://185.125.25.66:443/livecast/adhtv/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="",Générations TV
+https://185.125.25.66:443/livecast/generation-tv/manifest.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="", Léman Bleu
+https://185.125.25.66:443/livecast/naxoo/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="", One TV
+https://185.125.25.66:443/livecast/onefmhd/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://mytelevision.tv/assets/img/chaines/lfmtv.png" group-title="", LFM TV
+https://185.125.25.66:443/livecast/lfmhd/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://mytelevision.tv/assets/img/chaines/rougetv.png" group-title="", Rouge TV
+https://185.125.25.66:443/livecast/rougetv/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="", Canal Alpha 
+https://185.125.25.66:443/livecast/canalalpha/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="", TV Suisse Plus
+https://185.125.25.66:443/livecast/compack_media_1/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="", TVM3
+https://185.125.25.66:443/livecast/tvm3/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="", Canal 9
+https://185.125.25.66:443/livecast/livehd/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="", La Télé
+https://185.125.25.66:443/livecast/latele/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="", Telebielingue
+https://185.125.25.66:443/livecast/telebielingue/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="", Fusion TV
+https://185.125.25.66:443/livecast/fusiontv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://ortb.bj/storage/2020/02/bb24.png" group-title="",BB24
+https://185.125.25.66:443/livecast/bb24-1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://mytelevision.tv/assets/img/chaines/d5tv.png" group-title="",D5 TV
+https://213.152.6.232:443/d5tv/smil:d5tv.smil/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://mytelevision.tv/assets/img/chaines/d5music.png" group-title="",D5 Music
+https://213.152.6.232:443/d5music/smil:d5music.smil/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://mytelevision.tv/assets/img/chaines/mycomedy.png" group-title="",My Comedy
+https://213.152.6.232:443/mycomedy/smil:mycomedy.smil/index.m3u8
+
+#EXTINF:-1 tvg-id="Melody.fr" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-265.png" group-title="",Melody
+https://213.152.6.232:443/telemelody/smil:telemelody-211112.smil/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://mytelevision.tv/assets/img/chaines/c8.png" group-title="", C8
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/C8TV
@@ -120,11 +174,20 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel
 #EXTINF:-1 tvg-logo=" " group-title="",France 24
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/FRANCE24/live
 
+#EXTINF:-1 tvg-logo=" " group-title="",France Inter
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCJldRgT_D7Am-ErRHQZ90uw/live
+
 #EXTINF:-1 tvg-logo=" " group-title="",Antenne Réunion
 https://live-antenne-reunion.zeop.tv/live/c3eds/antreunihd/hls_fta/antreunihd.m3u8?location=ZEOP01
 
 
+#EXTINF:-1 tvg-logo="https://mytelevision.tv/assets/img/chaines/ln24.png" group-title="",LN24
+https://live.digiteka.com/1/bEg0RmFLb1JMYXRI/dGhqbmIw/hls/live/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="", RTS Un
+http://livetv.ktv.zone/1/play.m3u8 
 
+#EXTINF:-1 tvg-logo="" group-title="", RTS Deux
+http://livetv.ktv.zone/2/play.m3u8
 
 
