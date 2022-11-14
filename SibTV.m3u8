@@ -34,7 +34,7 @@ https://raw.githubusercontent.com/Sibprod/streams/main/files/TFX/master.m3u8
 https://raw.githubusercontent.com/Sibprod/streams/main/files/BFM_TV/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://mytelevision.tv/assets/img/chaines/cnews.png" group-title="", CNews
-https://raw.githubusercontent.com/Sibprod/streams/main/CNews/master.m3u8 
+https://raw.githubusercontent.com/Sibprod/streams/main/files/CNews/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://mytelevision.tv/assets/img/chaines/gulli.png" group-title="", Gulli
 https://raw.githubusercontent.com/Sibprod/streams/main/files/Gulli/master.m3u8
@@ -108,8 +108,20 @@ https://raw.githubusercontent.com/Sibprod/streams/main/files/Télé_Québec/mast
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/medi-1-tv-afrique-ma.png" group-title="",Médi 1 Afrique
 https://raw.githubusercontent.com/Sibprod/streams/main/files/Medi_1_Afrique/master.m3u8
 
+#EXTINF:-1 tvg-logo=" " group-title="",Alpe d'Huez TV
+https://adhtv.vedge.infomaniak.com/livecast/adhtv/chunklist.m3u8
 
+#EXTINF:-1 tvg-logo="https://mytelevision.tv/assets/img/chaines/c8.png" group-title="", C8
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/C8TV
 
+#EXTINF:-1 tvg-logo=" " group-title="",7 à Limoges
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCdFv_ZWQ3Xk_NfRiaK-ryGg/live
+
+#EXTINF:-1 tvg-logo=" " group-title="",France 24
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/FRANCE24/live
+
+#EXTINF:-1 tvg-logo=" " group-title="",Antenne Réunion
+https://live-antenne-reunion.zeop.tv/live/c3eds/antreunihd/hls_fta/antreunihd.m3u8?location=ZEOP01
 
 
 
