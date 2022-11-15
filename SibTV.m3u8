@@ -111,6 +111,84 @@ https://raw.githubusercontent.com/Sibprod/streams/main/files/Télé_Québec/mast
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/medi-1-tv-afrique-ma.png" group-title="",Médi 1 Afrique
 https://raw.githubusercontent.com/Sibprod/streams/main/files/Medi_1_Afrique/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://mytelevision.tv/assets/img/chaines/c8.png" group-title="", C8
+http://livetv.ktv.zone/10/play.m3u8 
+
+#EXTINF:-1 tvg-id="NRJ12.fr" tvg-logo="http://www.mytelevision.tv/assets/img/chaines/nrj12.png" group-title="",NRJ 12
+http://livetv.ktv.zone/14/play.m3u8
+
+#EXTINF:-1 tvg-id="LCP.fr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ll/lcp-tnt-fr.png" group-title="",LCP-AN
+http://livetv.ktv.zone/15/play.m3u8
+
+#EXTINF:-1 tvg-id="CStar.fr" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-458.png" group-title="",CStar
+http://livetv.ktv.zone/19/play.m3u8 
+
+#EXTINF:-1 tvg-id="LEquipe.fr" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-1401.png" group-title="",L'Équipe
+http://livetv.ktv.zone/23/play.m3u8 
+
+#EXTINF:-1 tvg-id="RMCStory.fr" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-1402.png" group-title="",RMC Story
+http://livetv.ktv.zone/25/play.m3u8
+
+#EXTINF:-1 tvg-id="RMCDecouverte.fr" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-1400.png" group-title="",RMC Découverte
+http://livetv.ktv.zone/26/play.m3u8
+
+#EXTINF:-1 tvg-id="Cherie25.fr" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-1399.png" group-title="",Chérie 25
+http://livetv.ktv.zone/27/play.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="", RTS Un
+http://livetv.ktv.zone/1/play.m3u8 
+
+#EXTINF:-1 tvg-logo="" group-title="", RTS Deux
+http://livetv.ktv.zone/2/play.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-232.png" group-title="",TV5 Monde Europe
+http://livetv.ktv.zone/61/play.m3u8
+
+#EXTINF:-1 tvg-id="BFMBusiness.fr" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-1073.png" group-title="",BFM Business
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_BUSINESS/index.m3u8?start=LIVE&end=END
+
+#EXTINF:-1 tvg-id="BFMAlsace.fr" tvg-logo="" group-title="Information",FRR30 - BFM Alsace
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_ALSACE/index.m3u8?start=LIVE&end=END
+
+#EXTINF:-1 tvg-id="BFMLyon.fr" tvg-logo="http://www.callofliberty.fr/tv/33-BFMLYON/33-BFMLYON.png" group-title="",BFM Lyon-Métropole
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_LYON/index.m3u8?start=LIVE&end=END
+
+#EXTINF:-1 tvg-id="BFMMarseille.fr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bfm-marseille-fr.svg" group-title="",BFM Marseille-Provence
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_MARSEILLEPROV/index.m3u8?start=LIVE&end=END
+
+#EXTINF:-1 tvg-id="BFMParis.fr" tvg-logo="http://www.callofliberty.fr/tv/32-BFMPARIS/32-BFMPARIS.png" group-title="",BFM Paris-Île-de-France
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_PARIS/index.m3u8?start=LIVE&end=END
+
+#EXTINF:-1 tvg-id="BFMVar.fr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bfm-var-fr.svg" group-title="",BFM Toulon-Var
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TOULONVAR/index.m3u8?start=LIVE&end=END
+
+#EXTINF:-1 tvg-id="BFMDici.fr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bfm-dici-fr.svg" group-title="",BFM D!ci Alpes-du-Sud
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_DICI_ALPESDUSUD/index.m3u8?start=LIVE&end=END
+
+#EXTINF:-1 tvg-id="BFMDici.fr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bfm-dici-fr.svg" group-title="",BFM D!ci Haute-Provence
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_DICI_HAUTEPROVENCE/index.m3u8?start=LIVE&end=END
+
+#EXTINF:-1 tvg-id="BFMLille.fr" tvg-logo="http://www.callofliberty.fr/tv/34-BFMGRANDLILLE/34-BFMGRANDLILLE.png" group-title="",BFM Grand Lille
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFMGRANDLILLE/index.m3u8?start=LIVE&end=END
+
+#EXTINF:-1 tvg-id="BFMNice.fr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bfm-cote-dazur-fr.svg" group-title="",BFM Nice-Côte d'Azur
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_NICECOTEDAZUR/index.m3u8?start=LIVE&end=END
+
+#EXTINF:-1 tvg-id="BFMLittoral.fr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bfm-littoral-fr.svg" group-title="",BFM Grand Littoral
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFMGRANDLITTORAL/index.m3u8?start=LIVE&end=END
+
+#EXTINF:-1 tvg-id=" " tvg-logo="https://monacoinfo.com/wp-content/themes/monacoinfo_v4/assets/img/monacoinfo-color.png" group-title="",Monaco Info
+https://webtvmonacoinfo.mc/live/prod_720/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.callofliberty.fr/tv/46-TNTV/46-TNTV.png" group-title="",TNTV
+https://tntv-samsung-fr.amagi.tv/playlist1080p.m3u8
+
+#EXTINF:-1 tvg-id="ViaATV.mq" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Vi%C3%A0ATV.png/512px-Vi%C3%A0ATV.png" group-title="",ViàATV
+https://streamer01.myvideoplace.tv/streamer02/hls/ATV_DIRECT_EV_111018.m3u8
+
+#EXTINF:-1 tvg-id="ViaOccitanie.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Viaoccitanie.png/512px-Viaoccitanie.png" group-title="",viàOccitanie
+https://streamer01.myvideoplace.tv/streamer02/hls/MDS_VIA_PAD_301117.m3u8
+
 #EXTINF:-1 tvg-logo=" " group-title="",Alpe d'Huez TV
 https://185.125.25.66:443/livecast/adhtv/chunklist.m3u8
 
@@ -147,8 +225,17 @@ https://185.125.25.66:443/livecast/latele/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="", Telebielingue
 https://185.125.25.66:443/livecast/telebielingue/index.m3u8
 
+#EXTINF:-1 tvg-id=" " tvg-logo="https://natv.fr/wp-content/uploads/sites/4/2022/03/natv_logo.svg" group-title="",NA TV
+https://185.125.25.66:443/livecast/naradio/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo=" " group-title="Locales",Canal 32
+https://185.125.25.66:443/livecast/canal32/manifest.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="", Fusion TV
 https://185.125.25.66:443/livecast/fusiontv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://mytelevision.tv/assets/img/chaines/lfmtv.png" group-title="", Fun Radio Vision
+https://185.125.25.66:443/livecast/funradiovisionhd/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://ortb.bj/storage/2020/02/bb24.png" group-title="",BB24
 https://185.125.25.66:443/livecast/bb24-1/index.m3u8
@@ -164,15 +251,6 @@ https://213.152.6.232:443/mycomedy/smil:mycomedy.smil/index.m3u8
 
 #EXTINF:-1 tvg-id="Melody.fr" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-265.png" group-title="",Melody
 https://213.152.6.232:443/telemelody/smil:telemelody-211112.smil/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://mytelevision.tv/assets/img/chaines/c8.png" group-title="", C8
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/C8TV
-
-#EXTINF:-1 tvg-id="LCP.fr" tvg-logo="https://www.ktv.zone/wp-content/uploads/2016/12/15_dune.png" group-title="",La Chaîne Parlementaire
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/LCP
-
-#EXTINF:-1 tvg-id="PublicSenat.fr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/public-senat-fr.png" group-title="",Public Sénat
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/publicsenat
 
 #EXTINF:-1 tvg-logo=" " group-title="",7 à Limoges
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCdFv_ZWQ3Xk_NfRiaK-ryGg/live
@@ -201,10 +279,73 @@ http://live.digiteka.com/1/RVNZMmJtUURmd09I/U0dNU0tk/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://mytelevision.tv/assets/img/chaines/ln24.png" group-title="",LN24
 https://live.digiteka.com/1/bEg0RmFLb1JMYXRI/dGhqbmIw/hls/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="", RTS Un
-http://livetv.ktv.zone/1/play.m3u8 
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.callofliberty.fr/tv/202-france.3alsace/202-france.3alsace.png" group-title="",France 3 Alsace
+http://www.callofliberty.fr/stream/france.3alsace/master.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="", RTS Deux
-http://livetv.ktv.zone/2/play.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.callofliberty.fr/tv/203-france.3aquitaine/203-france.3aquitaine.png" group-title="",France 3 Aquitaine
+http://www.callofliberty.fr/stream/france.3aquitaine/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.callofliberty.fr/tv/204-france.3auvergne/204-france.3auvergne.png" group-title="",France 3 Auvergne
+http://www.callofliberty.fr/stream/france.3auvergne/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.callofliberty.fr/tv/205-france.3bassenormandie/205-france.3bassenormandie.png" group-title="",France 3 Basse-Normandie
+http://www.callofliberty.fr/stream/france.3bassenormandie/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.callofliberty.fr/tv/206-france.3bourgogne/206-france.3bourgogne.png" group-title="",France 3 Bourgogne
+http://www.callofliberty.fr/stream/france.3bourgogne/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.callofliberty.fr/tv/207-france.3bretagne/207-france.3bretagne.png" group-title="",France 3 Bretagne
+http://www.callofliberty.fr/stream/france.3bretagne/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.callofliberty.fr/tv/208-france.3centrevaldeloire/208-france.3centrevaldeloire.png" group-title="",France 3 Centre-Val de Loire
+http://www.callofliberty.fr/stream/france.3centrevaldeloire/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.callofliberty.fr/tv/209-france.3champagneardenne/209-france.3champagneardenne.png" group-title="",FFrance 3 Champagne-Ardenne
+http://www.callofliberty.fr/stream/france.3champagneardenne/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.callofliberty.fr/tv/211-france.3cotedazur/211-france.3cotedazur.png" group-title="",FFrance 3 Côte Azur
+http://www.callofliberty.fr/stream/france.3cotedazur/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.callofliberty.fr/tv/212-france.3franchecomte/212-france.3franchecomte.png" group-title="",France 3 Franche-Comté
+http://www.callofliberty.fr/stream/france.3franchecomte/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.callofliberty.fr/tv/213-france.3hautenormandie/213-france.3hautenormandie.png" group-title="",France 3 Haute-Normandie
+http://www.callofliberty.fr/stream/france.3hautenormandie/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.callofliberty.fr/tv/214-france.3languedocroussillon/214-france.3languedocroussillon.png" group-title="",France 3 Languedoc-Roussillon
+http://www.callofliberty.fr/stream/france.3languedocroussillon/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.callofliberty.fr/tv/215-france.3limousin/215-france.3limousin.png" group-title="",France 3 Limousin
+http://www.callofliberty.fr/stream/france.3limousin/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.callofliberty.fr/tv/216-france.3lorraine/216-france.3lorraine.png" group-title="",France 3 Lorraine
+http://www.callofliberty.fr/stream/france.3lorraine/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.callofliberty.fr/tv/217-france.3midipyrenees/217-france.3midipyrenees.png" group-title="",France 3 Midi-Pyrénées
+http://www.callofliberty.fr/stream/france.3midipyrenees/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.callofliberty.fr/tv/219-france.3nordpasdecalais/219-france.3nordpasdecalais.png" group-title="",France 3 Nord Pas-de-Calais
+http://www.callofliberty.fr/stream/france.3nordpasdecalais/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.callofliberty.fr/tv/220-france.3parisiledefrance/220-france.3parisiledefrance.png" group-title="",France 3 Paris-Île-de-France
+http://www.callofliberty.fr/stream/france.3parisiledefrance/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.callofliberty.fr/tv/221-france.3paysdelaloire/221-france.3paysdelaloire.png" group-title="",France 3 Pays de la Loire
+http://www.callofliberty.fr/stream/france.3paysdelaloire/master.m3u8
+
+#EXTINF:-1 tvg-id="France3Picardie.fr" tvg-logo="http://www.callofliberty.fr/tv/222-france.3picardie/222-france.3picardie.png" group-title="",France 3 Picardie
+http://www.callofliberty.fr/stream/france.3picardie/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.callofliberty.fr/tv/223-france.3poitoucharentes/223-france.3poitoucharentes.png" group-title="",France 3 Poitou-Charentes
+http://www.callofliberty.fr/stream/france.3poitoucharentes/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.callofliberty.fr/tv/224-france.3provencealpes/224-france.3provencealpes.png" group-title="",France 3 Provence-Alpes
+http://www.callofliberty.fr/stream/france.3provencealpes/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.callofliberty.fr/tv/225-france.3rhonealpes/225-france.3rhonealpes.png" group-title="",France 3 Rhône-Alpes
+http://www.callofliberty.fr/stream/france.3rhonealpes/master.m3u8
+
+
+
 
 
