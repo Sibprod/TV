@@ -168,6 +168,12 @@ https://213.152.6.232:443/telemelody/smil:telemelody-211112.smil/index.m3u8
 #EXTINF:-1 tvg-logo="https://mytelevision.tv/assets/img/chaines/c8.png" group-title="", C8
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/C8TV
 
+#EXTINF:-1 tvg-id="LCP.fr" tvg-logo="https://www.ktv.zone/wp-content/uploads/2016/12/15_dune.png" group-title="",La Chaîne Parlementaire
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/xgepjr
+
+#EXTINF:-1 tvg-id="PublicSenat.fr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/public-senat-fr.png" group-title="",Public Sénat
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/xkxbzc
+
 #EXTINF:-1 tvg-logo=" " group-title="",7 à Limoges
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCdFv_ZWQ3Xk_NfRiaK-ryGg/live
 
