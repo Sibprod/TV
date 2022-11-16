@@ -98,6 +98,9 @@ http://livetv.ktv.zone/2/play.m3u8
 #EXTINF:-1 tvg-logo="" group-title="", TVM3
 https://185.125.25.66:443/livecast/tvm3/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://www.mytelevision.tv/assets/img/chaines/idf1.png" group-title="", IDF1
+https://raw.githubusercontent.com/Sibprod/streams/main/files/IDF_1/master.m3u8
+
 #EXTINF:-1 tvg-id="NVMT.ca" tvg-logo="https://od.lk/s/MF8yNDU0MDY4Mzlf/Noovo_608x608.png" group-title="", Noovo
 https://pe-ak-lp04a-9c9media.akamaized.net/live/NOOVO/p/dash/00000001/f481c583dbd06b6c/manifest.mpd
 
@@ -223,7 +226,7 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/mai
 #EXTINF:-1 tvg-id="CompanyTV.it" tvg-logo="https://i.imgur.com/A7q1zRj.png" group-title="", Company TV
 https://5929b138b139d.streamlock.net/CompanyTV/smil:CompanyTV.smil/master.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="",Xite
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VaDrfKr.png" group-title="",Xite
 https://ms7.mx-cd.net/tv/226-1855782/XITE_NL.smil/chunklist_w323364313_b3328000_slNLD.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/radio/bb/bel-rtl-be.png" group-title="", Bel RTL
@@ -235,20 +238,29 @@ https://raw.githubusercontent.com/Sibprod/streams/main/files/Contact_Vision/mast
 #EXTINF:-1 tvg-id="" tvg-logo=" " group-title="", Eldoradio
 https://eldo-streaming.eldo.lu/eldotv/smil:eldotv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="", Fun Radio Vision
+#EXTINF:-1 tvg-logo="https://www.lyngsat-stream.com/logo/tv/ff/fun-vision-fr-be.png" group-title="", Fun Radio Vision
 https://185.125.25.66:443/livecast/funradiovisionhd/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat-stream.com/logo/radio/nn/nrj_be.png" group-title="", NRJ Belgique
 https://tv.ngroup.be/live/ngrp:nrj_all/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo=" " group-title="", MNM
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Mnm_logo.svg/512px-Mnm_logo.svg.png" group-title="", MNM
 https://live-radio-cf-vrt.akamaized.net/groupa/live/bac277a1-306d-44a0-8e2e-e5b9c07fa270/live.isml/.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo=" " group-title="", Q-Music
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/s0CZjmi.png" group-title="", Q-Music
 https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo=" " group-title="", Radio Pros
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ttSoBle.png" group-title="",Radio 350
+https://stream.radio350.nl/hls/radio350.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/sd7BX9H.png" group-title="", Radio 538
+https://radio538.prd1.talpatvcdn.nl/22e9bbf9616547d7bc162c993009c533/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/RMjFeGE.png" group-title="", Radio Pros
 http://highvolume04.streampartner.nl/radiopros/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/LJ4Hpdc.png" group-title="", City Music TV 
+https://5592f056abba8.streamlock.net/citytv/citytv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv5monde-info-fr.png" group-title="", TV5 Monde Info
 https://raw.githubusercontent.com/Sibprod/streams/main/files/TV5_Monde_Info/master.m3u8
@@ -307,7 +319,7 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/rtl
 #EXTINF:-1 tvg-logo=" " group-title="", RTL 2
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/RTL2
 
-#EXTINF:-1 tvg-logo=" " group-title="",Fun Radio (France)
+#EXTINF:-1 tvg-logo="https://www.lyngsat-stream.com/logo/tv/ff/fun-vision-fr-be.png" group-title="",Fun Radio (France)
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/funradio
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat-stream.com/logo/radio/rr/radio-capital-it.png" group-title="", Radio Capital TV
