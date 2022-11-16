@@ -203,14 +203,29 @@ https://213.152.6.232:443/telemelody/smil:telemelody-211112.smil/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="", Tech & Co
 https://raw.githubusercontent.com/Sibprod/streams/main/files/Tech_and_Co/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv5monde-info-fr.png" group-title="", TV5 Monde Info
-https://raw.githubusercontent.com/Sibprod/streams/main/files/TV5_Monde_Info/master.m3u8
-
 #EXTINF:-1 tvg-id="MyZenTV.fr" tvg-logo="https://i.imgur.com/fIi8o0C.png" group-title="", My Zen TV
 https://raw.githubusercontent.com/Sibprod/streams/main/files/My_Zen_TV/master.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="", Gourmand TV
+https://gt1604323067.mytvchain.info/live/gt1604323067_720/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="", Top Santé TV
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/TopSante
+
+#EXTINF:-1 tvg-logo="" group-title="", Gourmand TV
+https://gt1604323067.mytvchain.info/live/gt1604323067_720/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="", Museum TV
+https://live2.creacast.com/museum-france/smil:museum-france.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="", Maison & Travaux
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/maison-travaux-tv
+
 #EXTINF:-1 tvg-id="CompanyTV.it" tvg-logo="https://i.imgur.com/A7q1zRj.png" group-title="", Company TV
 https://5929b138b139d.streamlock.net/CompanyTV/smil:CompanyTV.smil/master.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",Xite
+https://ms7.mx-cd.net/tv/226-1855782/XITE_NL.smil/chunklist_w323364313_b3328000_slNLD.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/radio/bb/bel-rtl-be.png" group-title="", Bel RTL
 https://raw.githubusercontent.com/Sibprod/streams/main/files/Bel_RTL/master.m3u8
@@ -236,8 +251,17 @@ https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo=" " group-title="", Radio Pros
 http://highvolume04.streampartner.nl/radiopros/livestream/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv5monde-info-fr.png" group-title="", TV5 Monde Info
+https://raw.githubusercontent.com/Sibprod/streams/main/files/TV5_Monde_Info/master.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",CPAC Français
+https://d7z3qjdsxbwoq.cloudfront.net/groupa/live/f9809cea-1e07-47cd-a94d-2ddd3e1351db/live.isml/.m3u8
+
 #EXTINF:-1 tvg-id="KissKissTV.it" tvg-logo="https://i.imgur.com/pETXOU7.jpg" group-title="", Radio Kiss Kiss TV
 https://58f12ffd2447a.streamlock.net/KKMulti/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",VH1 Italia
+https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/radio/vv/virgin_radio_it.png" group-title="", Virgin Radio TV
 https://live3.msr.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(ew)/manifest.mpd
@@ -255,7 +279,22 @@ https://streamcdnb1-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/XEx
 https://185.125.25.66:443/livecast/generation-tv/manifest.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="", France Inter
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCJldRgT_D7Am-ErRHQZ90uw/live
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/franceinter
+
+#EXTINF:-1 tvg-logo=" " group-title="", RFI
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/RFIfr/live
+
+#EXTINF:-1 tvg-logo=" " group-title="", Europe 1
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/Europe1fr
+
+#EXTINF:-1 tvg-logo=" " group-title="", RTL
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/rtl-fr
+
+#EXTINF:-1 tvg-logo=" " group-title="", RTL 2
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/RTL2
+
+#EXTINF:-1 tvg-logo=" " group-title="",Fun Radio (France)
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/funradio
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat-stream.com/logo/radio/rr/radio-capital-it.png" group-title="", Radio Capital TV
 https://streamcdnb5-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S35394734/Z6U2wGoDYANk/master.m3u8
