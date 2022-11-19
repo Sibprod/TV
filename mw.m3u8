@@ -1,0 +1,45 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://www.bistvonline.com/assets/images/live/golf-channel.png" tvg-chno="38", Golf Channel
+https://mdw-cji.akamaized.net/golfchannel/hls/manifest.m3u8?hdnts=exp=1668930000~acl=/golfchannel/hls/*~hmac=54a0832fc6ff6e465709165b97b8cd0a6c1339b97e6b67b8dc41aa4aa025efb6
+
+#EXTINF:-1 tvg-logo="https://www.bistvonline.com/assets/images/live/automoto-la-chaine.png" tvg-chno="40", Automoto La Chaîne
+https://mdw-cji.akamaized.net/automotolachaine/hls/manifest.m3u8?hdnts=exp=1668929860~acl=/automotolachaine/hls/*~hmac=73f2a8a485c90ddde5439a3e8bb803d490c200f8791a23743d11c2fca53d1be2
+
+#EXTINF:-1 tvg-logo="https://www.bistvonline.com/assets/images/live/crime-district.png" tvg-chno="48", Crime District
+https://mdw-cji.akamaized.net/crimedistrict/hls/manifest.m3u8?hdnts=exp=1668929652~acl=/crimedistrict/hls/*~hmac=1b3c92a6dd39f328d039c38621d23fd9e6b17fd7d851e0e7a4f2867547662b9b
+
+#EXTINF:-1 tvg-logo="https://www.bistvonline.com/assets/images/live/action.png" tvg-chno="50", Action
+https://mdw-cji.akamaized.net/action/hls/manifest.m3u8?hdnts=exp=1668929281~acl=/action/hls/*~hmac=0a57da7b4f70d3a3929d6779c2028fe30451ebc9ed12eed68b1f67e5fd41663a
+
+#EXTINF:-1 tvg-logo="https://www.bistvonline.com/assets/images/live/ab1.png" tvg-chno="57", AB1
+https://mdw-cji.akamaized.net/ab1/hls/manifest.m3u8?hdnts=exp=1668926728~acl=/ab1/hls/*~hmac=6d5166f50746be2700cbf18116927462fffcfe3823f3e69e47788ce791b15fc4
+
+#EXTINF:-1 tvg-logo="https://www.bistvonline.com/assets/images/live/rtl9.png" tvg-chno="58", RTL9
+https://mdw-cji.akamaized.net/rtl9/hls/manifest.m3u8?hdnts=exp=1668929139~acl=/rtl9/hls/*~hmac=3385c5e09aff17fbd37ed687d2b25ecb4e1a68af12d731fd873ce9a0d742415c
+
+#EXTINF:-1 tvg-logo="https://www.bistvonline.com/assets/images/live/mangas.png" tvg-chno="62", Mangas
+https://mdw-cji.akamaized.net/mangas/hls/manifest.m3u8?hdnts=exp=1668929072~acl=/mangas/hls/*~hmac=f7e4e1d05fe2b7e0513de4d61da4009f129946840c184177f20ed51e193a8ae4
+
+#EXTINF:-1 tvg-logo="https://www.bistvonline.com/assets/images/live/chasse-et-peche.png" tvg-chno="72", Chasse & Pêche
+https://mdw-cji.akamaized.net/chassepeche/hls/manifest.m3u8?hdnts=exp=1668929588~acl=/chassepeche/hls/*~hmac=195a79ad356b8b0329f67f69ad0c581972d3aaee3a22d2bbf13c758cc9153554
+
+#EXTINF:-1 tvg-logo="https://www.bistvonline.com/assets/images/live/science-et-vie.png" tvg-chno="73", Science & Vie TV
+https://mdw-cji.akamaized.net/scienceetvie/hls/manifest.m3u8?hdnts=exp=1668929200~acl=/scienceetvie/hls/*~hmac=48af8b9760663b533cee69bcf110bcd5d1526439896172d4f25e160fd393261c
+
+#EXTINF:-1 tvg-logo="https://www.bistvonline.com/assets/images/live/animaux-tv.png" tvg-chno="74", Animaux
+https://mdw-cji.akamaized.net/animauxtv/hls/manifest.m3u8?hdnts=exp=1668928967~acl=/animauxtv/hls/*~hmac=d90dc960a90a068528e7dbc2188955283aec2ae5dc0fb0d55db18c40604d7b8e
+
+#EXTINF:-1 tvg-logo="https://www.bistvonline.com/assets/images/live/toute-l-histoire.png" tvg-chno="75", Toute l'Histoire
+https://mdw-cji.akamaized.net/toutelhistoire/hls/manifest.m3u8?hdnts=exp=1668929509~acl=/toutelhistoire/hls/*~hmac=937ad1652d21b8d070f5bfe0ebd8c1d0f603ff34f02f0fc988d675b248b30475
+
+#EXTINF:-1 tvg-logo="https://www.bistvonline.com/assets/images/live/trek.png" tvg-chno="76", Trek
+https://mdw-cji.akamaized.net/trekhd/hls/manifest.m3u8?hdnts=exp=1668929450~acl=/trekhd/hls/*~hmac=6cb7c00ee0bb363ec6745763711bdf209d5f483897f4e4f31f725fb43a964776
+
+#EXTINF:-1 tvg-logo="https://live-replay.ab3.be/assets/images/logos/ab3.png" tvg-chno="807", AB3
+https://mdw-cji.akamaized.net/ab3/hls/manifest.m3u8?hdnts=exp=1668928497~acl=/ab3/hls/*~hmac=1fbe00e8fc9f6d043cb8f3b80c489519a67514376998776cca05d3ec30cba9a4
+
+#EXTINF:-1 tvg-logo="https://live-replay.abxplore.be/assets/images/logos/abxplore.png" tvg-chno="821", ABXplore
+https://mdw-cji.akamaized.net/abxplore/hls/manifest.m3u8?hdnts=exp=1668928709~acl=/abxplore/hls/*~hmac=222658fae4d74cf281cfd35cd522fe4ec7140d1f6dcd7aa11c5f46af932f8fd9
+
+#EXTINF:-1 tvg-logo="https://www.bistvonline.com/assets/images/live/lucky-jack.png" tvg-chno=" ", Lucky Jack.TV
+https://mdw-cji.akamaized.net/luckyjack/hls/manifest.m3u8?hdnts=exp=1668930109~acl=/luckyjack/hls/*~hmac=3803830c1c1ba155856704b55e8c0582b473c683a248dccf77ed20543c798782
