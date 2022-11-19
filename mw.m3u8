@@ -41,5 +41,8 @@ https://mdw-cji.akamaized.net/ab3/hls/manifest.m3u8?hdnts=exp=1668928497~acl=/ab
 #EXTINF:-1 tvg-logo="https://live-replay.abxplore.be/assets/images/logos/abxplore.png" tvg-chno="821", ABXplore
 https://mdw-cji.akamaized.net/abxplore/hls/manifest.m3u8?hdnts=exp=1668928709~acl=/abxplore/hls/*~hmac=222658fae4d74cf281cfd35cd522fe4ec7140d1f6dcd7aa11c5f46af932f8fd9
 
+#EXTINF:-1 channel-id="samsung-FRBB1900001FA" tvg-id="FRBB1900001FA" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/34/FRBB1900001FA_20220323T075747.png" group-title="" tvg-chno=" ", Clubbing TV
+https://clubbingtv-oando.amagi.tv/hls/amagi_hls_data_clubbingt-clubbingtv-oando/CDN/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.bistvonline.com/assets/images/live/lucky-jack.png" tvg-chno=" ", Lucky Jack.TV
 https://mdw-cji.akamaized.net/luckyjack/hls/manifest.m3u8?hdnts=exp=1668930109~acl=/luckyjack/hls/*~hmac=3803830c1c1ba155856704b55e8c0582b473c683a248dccf77ed20543c798782
