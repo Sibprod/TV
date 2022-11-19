@@ -462,7 +462,7 @@ http://185.236.229.31:9981/play/a030
 http://185.236.229.31:9981/play/a031
 
 #EXTINF:-1 tvg-logo="" group-title="" tvg-chno="803", RTL-TVi
-
+https://raw.githubusercontent.com/Sibprod/streams/main/files/RTL-TVI/master.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="" tvg-chno="804", Club RTL
 https://github.com/Sibprod/streams/raw/main/files/Club_RTL/master.m3u8
