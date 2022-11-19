@@ -1,0 +1,23 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Melody.fr" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-265.png" group-title=" ", Melody
+https://raw.githubusercontent.com/Sibprod/streams/main/files/Melody/master.m3u8
+#EXTINF:-1 tvg-id="MyZenTV.fr" tvg-logo="https://i.imgur.com/fIi8o0C.png" group-title=" ", My Zen TV
+https://raw.githubusercontent.com/Sibprod/streams/main/files/My_Zen_TV/master.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="http://www.callofliberty.fr/tv/118-MaisonEtTravauxTV/118-MaisonEtTravauxTV.png" group-title=" ", Maison & Travaux TV
+http://www.callofliberty.fr/stream/MaisonEtTravauxTV/master.m3u8
+#EXTINF:-1 tvg-id="MuseumTV.fr" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-1072.png" group-title=" ", Museum TV
+https://raw.githubusercontent.com/Sibprod/streams/main/files/Museum_TV/master.m3u8
+#EXTINF:-1 channel-id="samsung-FRBC1400002JN" tvg-id="FRBC1400002JN" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/FRBC1400002JN_20221012T021116.png" group-title=" ", Le Figaro Live
+https://d358c6mfrono1y.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0ppx9nh29jpk7-prod/lefigaro/master.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title=" ",Harmony
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://db7fdbb9cq5hq.cloudfront.net/img/lo/08f1695507ed94096d43c1454737cb4d.png" group-title=" ", Autoplus TV
+https://dvun9n03fdh46.cloudfront.net/out/v1/0a19823718464534a0f67925c4463815/index.mpd
+#EXTINF:-1 tvg-id=" " tvg-logo="http://www.callofliberty.fr/tv/119-TOPSanteTV/119-TOPSanteTV.png" group-title=" ", Top Santé TV
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/TopSante
+#EXTINF:-1 tvg-id="" tvg-logo="https://gourmandtv.fr/themes/gourmandtv/css/images/def2.png" group-title=" ", Gourmand TV
+https://gt1604323067.mytvchain.info/live/gt1604323067_720/index.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="http://www.callofliberty.fr/tv/118-MaisonEtTravauxTV/118-MaisonEtTravauxTV.png" group-title=" ", Maison & Travaux TV
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/maison-travaux-tv
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.sportenfrance.com/android-icon-192x192.png" group-title=" ", Sport En France
+https://sp1564435593.mytvchain.info/live/sp1564435593_720/index.m3u8
