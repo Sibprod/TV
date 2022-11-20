@@ -596,8 +596,10 @@ https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_NORMANDIE/index.m3u8?start=LIVE&
 #EXTINF:-1 tvg-id="WeoPicardie.fr" tvg-logo="" group-title="TNT" tvg-chno="3500", Wéo (Le Courrier Picard)
 https://live.digiteka.com/1/Zks2L0VsM2V0T242/QTBqcFly/hls/live/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://s1.dmcdn.net/u/4YF8I1XCCgg2Wyv-F/60x60" group-title="TNT" tvg-chno="3800", TéléGrenoble
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/telegrenoble
+
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/dd5ade_19f789617d654077a0f66846c2e75056~mv2.png/v1/fill/w_131,h_58,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/161113_logo_adhtv_2017_black.png" group-title="TNT" tvg-chno="3801", Alpe d'Huez TV
 https://185.125.25.66:443/livecast/adh/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s1.dmcdn.net/u/4YF8I1XCCgg2Wyv-F/60x60" group-title="TNT" tvg-chno="3800", TéléGrenoble
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/telegrenoble
+
