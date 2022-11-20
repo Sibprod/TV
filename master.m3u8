@@ -98,6 +98,9 @@ https://raw.githubusercontent.com/Sibprod/streams/main/files/IDF_1/master.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="TNT" tvg-chno="33", France 24
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/FRANCE24/live
 
+#EXTINF:-1 tvg-logo="http://www.callofliberty.fr/tv/178-EQUIDIA/178-EQUIDIA.png" group-title=" " tvg-chno="39",Equidia
+https://equidia-live2-p32-cdn.hexaglobe.net/3c6d861095235935ccdb12bc03553ef1/637a9438/equidia/equidia-mobileapp-ios-1/eqdlivepri_fre.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="TNT" tvg-chno="41", Paris Première
 https://raw.githubusercontent.com/Sibprod/streams/main/files/PP/master.m3u8
 
@@ -106,6 +109,9 @@ https://tntv-samsung-fr.amagi.tv/playlist1080p.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="TNT" tvg-chno="47", Canal J
 https://raw.githubusercontent.com/Sibprod/streams/main/files/Canal_J/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/Sibprod/assets/blob/main/Reworld/REWORLD_Sport-En-France.png" group-title="TNT" tvg-chno="49", Sport En France
+https://sportenfrance.ziostream.cloud/hls/sp1564435593_hig/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://mytelevision.tv/assets/img/chaines/i24.png" group-title="" tvg-chno="54", i24 News
 https://raw.githubusercontent.com/Sibprod/streams/main/files/i24_News_FR/master.m3u8
