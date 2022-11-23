@@ -93,7 +93,7 @@ https://d4de59d01af447a498cb0565ad005588.mediatailor.us-east-1.amazonaws.com/v1/
 https://live2.creacast.com/museum-france/smil:museum-france.smil/index.m3u8
 
 #EXTINF:-1 channel-id="samsung-FRBC1400002JN" tvg-id="FRBC1400002JN" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/FRBC1400002JN_20221012T021116.png" group-title="Information",35. Le Figaro Live
-https://d358c6mfrono1y.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0ppx9nh29jpk7-prod/lefigaro/master.m3u8
+https://d358c6mfrono1y.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0ppx9nh29jpk7-prod/lefigaro/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 
 #EXTINF:-1 tvg-id="Melody.fr" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-265.png" group-title="Musique", 36. Melody
 https://live.creacast.com/telemelody/smil:telemelody-211112.smil/index.m3u8
@@ -108,7 +108,7 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/vid
 https://raw.githubusercontent.com/Sibprod/streams/main/files/PP/master.m3u8
 
 #EXTINF:-1 tvg-id="AB1.fr" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-5.png" group-title="Cinéma-Séries", 44. AB1
-https://mdw-cji.akamaized.net/ab1/hls/manifest.m3u8?hdnts=exp=1669275363~acl=/ab1/hls/*~hmac=ca4e56b5bcb807924e1d3a3fe2977016376c28bf13e5ce243ca1452489687179
+https://mdw-cji.akamaized.net/ab1/hls/manifest.m3u8?hdnts=exp=1669312240~acl=/ab1/hls/*~hmac=0185bdc45d5f9c13cc2a7d3e72060649b4c12e0db7dc22859ed6d0427b1daafa
 
 #EXTINF:-1 tvg-id="PlanetePlus.fr" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-147.png" group-title="Culture-Découverte", 45. Planète+
 http://37.235.38.139:4000/play/a00k
