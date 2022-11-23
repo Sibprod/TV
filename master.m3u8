@@ -108,7 +108,7 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/vid
 https://raw.githubusercontent.com/Sibprod/streams/main/files/PP/master.m3u8
 
 #EXTINF:-1 tvg-id="AB1.fr" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-5.png" group-title="Cinéma-Séries", 44. AB1
-https://mdw-cji.akamaized.net/ab1/hls/manifest.m3u8?hdnts=xp=1669184306~acl=/ab1/hls/*~hmac=8ae60eb0f22e602d2453fab167e768af863b03aab3f5e8799a315dbaca3dbab3
+https://mdw-cji.akamaized.net/ab1/hls/manifest.m3u8?hdnts=exp=1669275363~acl=/ab1/hls/*~hmac=ca4e56b5bcb807924e1d3a3fe2977016376c28bf13e5ce243ca1452489687179
 
 #EXTINF:-1 tvg-id="PlanetePlus.fr" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-147.png" group-title="Culture-Découverte", 45. Planète+
 http://37.235.38.139:4000/play/a00k
