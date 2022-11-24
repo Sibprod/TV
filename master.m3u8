@@ -108,7 +108,7 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/vid
 https://raw.githubusercontent.com/Sibprod/streams/main/files/PP/master.m3u8
 
 #EXTINF:-1 tvg-id="AB1.fr" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-5.png" group-title="Cinéma-Séries", 44. AB1
-https://mdw-cji.akamaized.net/ab1/hls/manifest.m3u8?hdnts=exp=1669312240~acl=/ab1/hls/*~hmac=0185bdc45d5f9c13cc2a7d3e72060649b4c12e0db7dc22859ed6d0427b1daafa
+https://mdw-cji.akamaized.net/ab1/hls/manifest.m3u8?hdnts=exp=1669409198~acl=/ab1/hls/*~hmac=f7ab64b35dad8c1461e65a33c6479f5bc80dddb5b1a16ef0ff40e5543c04770a
 
 #EXTINF:-1 tvg-id="PlanetePlus.fr" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-147.png" group-title="Culture-Découverte", 45. Planète+
 http://37.235.38.139:4000/play/a00k
@@ -948,40 +948,40 @@ http://37.235.38.139:4000/play/a0c6
 https://clubbingtv-oando.amagi.tv/hls/amagi_hls_data_clubbingt-clubbingtv-oando/CDN/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ABXplore.be" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-303.png" group-title="Culture-Découverte", 4415. ABXplore
-https://mdw-cji.akamaized.net/abxplore/dash/manifest.mpd?hdnts=exp=1667248699~acl=/abxplore/dash/*~hmac=855ff6485816572d62274636b8a60579dd03073f9c7bda685baf362d3990ff4f
+https://mdw-cji.akamaized.net/abxplore/hls/manifest.m3u8?hdnts=exp=1669410148~acl=/abxplore/hls/*~hmac=8be89c111845e582c26655229a667684099dd149cc1fc8612401d956b98e8283
 
 #EXTINF:-1 tvg-id="GolfChannel.fr" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-1166.png" group-title="Sport", 4438. Golf Channel
-https://mdw-cji.akamaized.net/golfchannel/hls/index.m3u8?hdnts=exp=1669186100~acl=/golfchannel/hls/*~hmac=0a30da45e3d4c3fb8b5620aaf55375e0a6d3977dd90d0bf81684efa59e57956d
+https://mdw-cji.akamaized.net/golfchannel/hls/manifest.m3u8?hdnts=exp=1669409622~acl=/golfchannel/hls/*~hmac=9a98fa0f2db6418a65cff362d9303a79971172feb28edc0764d136b2bc742262
 
 #EXTINF:-1 tvg-id="AutomotoLaChaine.fr" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-15.png" group-title="Lifestyle", 4440. Automoto La Chaîne
-https://mdw-cji.akamaized.net/automotolachaine/hls/index.m3u8?hdnts=exp=1669184803~acl=/automotolachaine/hls/*~hmac=e6592f183d707328e4d8240d29f5fc4bf41eb73089f88218c689f30a3d0be825
+https://mdw-cji.akamaized.net/automotolachaine/hls/manifest.m3u8?hdnts=exp=1669409509~acl=/automotolachaine/hls/*~hmac=6fb3247f4285e020ccdb6fabce05472b2daacbc7ecbf11ae802cc0c2993e42b6
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear- .png" group-title="Lifestyle", 4447. Lucky Jack
-https://mdw-cji.akamaized.net/luckyjack/hls/manifest.m3u8?hdnts=exp=1669186256~acl=/luckyjack/hls/*~hmac=b1fd0cb50991fd1aa42dc0216109d72649d2339b4a8072e1702de6f372dbf46a
+https://mdw-cji.akamaized.net/luckyjack/hls/manifest.m3u8?hdnts=exp=1669409727~acl=/luckyjack/hls/*~hmac=65f478e953556d0bc7e1bfce86ec6670f9cbfd7ec3c7cbdcd7449ed60b5de570
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-2037.png" group-title="Culture-Découverte", 4448. Crime District
-https://mdw-cji.akamaized.net/crimedistrict/hls/manifest.m3u8?hdnts=exp=1669185949~acl=/crimedistrict/hls/*~hmac=8ada3047b110333dc085da9e1f29c94a072b45a5c611f52df002ff014d88e7cf
+https://mdw-cji.akamaized.net/crimedistrict/hls/manifest.m3u8?hdnts=exp=1669409590~acl=/crimedistrict/hls/*~hmac=14caa0d55dd82a787c220c90124aea0421858f6e15d89792f9e2f7098a676bbe
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-10.png" group-title="Cinéma-Séries", 4450. Action
 http://37.235.38.139:4000/play/a048
 
 #EXTINF:-1 tvg-id="Mangas.fr" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-6.png" group-title="Jeunesse", 4462. Mangas
-https://mdw-cji.akamaized.net/mangas/hls/manifest.m3u8?hdnts=exp=1669185071~acl=/mangas/hls/*~hmac=10217a0c9465e154e5eb3f7b1fd3035618a932158380fd52d80a7a64501942f2
+https://mdw-cji.akamaized.net/mangas/hls/manifest.m3u8?hdnts=exp=1669409540~acl=/mangas/hls/*~hmac=46bde4bef511adf3470f4dd3ca87f2598b29ded0777da8bfa980ead09723dc1c
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-38.png" group-title="Lifestyle", 4472. Chasse et Pêche
-https://mdw-cji.akamaized.net/chassepeche/hls/manifest.m3u8?hdnts=xp=1669186193~acl=/chassepeche/hls/*~hmac=dfc5f47dc881a7c8f4e4eee48b4f4eb2fec92cdd8a9cef8ffa39210064719c09
+https://mdw-cji.akamaized.net/chassepeche/hls/manifest.m3u8?hdnts=exp=1669409650~acl=/chassepeche/hls/*~hmac=eed93c450e120992eec84c64e3ea7cc2d49e719136709182e3761a4de7e1480d
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-63.png" group-title="Culture-Découverte", 4473. Science & Vie
-https://mdw-cji.akamaized.net/scienceetvie/hls/manifest.m3u8?hdnts=exp=1669185914~acl=/scienceetvie/hls/*~hmac=3ffa236cc438159a72c929024e3b2ec35625151f84cdf289b89a9f90d8379e96
+https://mdw-cji.akamaized.net/scienceetvie/hls/manifest.m3u8?hdnts=exp=1669409478~acl=/scienceetvie/hls/*~hmac=e2fff4dc45d9af3e0d158e8fe6f1887aec056f38bf61b9e318de6745ce787657
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-12.png" group-title="Culture-Découverte", 4474. Animaux
-https://mdw-cji.akamaized.net/animauxtv/hls/manifest.m3u8?hdnts=exp=1669186061~acl=/animauxtv/hls/*~hmac=9dee0f8f7ce94402a806b0e198da2ba8739b0f6f5827f043cb44e654dea16d93
+https://mdw-cji.akamaized.net/animauxtv/hls/manifest.m3u8?hdnts=exp=1669409394~acl=/animauxtv/hls/*~hmac=e4ecb8c26bbe8ead1985455cfd484d45c2ade65437a0c42a030a96348a1d44ca
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-7.png" group-title="Culture-Découverte", 4475. Toute l'Histoire
-https://mdw-cji.akamaized.net/toutelhistoire/hls/manifest.m3u8?hdnts=exp=1669185115~acl=/toutelhistoire/hls/*~hmac=460491abe45718acd0078762e16f6d78cdb304f59d6766f2f2801bbce5d09b65
+https://mdw-cji.akamaized.net/toutelhistoire/hls/manifest.m3u8?hdnts=exp=1669409456~acl=/toutelhistoire/hls/*~hmac=34cf62f06f0c4f029e700ef445f383058199c9083cf9d21dcad9607392556c01
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-1776.png" group-title="Sport", 4476. Trek
-https://mdw-cji.akamaized.net/trekhd/hls/manifest.m3u8?hdnts=exp=1669186228~acl=/trekhd/hls/*~hmac=585d5c68bb9c2be637d4425079a2258838335b92dfc667503b00b973f4aa0ca8
+https://mdw-cji.akamaized.net/trekhd/hls/manifest.m3u8?hdnts=exp=1669409700~acl=/trekhd/hls/*~hmac=440bdb161484fb5d1dd4af33d6453099fd76261756d6ff4316ed0905b9669b23
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-.png" group-title="Culture-Découverte", 4500. Planète+ Aventure
 http://37.235.38.139:4000/play/a09r
