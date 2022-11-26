@@ -647,6 +647,24 @@ https://directes-tv-int.ccma.cat/live-content/bondia-hls/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://laocho.tv/web2/assets_new/img/favicons/8tv.svg" group-title="Locales", 980. La 8 Mediterraneo
 https://streaming004.gestec-video.com/hls/8TV.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo=" " group-title="Général", 991. RTP 1
+https://streaming-live.rtp.pt/liverepeater/rtpClean1HD.smil/manifest.mpd?tk=1669521600_a186901595c628996098c4152669b1921e09cb9e
+
+#EXTINF:-1 tvg-id="" tvg-logo=" " group-title="Général", 996. RTP 3
+https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8?DVR
+
+#EXTINF:-1 tvg-id="" tvg-logo=" " group-title="Général", 996. RTP 3 Açores
+https://streaming-live.rtp.pt/liverepeater/smil:rtpacoresHD.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo=" " group-title="Général", 996. RTP 3 Madeira
+https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo=" " group-title="Général", 998. RTP Africa
+https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo=" " group-title="Général", 999. RTP Internacional
+https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-id="RTL.lu" tvg-logo="https://play.rtl.lu/images/logo_rtl_outline.svg" group-title="Général", 1001. RTL-Tele Lëtzeburg
 https://live-edge.rtl.lu/channel1/smil:channel1.smil/playlist.m3u8
 
