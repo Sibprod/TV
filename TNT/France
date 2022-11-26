@@ -1,13 +1,15 @@
 Liste des chaînes TNT en France et principauté de Monaco
 
+--- CHAÎNES NATIONALES ---
+
 01. TF1
-02. France 2
-03. France 3
+02. France 2 
+03. France 3 
 04. Canal+
 05. France 5
 06. M6
 07. ARTE
-08. C8
+08. C8 
 09. W9
 10. TMC
 11. TFX
@@ -26,23 +28,46 @@ Liste des chaînes TNT en France et principauté de Monaco
 25. Chérie 25
 26. LCI
 27. Franceinfo
+41. Paris Première
+42. Canal+ Sport
+43. Canal+ Cinéma
+44. AB1
+45. Planète+
+47. Canal J
+49. Eurosport 1
+
+--- CHAÎNES RÉGIONALES (Câble et TNT) ---
+
+02. Antenne Réunion (974,976)
+02. TNTV (987)
+02. viàATV (971,972,973)
+03. Canal 10 Guadeloupe (971,977,978)
+09. NC TV (988)
+10. Caledonia (988)
+10. ioTV (977)
+10. KTV (973)
+11. Éclair TV (971,977,978)
+12. Alizés Télévision (971,977,978)
+12. Zitata TV (972)
 28. BFM Grand Littoral (62)
 30. Angers TV (49)
 30. BFM Alsace (67,68)
 30. BFM Lyon-Métropole (01,38,42,69)
-30. BFM Marseille-Provence (13,84)
+30. BFM Marseille-Provence (04,13,84)
 30. BFM Paris-Île-de-France (75,77,91,92,93,94,95)
 30. BFM Toulon-Var (83)
+30. Morzine-Avoriaz TV (74)
 30. TelePaese (20)
 30. TV78 (78)
 30. TVPI (40,64)
+30. Val TV (74)
 30. viàOccitanie Pays Gardois (30,48)
 30. Wéo (59,62)
 31. 7 à Limoges (87)
 31. 8 Mont-Blanc (01,73,74)
 31. BFM D!ci (04,05)
 31. BFM Grand Lille (59)
-31. BFM Nice-Côte-d'Azur (06,83)
+31. BFM Nice-Côte-d'Azur (04,06,83)
 31. Demain ! IDF (75,77,78,91,92,93,94,95)
 31. N31 (75,77,78,91,92,93,94,95)
 31. Tébéo (29)
@@ -54,9 +79,17 @@ Liste des chaînes TNT en France et principauté de Monaco
 31. Vosges Télévision (88)
 32. BFM Grand Littoral (59)
 32. Canal 32 (10)
+32. France 3 Franche-Comté (25,39,70,90)
+32. France 3 Languedoc-Roussillon (26,30,48,84)
 32. IDF 1 (75,77,78,91,92,93,94)
+32. La Chaîne 32 (59)
+33. ASTV (59)
 33. BFM Normandie (14,27,50,61,76)
+33. France 3 Alpes (01,26,38,69,73,74)
+33. France 3 Aquitaine (24,33,40,47,64)
+33. France 3 Franche-Comté (21,58,71,89)
 33. France 24 (75,77,78,91,92,93,94)
+33. LDVTV (43)
 33. LMTV Sarthe (72)
 33. Moselle TV (57)
 33. Puissance Télévision (51,55)
@@ -74,9 +107,48 @@ Liste des chaînes TNT en France et principauté de Monaco
 37. TVT-Val de Loire (37,45)
 38. TéléGrenoble (38)
 40. Maurienne TV (73)
+70. Monaco Info (Monaco, 06,83)
+71. MMD Test (Monaco, 06,83) - Future MCR TV -
+75. TV5 Monde Europe (IT,74)
+76. France 24 (IT,74)
 77. TV7 Colmar (67,68,90)
 95. Lyon Capitale TV (01,38,42,69)
 98. TV3V (67)
+333. NoA (16,17,19,23,24,33,40,47,64,79,86,87)
 801. Alpe d'Huez TV (38)
+
+--- CHAÎNES FRONTALIÈRES ---
+
+*** CANAL 31 ***
+01. TV3 Catalunya (66)
+02. 3/24 (66)
+03. Super3 / El 33 (66)
+04. Esport 3 (66)
+05. IB3 Global (66)
+06. TV3 Catalunya SD (66)
+10. CatRadio (66)
+11. CatInfo (66)
+12. CatMusic (66)
+13. iCat.cat (66)
+
+*** CANAL 33 ***
+
+01. ETB1 (64)
+02. ETB2 (64)
+03. ETB3 (64)
+04. ETBSat (64)
+
+*** CANAL 37 ***
+01. RTS Un (74)
+02. RTS Deux (74)
+03. Léman Bleu (74)
+04. One TV (74)
+05. LFM TV (74)
+06. Rouge TV (74)
+07. Canal Alpha Neuchâtel (74)
+08. Canal Alpha Jura (74)
+09. Euronews Français (74) - Future RTS Info -
+10. SRF 1 (74)
+11. TV Suisse Plus (74)
 
 
