@@ -1064,6 +1064,12 @@ https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
 
 #EXTGRP : CATALOGNE
 
+#EXTINF:-1 tvg-id="La1.es" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tve1_es.png" group-title="Catalogne", 01. RTVE La 1 Catalunya
+https://rtvelivestream-clnx.rtve.es/rtvesec/cat/la1_cat_main_720.m3u8
+
+#EXTINF:-1 tvg-id="La2.es" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tve2_es.png" group-title="Catalogne", 02. RTVE La 2 Catalunya
+https://rtvelivestream-clnx.rtve.es/rtvesec/cat/la2_cat_main_720.m3u8
+
 #EXTINF:-1 tvg-id="TV3CAT.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/TV3CAT.svg/512px-TV3CAT.svg.png" group-title="Catalogne", 03. TV3 Catalunya
 https://directes-tv-int.ccma.cat/live-origin/tvi-hls/master.m3u8
 
@@ -1079,20 +1085,14 @@ https://cdnlive.shooowit.net/25televisiolive/smil:channel1.smil/master.m3u8
 #EXTINF:-1 tvg-logo="http://tvnov.com/images/span/24h.webp" group-title="Catalogne", 30. RTVE 24h Catalunya
 https://rtvelivestream-clnx.rtve.es/rtvesec/cat/24h_cat_main_720.m3u8
 
-#EXTINF:-1 tvg-id="La1.es" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tve1_es.png" group-title="Catalogne", 31. RTVE La 1 Catalunya
-https://rtvelivestream-clnx.rtve.es/rtvesec/cat/la1_cat_main_720.m3u8
-
-#EXTINF:-1 tvg-id="La2.es" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tve2_es.png" group-title="Catalogne", 32. RTVE La 2 Catalunya
-https://rtvelivestream-clnx.rtve.es/rtvesec/cat/la2_cat_main_720.m3u8
+#EXTINF:-1 tvg-id="IB3.es" tvg-logo="https://i.imgur.com/FejMmmF.png" group-title="Catalogne", 32. IB3 Global
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCff_CBVJDTHP4wOHPjP5BMg/live
 
 #EXTINF:-1 tvg-logo="" group-title="Catalogne", 33. SX3
 https://directes-tv-int.ccma.cat/live-origin/super3-hls/master.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Catalogne", 34. 3/24
 https://directes-tv-int.ccma.cat/live-origin/canal324-hls/master.m3u8
-
-#EXTINF:-1 tvg-id="IB3.es" tvg-logo="https://i.imgur.com/FejMmmF.png" group-title="Catalogne", 35. IB3 Global
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCff_CBVJDTHP4wOHPjP5BMg/live
 
 #EXTINF:-1 tvg-id="" tvg-logo=" " group-title="Catalogne", 36. Bon Dia TV
 https://directes-tv-int.ccma.cat/live-content/bondia-hls/master.m3u8
