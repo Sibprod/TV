@@ -119,15 +119,6 @@ http://livetv.ktv.zone/61/play.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://s1.dmcdn.net/u/8vkDy1W6-hQe6j0ui/60x60" group-title="France", 95. Lyon Capitale TV
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x7z3zqa
 
-#EXTINF:-1 tvg-id="TVBreizh.fr" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-225.png" group-title="France", 100. TV Breizh
-https://wza.idipper.com/live/_definst_/channel/3006/TVBREIZH/manifest_mvtime.mpd?tracking=IW99147ac68317488369&ticket=15e219f1-5ae9-431a-be98-351f6fe93b3b
-
-#EXTINF:-1 tvg-id="UshuaiaTV.fr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/uu/ushuaia-tv-fr.png" group-title="France", 101. Ushuaïa TV
-https://wza.idipper.com/live/_definst_/channel/3008/USHUAIATV/manifest_mvtime.mpd?tracking=IW99147ac68317488369&ticket=ca0c4a18-962a-489c-b17a-2ef7b5630bb6
-
-#EXTINF:-1 tvg-id="HistoireTV.fr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/histoire-tv-fr.png" group-title="France", 102. Histoire TV
-https://wza.idipper.com/live/_definst_/channel/3005/HISTOIRE_HD/manifest_mvtime.mpd?tracking=IW99147ac68317488369&ticket=910b9a13-0ca1-4966-b6f6-d8da54b2a1ed
-
 #EXTINF:-1 tvg-id="AntenneReunion.fr" tvg-logo="https://i.imgur.com/EPIMMaB.png" group-title="France", 220. Antenne Réunion
 https://live-antenne-reunion.zeop.tv/live/c3eds/antreunihd/hls_fta/antreunihd.m3u8?location=ZEOP01
 
@@ -138,145 +129,154 @@ https://streamer01.myvideoplace.tv/streamer02/hls/ATV_DIRECT_EV_111018_medium/in
 https://tntv-samsung-fr.amagi.tv/playlist1080p.m3u8
 
 #EXTINF:-1 tvg-id="France3Corse.fr" tvg-logo="http://www.callofliberty.fr/tv/210-france.3corse/210-france.3corse.png" group-title="France", 320. Via Stella
-http://www.callofliberty.fr/stream/france.3corse/master.m3u8
+http://www.callofliberty.fr/stream/france.3corse/master1.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.callofliberty.fr/tv/218-france.3NoA/218-france.3NoA.png" group-title="France", 333. NoA
-http://www.callofliberty.fr/stream/france.3noa/master.m3u8
+http://www.callofliberty.fr/stream/france.3NoA/master1.m3u8
 
 #EXTINF:-1 tvg-id="TV8MontBlanc.fr" tvg-logo="https://i.imgur.com/74pAtJu.png" group-title="France", 374. 8 Mont-Blanc
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x71o73v
 
-#EXTINF:-1 tvg-id="Melody.fr" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-265.png" group-title="France", 420. Melody
-https://live.creacast.com/telemelody/smil:telemelody-211112.smil/index.m3u8
+#EXTINF:-1 tvg-id="TVBreizh.fr" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-225.png" group-title="France", TV Breizh
+https://wza.idipper.com/live/_definst_/channel/3006/TVBREIZH/manifest_mvtime.mpd?tracking=IW99147ac68317488369&ticket=15e219f1-5ae9-431a-be98-351f6fe93b3b
 
-#EXTINF:-1 tvg-id="MyZenTV.fr" tvg-logo="https://i.imgur.com/fIi8o0C.png" group-title="France", 421. My Zen TV
-https://raw.githubusercontent.com/Sibprod/streams/main/files/My_Zen_TV/master.m3u8
+#EXTINF:-1 tvg-id="UshuaiaTV.fr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/uu/ushuaia-tv-fr.png" group-title="France", Ushuaïa TV
+https://wza.idipper.com/live/_definst_/channel/3008/USHUAIATV/manifest_mvtime.mpd?tracking=IW99147ac68317488369&ticket=ca0c4a18-962a-489c-b17a-2ef7b5630bb6
 
-#EXTINF:-1 tvg-id="MuseumTV.fr" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-1072.png" group-title="France", 422. Museum TV
-https://live2.creacast.com/museum-france/smil:museum-france.smil/index.m3u8
+#EXTINF:-1 tvg-id="HistoireTV.fr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/histoire-tv-fr.png" group-title="France", Histoire TV
+https://wza.idipper.com/live/_definst_/channel/3005/HISTOIRE_HD/manifest_mvtime.mpd?tracking=IW99147ac68317488369&ticket=910b9a13-0ca1-4966-b6f6-d8da54b2a1ed
 
-#EXTINF:-1 tvg-id="MuseumTV.fr" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-1072.png" group-title="France", 423. Museum FAST
-
-
-#EXTINF:-1 tvg-id="FRBA3300063FP" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/21/FRBA3300063FP_20220323T080053.png" group-title="France", 425. MyZen fit
-https://amg01255-secomcofites-my-myzen-samsungfr-samsungfr-36vwz.amagi.tv/playlist/amg01255-secomcofites-my-myzen-samsungfr-samsungfr/playlist.m3u8
-
-#EXTINF:-1 tvg-id="I24NewsFrench.fr" tvg-logo="http://www.callofliberty.fr/tv/38-i24NEWS/38-i24NEWS.png" group-title="France", 428. i24 News
-https://bcovlive-a.akamaihd.net/cc8266d36bb5469b8b4a3097497e06e6/eu-central-1/5377161796001/playlist-all.m3u8
-
-#EXTINF:-1 tvg-id="BFMBusiness.fr" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-1073.png" group-title="France", 431. BFM Business
-https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_BUSINESS/index.m3u8?start=LIVE&end=END
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="France", 432. Tech & Co
-https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TECHANDCO/index.m3u8?start=LIVE&end=END
-
-#EXTINF:-1 tvg-id="GolfChannel.fr" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-1166.png" group-title="France", 438. Golf Channel
-https://mdw-cji.akamaized.net/golfchannel/dash/manifest.mpd?hdnts=exp=1669658549~acl=/golfchannel/dash/*~hmac=6b8c2d4606a725ac82d546551b8512ac8fc1aa5ce8d736c7c4cd7f63c0de9ba4
-
-#EXTINF:-1 tvg-id="AutomotoLaChaine.fr" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-15.png" group-title="France", 440. Automoto La Chaîne
-https://wza.idipper.com/live/_definst_/channel/3004/AB_MOTEURS/manifest_mvtime.mpd?tracking=IW99147ac68317488369&ticket=fb7976c1-ab99-4538-91e2-c2a4d09dd1cd
-
-#EXTINF:-1 tvg-id="Equidia.fr" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-64.png" group-title="France", 439. Equidia
-http://www.callofliberty.fr/stream/EQUIDIA/master.m3u8
-
-#EXTINF:-1 tvg-id="FusionTV.mq" tvg-logo="http://fusiontv.fr/wp-content/uploads/2021/03/cropped-LOGO-FUSION-TV2.png" group-title="France", 443. Fusion TV
-https://fusiontv.vedge.infomaniak.com/livecast/fusiontv/manifest.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear- .png" group-title="France", 447. Lucky Jack
-https://mdw-cji.akamaized.net/luckyjack/dash/manifest.mpd?hdnts=exp=1669658669~acl=/luckyjack/dash/*~hmac=82d58a00afca3b948be1b0def6b69925eb86ea535ba60cfa9f48bf815acd405a
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-2037.png" group-title="France", 448. Crime District
-https://mdw-cji.akamaized.net/crimedistrict/dash/manifest.mpd?hdnts=exp=1669658507~acl=/crimedistrict/dash/*~hmac=b1862deb27e9aad05a20b03581703f2b779df2569ab9efd4cccbdea97fb1fffa
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-10.png" group-title="France", 450. Action
-http://37.235.38.139:4000/play/a048
-
-#EXTINF:-1 tvg-id="TVBreizh.fr" tvg-logo=" " group-title="France", 452. Paramount Channel France
-https://wza.idipper.com/live/_definst_/channel/3010/PARAMOUNT_CHANNEL/manifest_mvtime.mpd?tracking=IW99147ac68317488369&ticket=e98ffe66-d49d-4229-8395-b99c094b36d9
-
-#EXTINF:-1 tvg-id="Mangas.fr" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-6.png" group-title="France", 462. Mangas
-https://mdw-cji.akamaized.net/mangas/dash/manifest.mpd?hdnts=exp=1669658287~acl=/mangas/dash/*~hmac=03c51f1ff30f36b6c4a16b0b7e36d732f0300708a8520558b1d7306587d45909
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-38.png" group-title="France", 472. Chasse et Pêche
-https://mdw-cji.akamaized.net/chassepeche/dash/manifest.mpd?hdnts=exp=1669658603~acl=/chassepeche/dash/*~hmac=b7ed2d12c10b8894f17ff96b4f2cef0f1497667f5d15ad9b49216af9d2705eab
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-63.png" group-title="France", 473. Science & Vie
-https://mdw-cji.akamaized.net/scienceetvie/dash/manifest.mpd?hdnts=exp=1669658479~acl=/scienceetvie/dash/*~hmac=f75f9ba60b3f7d5071ec5a0c64f4b345abdcfe8c01eab9fb176b85e454e4474e
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-12.png" group-title="France", 474. Animaux
-https://wza.idipper.com/live/_definst_/channel/3003/ANIMAUX_TV/manifest_mvtime.mpd?tracking=IW99147ac68317488369&ticket=d5742bd0-450d-44c8-8f22-38de1e2dbf65
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-7.png" group-title="France", 475. Toute l'Histoire
-https://mdw-cji.akamaized.net/toutelhistoire/dash/manifest.mpd?hdnts=exp=1669658432~acl=/toutelhistoire/dash/*~hmac=95a08fef240108eee07ae7d4c1ad588a1e43164e71c90070be489584054deb4a
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-1776.png" group-title="France", 476. Trek
-https://mdw-cji.akamaized.net/trekhd/dash/manifest.mpd?hdnts=exp=1669658636~acl=/trekhd/dash/*~hmac=aa0be9fa49389255594043f2a05a4818df733469b4c492bd83d9b40a565215c0
-
-#EXTINF:-1 tvg-logo="" group-title="France", 477. Astrocenter.TV
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/user/astrocenterFR/live
-
-#EXTINF:-1 tvg-logo="" group-title="France", 480. MTV France
-https://wza.idipper.com/live/_definst_/channel/3015/MTV_FRANCE_HD/manifest_mvtime.mpd?tracking=IW99147ac68317488369&ticket=d904ebaf-4bc9-4fb2-9dc6-f0e5d4ff1895
-
-#EXTINF:-1 tvg-logo="" group-title="France", 482. Nickelodeon France
-https://wza.idipper.com/live/_definst_/channel/3017/NICK_FRANCE_HD/manifest_mvtime.mpd?tracking=IW99147ac68317488369&ticket=f1e160d2-36c5-4dcd-8837-713ca5fb1286
-
-#EXTINF:-1 tvg-logo="" group-title="France", 483. Nickeolodeon Junior
-https://wza.idipper.com/live/_definst_/channel/3019/NICKELODEON_JNR/manifest_mvtime.mpd?tracking=IW99147ac68317488369&ticket=90a56906-9ac6-4f3d-be7a-f77f61730b47
-
-#EXTINF:-1 tvg-logo="" group-title="France", 484. Nickelodeon 4Teen
-https://wza.idipper.com/live/_definst_/channel/3018/NICK4TEEN_HD/manifest_mvtime.mpd?tracking=IW99147ac68317488369&ticket=3f532985-203d-42e5-937c-d844b801ff1d
-
-#EXTINF:-1 tvg-logo="" group-title="France", 485. BET France
-https://wza.idipper.com/live/_definst_/channel/3011/BET/manifest_mvtime.mpd?tracking=IW99147ac68317488369&ticket=75ff16d5-7ebe-454e-ac9e-b179853b9e6f
-
-#EXTINF:-1 tvg-logo="" group-title="France", 487. Comedy Central France
-https://wza.idipper.com/live/_definst_/channel/3020/COMEDY_CENTRAL/manifest_mvtime.mpd?tracking=IW99147ac68317488369&ticket=8fb7389f-561b-4d08-bbce-efb79d3a3bff
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://db7fdbb9cq5hq.cloudfront.net/img/lo/08f1695507ed94096d43c1454737cb4d.png" group-title="France", 491. Autoplus TV
-https://dvun9n03fdh46.cloudfront.net/out/v1/0a19823718464534a0f67925c4463815/index.mpd
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://gourmandtv.fr/themes/gourmandtv/css/images/def2.png" group-title="France", 492. Gourmand TV
-https://gt1604323067.mytvchain.info/live/gt1604323067_720/index.m3u8
-
-#EXTINF:-1 tvg-id=" " tvg-logo="http://www.callofliberty.fr/tv/119-TOPSanteTV/119-TOPSanteTV.png" group-title="France",493. Top Santé TV
-http://www.callofliberty.fr/stream/TopSanteTV/master.m3u8
-
-#EXTINF:-1 tvg-id=" " tvg-logo="http://www.callofliberty.fr/tv/118-MaisonEtTravauxTV/118-MaisonEtTravauxTV.png" group-title="France", 494. Maison & Travaux TV
-http://www.callofliberty.fr/stream/MaisonEtTravauxTV/master.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="France", 495. RT France
-https://raw.githubusercontent.com/Sibprod/streams/main/files/RT_France/master.m3u8
-
-#EXTINF:-1 tvg-id="CGTNFrench.cn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/CGTN_-_fran%C3%A7ais.png/512px-CGTN_-_fran%C3%A7ais.png" group-title="France", 497. CGTN Français
-https://livefr.cgtn.com/1000f/prog_index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="France", 500. TV5 Monde (Info)
-https://raw.githubusercontent.com/Sibprod/streams/main/files/TV5_Monde_Info/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://fr.thematv.ca/images/channels/m6-international.png" group-title="France", 600. M6 International
+#EXTINF:-1 tvg-id="" tvg-logo="https://fr.thematv.ca/images/channels/m6-international.png" group-title="France", M6 International
 https://shls-m6-int-prod-dub.shahid.net/out/v1/a315ab77ee7343a7a17dbe7e32eee3ba/index_1.m3u8
 
-#EXTINF:-1 tvg-id="Teva.fr" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-191.png" group-title="France", 601. Téva
+#EXTINF:-1 tvg-id="Teva.fr" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-191.png" group-title="France", Téva
 https://raw.githubusercontent.com/Sibprod/streams/main/files/Teva/master.m3u8
 
-#EXTINF:-1 tvg-id="Tiji.fr" tvg-logo="https://i.imgur.com/vjGeVmX.png" group-title="France", 602. Tiji
+#EXTINF:-1 tvg-id="Tiji.fr" tvg-logo="https://i.imgur.com/vjGeVmX.png" group-title="France", Tiji
 https://raw.githubusercontent.com/Sibprod/streams/main/files/TiJi/master.m3u8
 
-#EXTINF:-1 tvg-id="MCM.fr" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-121.png" group-title="France", 603. MCM
+#EXTINF:-1 tvg-id="MCM.fr" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-121.png" group-title="France", MCM
 http://190.2.155.162:8080/mcm/mpegts
 
 #EXTINF:-1 tvg-id="LCP.fr" tvg-logo="https://www.ktv.zone/wp-content/uploads/2016/12/15_dune.png" group-title="France", 1301. La Chaîne Parlementaire 100%
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/xgepjr
 
-#EXTINF:-1 tvg-id="PublicSenat.fr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/public-senat-fr.png" group-title="France", 1302. Public Sénat
+#EXTINF:-1 tvg-id="PublicSenat.fr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/public-senat-fr.png" group-title="France", Public Sénat
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/publicsenat
 
-#EXTINF:-1 tvg-id="FRBC4200004XH" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/FRBC4200004XH_20221109T010508.png" group-title="France", 2101. L'Équipe : Live 1
+#EXTINF:-1 tvg-id="FRBC4200004XH" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/FRBC4200004XH_20221109T010508.png" group-title="France", L'Équipe : Live 1
 https://d3awaj0f2u3w26.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gy7euubgydp20-ssai-prd/master.m3u8
 
-#EXTINF:-1 tvg-id="FRBC4200005X2" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/FRBC4200005X2_20221109T010509.png" group-title="France", 2102. L'Équipe : Live 2
+#EXTINF:-1 tvg-id="FRBC4200005X2" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/FRBC4200005X2_20221109T010509.png" group-title="France", L'Équipe : Live 2
 https://d2l55nvfkhk4sg.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jg7go1lqzgpny-ssai-prd/master.m3u8
+
+#EXTINF:-1 tvg-id="Melody.fr" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-265.png" group-title="France", Melody
+https://live.creacast.com/telemelody/smil:telemelody-211112.smil/index.m3u8
+
+#EXTINF:-1 tvg-id="MyZenTV.fr" tvg-logo="https://i.imgur.com/fIi8o0C.png" group-title="France", My Zen TV
+https://raw.githubusercontent.com/Sibprod/streams/main/files/My_Zen_TV/master.m3u8
+
+#EXTINF:-1 tvg-id="MuseumTV.fr" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-1072.png" group-title="France", Museum TV
+https://live2.creacast.com/museum-france/smil:museum-france.smil/index.m3u8
+
+#EXTINF:-1 tvg-id="MuseumTV.fr" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-1072.png" group-title="France", Museum FAST
+
+
+#EXTINF:-1 tvg-id="FRBA3300063FP" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/21/FRBA3300063FP_20220323T080053.png" group-title="France", MyZen fit
+https://amg01255-secomcofites-my-myzen-samsungfr-samsungfr-36vwz.amagi.tv/playlist/amg01255-secomcofites-my-myzen-samsungfr-samsungfr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="I24NewsFrench.fr" tvg-logo="http://www.callofliberty.fr/tv/38-i24NEWS/38-i24NEWS.png" group-title="France", i24 News
+https://bcovlive-a.akamaihd.net/cc8266d36bb5469b8b4a3097497e06e6/eu-central-1/5377161796001/playlist-all.m3u8
+
+#EXTINF:-1 tvg-id="BFMBusiness.fr" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-1073.png" group-title="France", BFM Business
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_BUSINESS/index.m3u8?start=LIVE&end=END
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="France", Tech & Co
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TECHANDCO/index.m3u8?start=LIVE&end=END
+
+#EXTINF:-1 tvg-id="GolfChannel.fr" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-1166.png" group-title="France", Golf Channel
+https://mdw-cji.akamaized.net/golfchannel/dash/manifest.mpd?hdnts=exp=1669658549~acl=/golfchannel/dash/*~hmac=6b8c2d4606a725ac82d546551b8512ac8fc1aa5ce8d736c7c4cd7f63c0de9ba4
+
+#EXTINF:-1 tvg-id="AutomotoLaChaine.fr" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-15.png" group-title="France", Automoto La Chaîne
+https://wza.idipper.com/live/_definst_/channel/3004/AB_MOTEURS/manifest_mvtime.mpd?tracking=IW99147ac68317488369&ticket=fb7976c1-ab99-4538-91e2-c2a4d09dd1cd
+
+#EXTINF:-1 tvg-id="Equidia.fr" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-64.png" group-title="France", Equidia
+http://www.callofliberty.fr/stream/EQUIDIA/master.m3u8
+
+#EXTINF:-1 tvg-id="FusionTV.mq" tvg-logo="http://fusiontv.fr/wp-content/uploads/2021/03/cropped-LOGO-FUSION-TV2.png" group-title="France", Fusion TV
+https://fusiontv.vedge.infomaniak.com/livecast/fusiontv/manifest.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear- .png" group-title="France", Lucky Jack
+https://mdw-cji.akamaized.net/luckyjack/dash/manifest.mpd?hdnts=exp=1669658669~acl=/luckyjack/dash/*~hmac=82d58a00afca3b948be1b0def6b69925eb86ea535ba60cfa9f48bf815acd405a
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-2037.png" group-title="France", Crime District
+https://mdw-cji.akamaized.net/crimedistrict/dash/manifest.mpd?hdnts=exp=1669658507~acl=/crimedistrict/dash/*~hmac=b1862deb27e9aad05a20b03581703f2b779df2569ab9efd4cccbdea97fb1fffa
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-10.png" group-title="France", Action
+http://37.235.38.139:4000/play/a048
+
+#EXTINF:-1 tvg-id="TVBreizh.fr" tvg-logo=" " group-title="France", Paramount Channel France
+https://wza.idipper.com/live/_definst_/channel/3010/PARAMOUNT_CHANNEL/manifest_mvtime.mpd?tracking=IW99147ac68317488369&ticket=e98ffe66-d49d-4229-8395-b99c094b36d9
+
+#EXTINF:-1 tvg-id="Mangas.fr" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-6.png" group-title="France", Mangas
+https://mdw-cji.akamaized.net/mangas/dash/manifest.mpd?hdnts=exp=1669658287~acl=/mangas/dash/*~hmac=03c51f1ff30f36b6c4a16b0b7e36d732f0300708a8520558b1d7306587d45909
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-38.png" group-title="France", Chasse et Pêche
+https://mdw-cji.akamaized.net/chassepeche/dash/manifest.mpd?hdnts=exp=1669658603~acl=/chassepeche/dash/*~hmac=b7ed2d12c10b8894f17ff96b4f2cef0f1497667f5d15ad9b49216af9d2705eab
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-63.png" group-title="France", Science & Vie
+https://mdw-cji.akamaized.net/scienceetvie/dash/manifest.mpd?hdnts=exp=1669658479~acl=/scienceetvie/dash/*~hmac=f75f9ba60b3f7d5071ec5a0c64f4b345abdcfe8c01eab9fb176b85e454e4474e
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-12.png" group-title="France", Animaux
+https://wza.idipper.com/live/_definst_/channel/3003/ANIMAUX_TV/manifest_mvtime.mpd?tracking=IW99147ac68317488369&ticket=d5742bd0-450d-44c8-8f22-38de1e2dbf65
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-7.png" group-title="France", Toute l'Histoire
+https://mdw-cji.akamaized.net/toutelhistoire/dash/manifest.mpd?hdnts=exp=1669658432~acl=/toutelhistoire/dash/*~hmac=95a08fef240108eee07ae7d4c1ad588a1e43164e71c90070be489584054deb4a
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-1776.png" group-title="France", Trek
+https://mdw-cji.akamaized.net/trekhd/dash/manifest.mpd?hdnts=exp=1669658636~acl=/trekhd/dash/*~hmac=aa0be9fa49389255594043f2a05a4818df733469b4c492bd83d9b40a565215c0
+
+#EXTINF:-1 tvg-logo="" group-title="France", Astrocenter.TV
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/user/astrocenterFR/live
+
+#EXTINF:-1 tvg-logo="" group-title="France", MTV France
+https://wza.idipper.com/live/_definst_/channel/3015/MTV_FRANCE_HD/manifest_mvtime.mpd?tracking=IW99147ac68317488369&ticket=d904ebaf-4bc9-4fb2-9dc6-f0e5d4ff1895
+
+#EXTINF:-1 tvg-logo="" group-title="France", Nickelodeon France
+https://wza.idipper.com/live/_definst_/channel/3017/NICK_FRANCE_HD/manifest_mvtime.mpd?tracking=IW99147ac68317488369&ticket=f1e160d2-36c5-4dcd-8837-713ca5fb1286
+
+#EXTINF:-1 tvg-logo="" group-title="France", Nickeolodeon Junior
+https://wza.idipper.com/live/_definst_/channel/3019/NICKELODEON_JNR/manifest_mvtime.mpd?tracking=IW99147ac68317488369&ticket=90a56906-9ac6-4f3d-be7a-f77f61730b47
+
+#EXTINF:-1 tvg-logo="" group-title="France", Nickelodeon 4Teen
+https://wza.idipper.com/live/_definst_/channel/3018/NICK4TEEN_HD/manifest_mvtime.mpd?tracking=IW99147ac68317488369&ticket=3f532985-203d-42e5-937c-d844b801ff1d
+
+#EXTINF:-1 tvg-logo="" group-title="France", BET France
+https://wza.idipper.com/live/_definst_/channel/3011/BET/manifest_mvtime.mpd?tracking=IW99147ac68317488369&ticket=75ff16d5-7ebe-454e-ac9e-b179853b9e6f
+
+#EXTINF:-1 tvg-logo="" group-title="France", Comedy Central France
+https://wza.idipper.com/live/_definst_/channel/3020/COMEDY_CENTRAL/manifest_mvtime.mpd?tracking=IW99147ac68317488369&ticket=8fb7389f-561b-4d08-bbce-efb79d3a3bff
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://db7fdbb9cq5hq.cloudfront.net/img/lo/08f1695507ed94096d43c1454737cb4d.png" group-title="France", Autoplus TV
+https://dvun9n03fdh46.cloudfront.net/out/v1/0a19823718464534a0f67925c4463815/index.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://gourmandtv.fr/themes/gourmandtv/css/images/def2.png" group-title="France", Gourmand TV
+https://gt1604323067.mytvchain.info/live/gt1604323067_720/index.m3u8
+
+#EXTINF:-1 tvg-id=" " tvg-logo="http://www.callofliberty.fr/tv/119-TOPSanteTV/119-TOPSanteTV.png" group-title="France", Top Santé TV
+http://www.callofliberty.fr/stream/TopSanteTV/master.m3u8
+
+#EXTINF:-1 tvg-id=" " tvg-logo="http://www.callofliberty.fr/tv/118-MaisonEtTravauxTV/118-MaisonEtTravauxTV.png" group-title="France", Maison & Travaux TV
+http://www.callofliberty.fr/stream/MaisonEtTravauxTV/master.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="France", RT France
+https://raw.githubusercontent.com/Sibprod/streams/main/files/RT_France/master.m3u8
+
+#EXTINF:-1 tvg-id="CGTNFrench.cn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/CGTN_-_fran%C3%A7ais.png/512px-CGTN_-_fran%C3%A7ais.png" group-title="France", CGTN Français
+https://livefr.cgtn.com/1000f/prog_index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="France", TV5 Monde (Info)
+https://raw.githubusercontent.com/Sibprod/streams/main/files/TV5_Monde_Info/master.m3u8
 
 #EXTINF:-1 tvg-chno=" " group-title="France", B Smart
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/bsmart
@@ -292,7 +292,13 @@ https://tvmcp.pro-fhi.net:1936/pancracetv/pancracetv/playlist.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://monacoinfo.com/wp-content/themes/monacoinfo_v4/assets/img/monacoinfo-color.png" group-title="Monaco", 70. Monaco Info
 https://webtvmonacoinfo.mc/live/prod_720/index.m3u8
 
-#EXTGRP : BELGIQUE
+#EXTGRP : BELGIQUE - LUXEMBOURG
+
+#EXTINF:-1 tvg-id="FRBA3300060U8" tvg-chno="4411" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/06/92/FRBA3300060U8_20220323T075955.png" group-title="Luxembourg", Luxe.TV
+https://amg00712-alchimie-luxefr-samsungfr-wjg07.amagi.tv/playlist/amg00712-alchimie-luxefr-samsungfr/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.bistvonline.com/assets/images/live/rtl9.png" group-title="Luxembourg", RTL9
+https://wza.idipper.com/live/_definst_/channel/3001/RTL9/manifest_mvtime.mpd?tracking=IW99147ac68317488369&ticket=2a2b3ba4-ed2a-4185-92a4-326461cb1ab8
 
 #EXTINF:-1 tvg-id="LaUne.be" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-164.png" group-title="Belgique", 01. La Une
 http://185.236.229.31:9981/play/a030
@@ -309,25 +315,8 @@ https://euronews.alteox.app/hls/fr_stream.m3u8
 #EXTINF:-1 tvg-id="BX1.be" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear- .png" group-title="Belgique", 05. BX1
 https://59959724487e3.streamlock.net:443/stream/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="AB3.be" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-254.png" group-title="Belgique",07. AB3
-http://37.235.38.139:4000/play/a0c6
-
-#EXTINF:-1 tvg-id="ABXplore.be" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-303.png" group-title="Belgique", 15. ABXplore
-https://mdw-cji.akamaized.net/abxplore/dash/manifest.mpd?hdnts=exp=1669659072~acl=/abxplore/dash/*~hmac=676caa80d0d68a49322bd171a94ff771e4493e001c8aa9345f7bf93115da14ad
-
-#EXTINF:-1 tvg-id="LN24.be" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/LN24_-_Logo.png" group-title="Belgique", 18. LN24
-https://hls-origin01-ln24.cdn01.rambla.be/adliveorigin-ln24/_definst_/ApYjOq.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://xite.nl/img/xite_logo.png" group-title="Belgique", 27. Xite 
-https://ms7.mx-cd.net/tv/226-1855782/XITE_NL.smil/chunklist_w323364313_b3328000_slNLD.m3u8
-
-#EXTGRP : LUXEMBOURG
-
-#EXTINF:-1 tvg-id="FRBA3300060U8" tvg-chno="4411" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/06/92/FRBA3300060U8_20220323T075955.png" group-title="Luxembourg", 07-01. LUXE.TV
-https://amg00712-alchimie-luxefr-samsungfr-wjg07.amagi.tv/playlist/amg00712-alchimie-luxefr-samsungfr/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.bistvonline.com/assets/images/live/rtl9.png" group-title="Luxembourg", 21-01. RTL9
-https://wza.idipper.com/live/_definst_/channel/3001/RTL9/manifest_mvtime.mpd?tracking=IW99147ac68317488369&ticket=2a2b3ba4-ed2a-4185-92a4-326461cb1ab8
+#EXTINF:-1 tvg-id="" tvg-logo=" " group-title="Belgique", 22-03. Ketnet Junior
+https://virtch.vrtcdn.be/v1/channel/KETNET_JUNIOR_PROD_HLS/ketnet_junior_prod_hls-hls.m3u8
 
 #EXTINF:-1 tvg-id="RTLTVI.be" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-168.png" group-title="Luxembourg", 24-01. RTL-TVi
 https://raw.githubusercontent.com/Sibprod/streams/main/files/RTL-TVI/master.m3u8
@@ -344,8 +333,20 @@ https://live-edge.rtl.lu/channel1/smil:channel1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="RTL.lu" tvg-logo="https://play.rtl.lu/images/logo_rtlzwee_outline.svg" group-title="Luxembourg", 27-02. RTL Zwee
 https://live-edge.rtl.lu/channel2/smil:channel2.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo=" " group-title="Luxembourg", 27-05. Chamber TV
+#EXTINF:-1 tvg-id="AB3.be" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-254.png" group-title="Belgique", AB3
+http://37.235.38.139:4000/play/a0c6
+
+#EXTINF:-1 tvg-id="ABXplore.be" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-303.png" group-title="Belgique", ABXplore
+https://mdw-cji.akamaized.net/abxplore/dash/manifest.mpd?hdnts=exp=1669659072~acl=/abxplore/dash/*~hmac=676caa80d0d68a49322bd171a94ff771e4493e001c8aa9345f7bf93115da14ad
+
+#EXTINF:-1 tvg-id="" tvg-logo=" " group-title="Luxembourg", Chamber TV
 https://media02.webtvlive.eu/chd-edge/_definst_/smil:chamber_tv_hd.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LN24.be" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/LN24_-_Logo.png" group-title="Belgique", LN24
+https://live.digiteka.com/1/bEg0RmFLb1JMYXRI/dGhqbmIw/hls/vjgmsb8b/416/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://xite.nl/img/xite_logo.png" group-title="Belgique", Xite 
+https://ms7.mx-cd.net/tv/226-1855782/XITE_NL.smil/chunklist_w323364313_b3328000_slNLD.m3u8
 
 #EXTGRP : SUISSE
 
@@ -379,25 +380,259 @@ http://livetv.ktv.zone/128/play.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Suisse", 11. TV Suisse Plus
 https://185.125.25.66:443/livecast/compack_media_1/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Suisse", 68. Dieu TV
+#EXTINF:-1 tvg-logo="" group-title="Suisse", Dieu TV
 https://katapy.hs.llnwd.net/dieutvwza1/DIEUTVLIVE/smil:dieutv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Suisse", 69. TVM 3
+#EXTINF:-1 tvg-logo="" group-title="Suisse", TVM 3
 https://tvm3.vedge.infomaniak.com/livecast/ik:tvm3/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Suisse", 351. RSI La 1
+#EXTINF:-1 tvg-logo="" group-title="Suisse", RSI La 1
 http://livetv.ktv.zone/2/play.m3u8
 
 #EXTGRP : LOCALES
 
-#EXTINF:-1 tvg-logo="" group-title="Locales", 11. La Télé
-https://185.125.25.66:443/livecast/latele/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.callofliberty.fr/tv/224-france.3provencealpes/224-france.3provencealpes.png" group-title="Locales", 03. France 3 Provence-Alpes
+http://www.callofliberty.fr/stream/france.3provencealpes/master.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Locales", 16. Canal 9
-https://185.125.25.66:443/livecast/livehd/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.callofliberty.fr/tv/206-france.3bourgogne/206-france.3bourgogne.png" group-title="Locales", 03. France 3 Bourgogne
+http://www.callofliberty.fr/stream/france.3bourgogne/master.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Locales", 19. Telebielingue
-https://185.125.25.66:443/livecast/telebielingue/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.callofliberty.fr/tv/212-france.3franchecomte/212-france.3franchecomte.png" group-title="Locales", 32. France 3 Franche-Comté
+http://www.callofliberty.fr/stream/france.3franchecomte/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.callofliberty.fr/tv/217-france.3midipyrenees/217-france.3midipyrenees.png" group-title="Locales", 03. France 3 Midi-Pyrénées
+http://www.callofliberty.fr/stream/france.3midipyrenees/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.callofliberty.fr/tv/203-france.3aquitaine/203-france.3aquitaine.png" group-title="Locales", 03. France 3 Aquitaine
+http://www.callofliberty.fr/stream/france.3aquitaine/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.callofliberty.fr/tv/214-france.3languedocroussillon/214-france.3languedocroussillon.png" group-title="Locales", 32. France 3 Languedoc-Roussillon
+http://www.callofliberty.fr/stream/france.3languedocroussillon/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.callofliberty.fr/tv/207-france.3bretagne/207-france.3bretagne.png" group-title="Locales", 03. France 3 Bretagne
+http://www.callofliberty.fr/stream/france.3bretagne/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.callofliberty.fr/tv/221-france.3paysdelaloire/221-france.3paysdelaloire.png" group-title="Locales", 03. France 3 Pays de la Loire
+http://www.callofliberty.fr/stream/france.3paysdelaloire/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.callofliberty.fr/tv/208-france.3centrevaldeloire/208-france.3centrevaldeloire.png" group-title="Locales", 03. France 3 Centre-Val de Loire
+http://www.callofliberty.fr/stream/france.3centrevaldeloire/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.callofliberty.fr/tv/219-france.3nordpasdecalais/219-france.3nordpasdecalais.png" group-title="Locales", 03. France 3 Nord Pas-de-Calais
+http://www.callofliberty.fr/stream/france.3nordpasdecalais/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.callofliberty.fr/tv/204-france.3auvergne/204-france.3auvergne.png" group-title="Locales", 03. France 3 Auvergne
+http://www.callofliberty.fr/stream/france.3auvergne/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.callofliberty.fr/tv/202-france.3alsace/202-france.3alsace.png" group-title="Locales", 03. France 3 Alsace
+http://www.callofliberty.fr/stream/france.3alsace/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.callofliberty.fr/tv/225-france.3rhonealpes/225-france.3rhonealpes.png" group-title="Locales", 03. France 3 Rhône-Alpes
+http://www.callofliberty.fr/stream/france.3rhonealpes/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.callofliberty.fr/tv/220-france.3parisiledefrance/220-france.3parisiledefrance.png" group-title="Locales", 03. France 3 Paris-Île-de-France
+http://www.callofliberty.fr/stream/france.3parisiledefrance/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.callofliberty.fr/tv/213-france.3hautenormandie/213-france.3hautenormandie.png" group-title="Locales", 03. France 3 Haute-Normandie
+http://www.callofliberty.fr/stream/france.3hautenormandie/master.m3u8
+
+#EXTINF:-1 tvg-id="La7.es" tvg-logo="https://i.imgur.com/haWbhrS.png" group-title="Locales", 07. LA7
+https://cdnlive.shooowit.net/la7live/smil:channel1.smil/master.m3u8
+
+#EXTINF:-1 tvg-id="La8Avila.es" tvg-logo="https://i.imgur.com/oVtVKw0.png" group-title="Locales", 08. La 8 Avila
+https://cdnlive.shooowit.net/la8avilalive/smil:streamswitchingchannel.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="La8Bierzo.es" tvg-logo="https://i.imgur.com/Euy5tr0.png" group-title="Locales", 08. La 8 Bierzo
+https://cdnlive.shooowit.net/la8bierzolive/smil:streamswitchingchannel.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="La8Burgos.es" tvg-logo="https://i.imgur.com/Uu7XQ15.png" group-title="Locales", 08. La 8 Burgos
+https://cdnlive.shooowit.net/la8burgoslive/smil:streamswitchingchannel.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="La8Leon.es" tvg-logo="https://i.imgur.com/0cauvlI.png" group-title="Locales", 08. La 8 Leon
+https://cdnlive.shooowit.net/la8leonlive/smil:streamswitchingchannel.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="La8Palencia.es" tvg-logo="https://i.imgur.com/ays4l8A.png" group-title="Locales", 08. La 8 Palencia
+https://cdnlive.shooowit.net/la8palencialive/smil:streamswitchingchannel.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="La8Salamanca.es" tvg-logo="https://i.imgur.com/DiM5iWn.png" group-title="Locales", 08. La 8 Salamanca
+https://cdnlive.shooowit.net/la8salamancalive/smil:streamswitchingchannel.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="La8Segovia.es" tvg-logo="https://i.imgur.com/ePhoNJl.png" group-title="Locales", 08. La 8 Segovia
+https://cdnlive.shooowit.net/la8segovialive/smil:streamswitchingchannel.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="La8Soria.es" tvg-logo="https://i.imgur.com/pTC3bLN.png" group-title="Locales", 08. La 8 Soria
+https://cdnlive.shooowit.net/la8sorialive/smil:streamswitchingchannel.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="La8Valladolid.es" tvg-logo="https://i.imgur.com/WEHmZ0R.png" group-title="Locales", 08. La 8 Valladolid
+https://cdnlive.shooowit.net/la8valladolidlive/smil:streamswitchingchannel.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="La8Zamora.es" tvg-logo="https://i.imgur.com/cJepz8T.png" group-title="Locales", 08. La 8 Zamora
+https://cdnlive.shooowit.net/la8zamoralive/smil:streamswitchingchannel.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Locales", 10. RTC-Télé Liège
+https://tvlocales-live.freecaster.com/95d2f6eb-6f01-4d1d-8543-d14966de7b04/95d2f6eb-6f01-4d1d-8543-d14966de7b04.isml/master.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Locales", 10. Télé Sambre
+https://telesambre-live.freecaster.com/live/telesambre/telesambre.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Locales", 10. TV Com
+https://tvlocales-live.freecaster.com/95d2f656-50f1-432b-84a6-ce11c6cdb482/95d2f656-50f1-432b-84a6-ce11c6cdb482.isml/master.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Locales", 10. TV Lux
+https://tvlocales-live.freecaster.com/95d2f631-8941-4efd-b223-0ebd56a033c4/95d2f631-8941-4efd-b223-0ebd56a033c4.isml/master.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Locales", 10. Védia
+https://tvlocales-live.freecaster.com/95d2f480-3c9f-48ba-ba4e-af64b58431ef/95d2f480-3c9f-48ba-ba4e-af64b58431ef.isml/master.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Locales", 10. No Télé
+https://streaming01.divercom.be/notele_live/_definst_/direct.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Locales", 10. Boukè
+https://tvlocales-live.freecaster.com/95d2f70d-9229-478b-9aed-bc4fa220316d/95d2f70d-9229-478b-9aed-bc4fa220316d.isml/master.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Locales", 10. Télé MB
+https://tvlocales-live.freecaster.com/95d2f6c9-e85f-4388-8e9c-596260a4206f/95d2f6c9-e85f-4388-8e9c-596260a4206f.isml/master.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Locales", 10. ACTV
+https://tvlocales-live.freecaster.com/95d2f733-1bc2-4bd5-9b96-c53ed3fc450f/95d2f733-1bc2-4bd5-9b96-c53ed3fc450f.isml/master.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Locales", 10. Ma Télé
+https://live.matele.be/hls/live.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Locales", 10. Canal Zoom
+https://tvlocales-live.freecaster.com/95d2e3af-5ab8-45a9-9dc9-f544d006b5d5/95d2e3af-5ab8-45a9-9dc9-f544d006b5d5.isml/master.m3u8
+
+#EXTINF:-1 tvg-id="BFMMarseille.fr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bfm-marseille-fr.svg" group-title="Locales", 30. BFM Marseille-Provence
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_MARSEILLEPROV/index.m3u8?start=LIVE&end=END
+
+#EXTINF:-1 tvg-id="BFMAlsace.fr" tvg-logo="" group-title="Locales", 30. BFM Alsace
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_ALSACE/index.m3u8?start=LIVE&end=END
+
+#EXTINF:-1 tvg-id="BFMLyon.fr" tvg-logo="http://www.callofliberty.fr/tv/33-BFMLYON/33-BFMLYON.png" group-title="Locales", 30. BFM Lyon-Métropole
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_LYON/index.m3u8?start=LIVE&end=END
+
+#EXTINF:-1 tvg-id="BFMParis.fr" tvg-logo="http://www.callofliberty.fr/tv/32-BFMPARIS/32-BFMPARIS.png" group-title="Locales", 30. BFM Paris-Île-de-France
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_PARIS/index.m3u8?start=LIVE&end=END
+
+#EXTINF:-1 tvg-id="BFMVar.fr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bfm-var-fr.svg" group-title="Locales", 30. BFM Toulon-Var
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TOULONVAR/index.m3u8?start=LIVE&end=END
+
+#EXTINF:-1 tvg-id=" " tvg-logo="https://natv.fr/wp-content/uploads/sites/4/2022/03/natv_logo.svg" group-title="Locales", 30. NA TV
+https://naradio.vedge.infomaniak.com/livecast/ik:naradio/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ViaTelePaese.fr" tvg-logo=" " group-title="Locales", 30. TelePaese
+https://srv.webtvmanager.fr:3514/live/viatelepaeselive.m3u8
+
+#EXTINF:-1 tvg-id="Weo.fr" tvg-logo="" group-title="Locales", 30. Wéo (La Voix du Nord)
+https://live.digiteka.com/1/WGQ1NnhEN0lzM0NU/dk1EOHhw/hls/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVPI.fr" tvg-logo=" " group-title="Locales", 30. TVPi
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/pvIg7V4UzEg
+
+#EXTINF:-1 tvg-id="TV78.fr" tvg-logo="https://www.tv78.com/wp-content/uploads/2019/04/cropped-tv78_logo.png" group-title="Locales",30. TV78
+https://streamtv.cdn.dvmr.fr/TV78/ngrp:tv78.stream_all/master.m3u8 
+
+#EXTINF:-1 tvg-id="Tebeo.fr" tvg-logo=" " group-title="Locales", 31. Tébéo
+https://start-1.direct.live/hls/tebeo_hi/index.m3u8
+
+#EXTINF:-1 tvg-id="ViaOccitanie.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Viaoccitanie.png/512px-Viaoccitanie.png" group-title="Locales", 31. viàOccitanie
+https://streamer01.myvideoplace.tv/streamer02/hls/MDS_VIA_PAD_301117.m3u8
+
+#EXTINF:-1 tvg-id="TL7.fr" tvg-logo="" group-title="Locales", 31. TL 7
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x5ct4nu
+
+#EXTINF:-1 tvg-id="Telenantes.fr" tvg-logo="" group-title="Locales", 31. Télénantes
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x5so98l
+
+#EXTINF:-1 tvg-logo="https://www.mosaik-cristal.tv/wp-content/uploads/2018/09/cropped-web_mosaik_cristal_640-1.png" group_title="Locales", 31. Mosaïk Cristal
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=37JxViWBWC0
+
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Locales", 31. Grand Charolais TV
+https://tvmcp.pro-fhi.net:1936/grandcharolaistv/grandcharolaistv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="7ALimoges.fr" tvg-logo="https://i.imgur.com/3AelRxI.png" group-title="Locales", 31. 7ALimoges
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCdFv_ZWQ3Xk_NfRiaK-ryGg/live
+
+#EXTINF:-1 tvg-id="VosgesTV.fr" tvg-logo="https://www.vosgestelevision.tv/images/logo_vosgestv.png" group-title="Locales", 31. Vosges Télévision
+https://vosgestv.live-kd.com/live/vosgestv/vosgestv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BFMDici.fr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bfm-dici-fr.svg" group-title="Locales", 31. BFM D!ci Haute-Provence
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_DICI_HAUTEPROVENCE/index.m3u8?start=LIVE&end=END
+
+#EXTINF:-1 tvg-id="BFMDici.fr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bfm-dici-fr.svg" group-title="Locales", 31. BFM D!ci Alpes-du-Sud
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_DICI_ALPESDUSUD/index.m3u8?start=LIVE&end=END
+
+#EXTINF:-1 tvg-id="BFMNice.fr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bfm-cote-dazur-fr.svg" group-title="Locales", 31. BFM Nice-Côte d'Azur
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_NICECOTEDAZUR/index.m3u8?start=LIVE&end=END
+
+#EXTINF:-1 tvg-id="BFMLille.fr" tvg-logo="http://www.callofliberty.fr/tv/34-BFMGRANDLILLE/34-BFMGRANDLILLE.png" group-title="Locales", 31. BFM Grand Lille
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFMGRANDLILLE/index.m3u8?start=LIVE&end=END
+
+#EXTINF:-1 tvg-id="BFMLittoral.fr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bfm-littoral-fr.svg" group-title="Locales", 32. BFM Grand Littoral
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFMGRANDLITTORAL/index.m3u8?start=LIVE&end=END
+
+#EXTINF:-1 tvg-id="" tvg-logo=" " group-title="Locales", 32. Canal 32
+https://canal32.vedge.infomaniak.com/livecast/canal32/manifest.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo=" " group-title="Locales", 32. La Chaîne 32
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/YZA1Ak_eBYc
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.callofliberty.fr/tv/209-france.3champagneardenne/209-france.3champagneardenne.png" group-title="Locales", 32. France 3 Champagne-Ardenne
+http://www.callofliberty.fr/stream/france.3champagneardenne/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.callofliberty.fr/tv/216-france.3lorraine/216-france.3lorraine.png" group-title="Locales", 32. France 3 Lorraine
+http://www.callofliberty.fr/stream/france.3lorraine/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.callofliberty.fr/tv/211-france.3cotedazur/211-france.3cotedazur.png" group-title="Locales", 32. France 3 Côte Azur
+http://www.callofliberty.fr/stream/france.3cotedazur/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.callofliberty.fr/tv/205-france.3bassenormandie/205-france.3bassenormandie.png" group-title="Locales", 32. France 3 Basse-Normandie
+http://www.callofliberty.fr/stream/france.3bassenormandie/master.m3u8
+
+#EXTINF:-1 tvg-id="France3Picardie.fr" tvg-logo="http://www.callofliberty.fr/tv/222-france.3picardie/222-france.3picardie.png" group-title="Locales", 32. France 3 Picardie
+http://www.callofliberty.fr/stream/france.3picardie/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.callofliberty.fr/tv/223-france.3poitoucharentes/223-france.3poitoucharentes.png" group-title="Locales", 32. France 3 Poitou-Charentes
+http://www.callofliberty.fr/stream/france.3poitoucharentes/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.callofliberty.fr/tv/215-france.3limousin/215-france.3limousin.png" group-title="Locales", 32. France 3 Limousin
+http://www.callofliberty.fr/stream/france.3limousin/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.callofliberty.fr/tv/201-france.3alpes/201-france.3alpes.png" group-title="Locales", 33. France 3 Alpes
+http://www.callofliberty.fr/stream/france.3alpes/master.m3u8
+
+#EXTINF:-1 tvg-id="BFMNormandie.fr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bfm-marseille-fr.svg" group-title="Locales", 33. BFM Normandie
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_NORMANDIE/index.m3u8?start=LIVE&end=END
+
+#EXTINF:-1 tvg-id="TV7Bordeaux.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/Tv7Bordeaux-logo.png" group-title="Locales", 33. TV7 Sud-Ouest
+http://live.digiteka.com/1/RVNZMmJtUURmd09I/U0dNU0tk/hls/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TLC.fr" tvg-logo=" " group-title="Locales", 33. Télévision Locale du Choletais
+https://www.dailymotion.com/tlcdirect
+
+#EXTINF:-1 tvg-id="Tebesud.fr" tvg-logo=" " group-title="Locales", 33. Tébésud
+https://start-2.direct.live/hls/tebesud_hi/index.m3u8
+
+#EXTINF:-1 tvg-id="MoselleTV.fr" tvg-logo=" " group-title="Locales", 33. Moselle TV
+https://live.creacast.com/mirabelletv/smil:mirabelletv.smil/index.m3u8
+
+#EXTINF:-1 tvg-id=" " tvg-logo="https://www.tele-astv.fr/img/LOGO%20CARRE.png" group-title="Locales", 33. ASTV
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=7PNU_fGEcyo
+
+#EXTINF:-1 tvg-id="LMTV.fr" tvg-logo="" group-title="Locales", 33. LMTV Sarthe
+https://www.dailymotion.com/video/xuyx0h
+
+#EXTINF:-1 tvg-id="ViaMaTele.Fr" tvg-logo="https://www.lyngsat-stream.com/logo/tv/mm/matele-fr.png" group-title="Locales", 34. MaTélé
+https://5dd226f8f01e8.streamlock.net/via-matele-live/matelelive_1080/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVVendee.fr" tvg-logo="" group-title="Locales", 34. TV Vendée
+https://www.dailymotion.com/video/x38yjeb
+
+#EXTINF:-1 tvg-id="TVR.fr" tvg-logo="https://www.tvr.bzh/favicon-1024.png" group-title="Locales", 35. TVR 35 Bretagne
+https://streamtv.cdn.dvmr.fr/TVR/ngrp:tvr.stream_all/master.m3u8
+
+#EXTINF:-1 tvg-id="WeoPicardie.fr" tvg-logo="" group-title="Locales", 35. Wéo (Le Courrier Picard)
+https://live.digiteka.com/1/Zks2L0VsM2V0T242/QTBqcFly/hls/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="BIPTV.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/b/b1/Bip_TV_logo.png" group-title="Locales", 36. BIP TV
 http://biptv.tv/live/biptvstream_orig/index.m3u8
@@ -414,284 +649,38 @@ https://www.youtu.be/5ARTNKq49WY
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Locales", 77. TV7 Colmar
 http://tv7.hdr-tv.com:1935/live/tv7/livestream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="M95TelevisionMarbella.es" tvg-logo="https://i.imgur.com/AwblMee.png" group-title="Locales", 95. M95 Televisión Marbella
-https://limited2.todostreaming.es/live/m95-livestream.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.tv3v.fr/images/logo_tv3v.png" group-title="Locales", 98. TV3V
 https://tv3v.live-kd.com/live/tv3v/livestream/manifest_w700261310.mpd
-
-#EXTINF:-1 tvg-id="101TeleAntequera.es" tvg-logo="https://i.imgur.com/ZhvkYeg.jpg" group-title="Locales",101-01. Tele Antequera
-https://limited38.todostreaming.es/live/101tv-AntequeraHD.m3u8
-
-#EXTINF:-1 tvg-id="101TVMalaga.es" tvg-logo="https://i.imgur.com/CXHLhZD.png" group-title="Locales", 101-02. 101TV Malaga 
-https://limited38.todostreaming.es/live/101tv-web101tv.m3u8
-
-#EXTINF:-1 tvg-id=" " tvg-logo="" group-title="Locales", 109. TVC9
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=i63CsYh0N2s
-
-#EXTINF:-1 tvg-id="TéléMag.ca" tvg-logo="https://tele-mag.tv/images/uploads/Logos/Logo_Telemag_2013_v1.jpg" tvg-chno=" " group-title="Locales", 119. TéléMag
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCNKXYT-Nng5LBMUQrZJ9zWA/live
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.callofliberty.fr/tv/211-france.3cotedazur/211-france.3cotedazur.png" group-title="Locales", 306. France 3 Côte Azur
-http://www.callofliberty.fr/stream/france.3cotedazur/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.callofliberty.fr/tv/224-france.3provencealpes/224-france.3provencealpes.png" group-title="Locales", 313. France 3 Provence-Alpes
-http://www.callofliberty.fr/stream/france.3provencealpes/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.callofliberty.fr/tv/205-france.3bassenormandie/205-france.3bassenormandie.png" group-title="Locales", 314. France 3 Basse-Normandie
-http://www.callofliberty.fr/stream/france.3bassenormandie/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.callofliberty.fr/tv/206-france.3bourgogne/206-france.3bourgogne.png" group-title="Locales", 321. France 3 Bourgogne
-http://www.callofliberty.fr/stream/france.3bourgogne/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.callofliberty.fr/tv/212-france.3franchecomte/212-france.3franchecomte.png" group-title="Locales", 325. France 3 Franche-Comté
-http://www.callofliberty.fr/stream/france.3franchecomte/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.callofliberty.fr/tv/217-france.3midipyrenees/217-france.3midipyrenees.png" group-title="Locales", 331. France 3 Midi-Pyrénées
-http://www.callofliberty.fr/stream/france.3midipyrenees/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.callofliberty.fr/tv/203-france.3aquitaine/203-france.3aquitaine.png" group-title="Locales", 333. France 3 Aquitaine
-http://www.callofliberty.fr/stream/france.3aquitaine/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.callofliberty.fr/tv/214-france.3languedocroussillon/214-france.3languedocroussillon.png" group-title="Locales", 334. France 3 Languedoc-Roussillon
-http://www.callofliberty.fr/stream/france.3languedocroussillon/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.callofliberty.fr/tv/207-france.3bretagne/207-france.3bretagne.png" group-title="Locales", 335. France 3 Bretagne
-http://www.callofliberty.fr/stream/france.3bretagne/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.callofliberty.fr/tv/201-france.3alpes/201-france.3alpes.png" group-title="Locales", 338. France 3 Alpes
-http://www.callofliberty.fr/stream/france.3alpes/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.callofliberty.fr/tv/221-france.3paysdelaloire/221-france.3paysdelaloire.png" group-title="Locales", 344. France 3 Pays de la Loire
-http://www.callofliberty.fr/stream/france.3paysdelaloire/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.callofliberty.fr/tv/208-france.3centrevaldeloire/208-france.3centrevaldeloire.png" group-title="Locales", 345. France 3 Centre-Val de Loire
-http://www.callofliberty.fr/stream/france.3centrevaldeloire/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.callofliberty.fr/tv/209-france.3champagneardenne/209-france.3champagneardenne.png" group-title="Locales", 351. France 3 Champagne-Ardenne
-http://www.callofliberty.fr/stream/france.3champagneardenne/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.callofliberty.fr/tv/216-france.3lorraine/216-france.3lorraine.png" group-title="Locales", 357. France 3 Lorraine
-http://www.callofliberty.fr/stream/france.3lorraine/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.callofliberty.fr/tv/219-france.3nordpasdecalais/219-france.3nordpasdecalais.png" group-title="Locales", 359. France 3 Nord Pas-de-Calais
-http://www.callofliberty.fr/stream/france.3nordpasdecalais/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.callofliberty.fr/tv/204-france.3auvergne/204-france.3auvergne.png" group-title="Locales", 363. France 3 Auvergne
-http://www.callofliberty.fr/stream/france.3auvergne/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.callofliberty.fr/tv/202-france.3alsace/202-france.3alsace.png" group-title="Locales", 367. France 3 Alsace
-http://www.callofliberty.fr/stream/france.3alsace/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.callofliberty.fr/tv/225-france.3rhonealpes/225-france.3rhonealpes.png" group-title="Locales", 369. France 3 Rhône-Alpes
-http://www.callofliberty.fr/stream/france.3rhonealpes/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.callofliberty.fr/tv/220-france.3parisiledefrance/220-france.3parisiledefrance.png" group-title="Locales", 375. France 3 Paris-Île-de-France
-http://www.callofliberty.fr/stream/france.3parisiledefrance/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.callofliberty.fr/tv/213-france.3hautenormandie/213-france.3hautenormandie.png" group-title="Locales", 376. France 3 Haute-Normandie
-http://www.callofliberty.fr/stream/france.3hautenormandie/master.m3u8
-
-#EXTINF:-1 tvg-id="France3Picardie.fr" tvg-logo="http://www.callofliberty.fr/tv/222-france.3picardie/222-france.3picardie.png" group-title="Locales", 380. France 3 Picardie
-http://www.callofliberty.fr/stream/france.3picardie/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.callofliberty.fr/tv/223-france.3poitoucharentes/223-france.3poitoucharentes.png" group-title="Locales", 386. France 3 Poitou-Charentes
-http://www.callofliberty.fr/stream/france.3poitoucharentes/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.callofliberty.fr/tv/215-france.3limousin/215-france.3limousin.png" group-title="Locales", 387. France 3 Limousin
-http://www.callofliberty.fr/stream/france.3limousin/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Locales", 481. ILTV
 http://live.creacast.com/iltv/smil:iltv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="La7.es" tvg-logo="https://i.imgur.com/haWbhrS.png" group-title="Locales", 701. LA7
-https://cdnlive.shooowit.net/la7live/smil:channel1.smil/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/dd5ade_19f789617d654077a0f66846c2e75056~mv2.png/v1/fill/w_131,h_58,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/161113_logo_adhtv_2017_black.png" group-title="Locales", 801. Alpe d'Huez TV
 https://185.125.25.66:443/livecast/adh/index.m3u8
 
-#EXTINF:-1 tvg-id="La8Avila.es" tvg-logo="https://i.imgur.com/oVtVKw0.png" group-title="Locales", 802. La 8 Avila
-https://cdnlive.shooowit.net/la8avilalive/smil:streamswitchingchannel.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="M95TelevisionMarbella.es" tvg-logo="https://i.imgur.com/AwblMee.png" group-title="Locales", M95 Televisión Marbella
+https://limited2.todostreaming.es/live/m95-livestream.m3u8
 
-#EXTINF:-1 tvg-id="La8Bierzo.es" tvg-logo="https://i.imgur.com/Euy5tr0.png" group-title="Locales", 803. La 8 Bierzo
-https://cdnlive.shooowit.net/la8bierzolive/smil:streamswitchingchannel.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Locales", La Télé
+https://185.125.25.66:443/livecast/latele/index.m3u8
 
-#EXTINF:-1 tvg-id="La8Burgos.es" tvg-logo="https://i.imgur.com/Uu7XQ15.png" group-title="Locales", 804. La 8 Burgos
-https://cdnlive.shooowit.net/la8burgoslive/smil:streamswitchingchannel.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Locales", Canal 9
+https://185.125.25.66:443/livecast/livehd/index.m3u8
 
-#EXTINF:-1 tvg-id="La8Leon.es" tvg-logo="https://i.imgur.com/0cauvlI.png" group-title="Locales", 805. La 8 Leon
-https://cdnlive.shooowit.net/la8leonlive/smil:streamswitchingchannel.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Locales", Telebielingue
+https://185.125.25.66:443/livecast/telebielingue/index.m3u8
 
-#EXTINF:-1 tvg-id="La8Palencia.es" tvg-logo="https://i.imgur.com/ays4l8A.png" group-title="Locales", 806. La 8 Palencia
-https://cdnlive.shooowit.net/la8palencialive/smil:streamswitchingchannel.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="101TeleAntequera.es" tvg-logo="https://i.imgur.com/ZhvkYeg.jpg" group-title="Locales", 101TV Tele Antequera
+https://limited38.todostreaming.es/live/101tv-AntequeraHD.m3u8
 
-#EXTINF:-1 tvg-id="La8Salamanca.es" tvg-logo="https://i.imgur.com/DiM5iWn.png" group-title="Locales", 807. La 8 Salamanca
-https://cdnlive.shooowit.net/la8salamancalive/smil:streamswitchingchannel.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="101TVMalaga.es" tvg-logo="https://i.imgur.com/CXHLhZD.png" group-title="Locales", 101TV Malaga 
+https://limited38.todostreaming.es/live/101tv-web101tv.m3u8
 
-#EXTINF:-1 tvg-id="La8Segovia.es" tvg-logo="https://i.imgur.com/ePhoNJl.png" group-title="Locales", 808. La 8 Segovia
-https://cdnlive.shooowit.net/la8segovialive/smil:streamswitchingchannel.smil/playlist.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="" group-title="Locales", TVC9
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=i63CsYh0N2s
 
-#EXTINF:-1 tvg-id="La8Soria.es" tvg-logo="https://i.imgur.com/pTC3bLN.png" group-title="Locales", 809. La 8 Soria
-https://cdnlive.shooowit.net/la8sorialive/smil:streamswitchingchannel.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="La8Valladolid.es" tvg-logo="https://i.imgur.com/WEHmZ0R.png" group-title="Locales", 810. La 8 Valladolid
-https://cdnlive.shooowit.net/la8valladolidlive/smil:streamswitchingchannel.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="La8Zamora.es" tvg-logo="https://i.imgur.com/cJepz8T.png" group-title="Locales", 811. La 8 Zamora
-https://cdnlive.shooowit.net/la8zamoralive/smil:streamswitchingchannel.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Locales", 1050. RTC-Télé Liège
-https://tvlocales-live.freecaster.com/95d2f6eb-6f01-4d1d-8543-d14966de7b04/95d2f6eb-6f01-4d1d-8543-d14966de7b04.isml/master.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Locales", 1051. Télé Sambre
-https://telesambre-live.freecaster.com/live/telesambre/telesambre.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Locales", 1052. TV Com
-https://tvlocales-live.freecaster.com/95d2f656-50f1-432b-84a6-ce11c6cdb482/95d2f656-50f1-432b-84a6-ce11c6cdb482.isml/master.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Locales", 1053. TV Lux
-https://tvlocales-live.freecaster.com/95d2f631-8941-4efd-b223-0ebd56a033c4/95d2f631-8941-4efd-b223-0ebd56a033c4.isml/master.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Locales", 1054. Védia
-https://tvlocales-live.freecaster.com/95d2f480-3c9f-48ba-ba4e-af64b58431ef/95d2f480-3c9f-48ba-ba4e-af64b58431ef.isml/master.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Locales", 1055. No Télé
-https://streaming01.divercom.be/notele_live/_definst_/direct.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Locales", 1056. Boukè
-https://tvlocales-live.freecaster.com/95d2f70d-9229-478b-9aed-bc4fa220316d/95d2f70d-9229-478b-9aed-bc4fa220316d.isml/master.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Locales", 1057. Télé MB
-https://tvlocales-live.freecaster.com/95d2f6c9-e85f-4388-8e9c-596260a4206f/95d2f6c9-e85f-4388-8e9c-596260a4206f.isml/master.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Locales", 1058. ACTV
-https://tvlocales-live.freecaster.com/95d2f733-1bc2-4bd5-9b96-c53ed3fc450f/95d2f733-1bc2-4bd5-9b96-c53ed3fc450f.isml/master.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Locales", 1059. Ma Télé
-https://live.matele.be/hls/live.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Locales", 1060. Canal Zoom
-https://tvlocales-live.freecaster.com/95d2e3af-5ab8-45a9-9dc9-f544d006b5d5/95d2e3af-5ab8-45a9-9dc9-f544d006b5d5.isml/master.m3u8
-
-#EXTINF:-1 tvg-id="BFMDici.fr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bfm-dici-fr.svg" group-title="Locales", 1504. BFM D!ci Haute-Provence
-https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_DICI_HAUTEPROVENCE/index.m3u8?start=LIVE&end=END
-
-#EXTINF:-1 tvg-id="BFMDici.fr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bfm-dici-fr.svg" group-title="Locales", 1505. BFM D!ci Alpes-du-Sud
-https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_DICI_ALPESDUSUD/index.m3u8?start=LIVE&end=END
-
-#EXTINF:-1 tvg-id="BFMNice.fr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bfm-cote-dazur-fr.svg" group-title="Locales", 1506. BFM Nice-Côte d'Azur
-https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_NICECOTEDAZUR/index.m3u8?start=LIVE&end=END
-
-#EXTINF:-1 tvg-id="BFMMarseille.fr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bfm-marseille-fr.svg" group-title="Locales", 1513. BFM Marseille-Provence
-https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_MARSEILLEPROV/index.m3u8?start=LIVE&end=END
-
-#EXTINF:-1 tvg-id="BFMLille.fr" tvg-logo="http://www.callofliberty.fr/tv/34-BFMGRANDLILLE/34-BFMGRANDLILLE.png" group-title="Locales", 1559. BFM Grand Lille
-https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFMGRANDLILLE/index.m3u8?start=LIVE&end=END
-
-#EXTINF:-1 tvg-id="BFMLittoral.fr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bfm-littoral-fr.svg" group-title="Locales", 1562. BFM Grand Littoral
-https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFMGRANDLITTORAL/index.m3u8?start=LIVE&end=END
-
-#EXTINF:-1 tvg-id="BFMAlsace.fr" tvg-logo="" group-title="Locales", 1567. BFM Alsace
-https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_ALSACE/index.m3u8?start=LIVE&end=END
-
-#EXTINF:-1 tvg-id="BFMLyon.fr" tvg-logo="http://www.callofliberty.fr/tv/33-BFMLYON/33-BFMLYON.png" group-title="Locales", 1569. BFM Lyon-Métropole
-https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_LYON/index.m3u8?start=LIVE&end=END
-
-#EXTINF:-1 tvg-id="BFMParis.fr" tvg-logo="http://www.callofliberty.fr/tv/32-BFMPARIS/32-BFMPARIS.png" group-title="Locales", 1575. BFM Paris-Île-de-France
-https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_PARIS/index.m3u8?start=LIVE&end=END
-
-#EXTINF:-1 tvg-id="BFMNormandie.fr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bfm-marseille-fr.svg" group-title="Locales", 1576. BFM Normandie
-https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_NORMANDIE/index.m3u8?start=LIVE&end=END
-
-#EXTINF:-1 tvg-id="BFMVar.fr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bfm-var-fr.svg" group-title="Locales", 1583. BFM Toulon-Var
-https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TOULONVAR/index.m3u8?start=LIVE&end=END
-
-#EXTINF:-1 tvg-id=" " tvg-logo="https://natv.fr/wp-content/uploads/sites/4/2022/03/natv_logo.svg" group-title="Locales", 3017. NA TV
-https://naradio.vedge.infomaniak.com/livecast/ik:naradio/playlist.m3u8
-
-#EXTINF:-1 tvg-id="ViaTelePaese.fr" tvg-logo=" " group-title="Locales", 3020. TelePaese
-https://srv.webtvmanager.fr:3514/live/viatelepaeselive.m3u8
-
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Locales", 3054. Nancy Web TV
-https://edge.vedge.infomaniak.com/livecast/ik:nancy-webtv/manifest.m3u8
-
-#EXTINF:-1 tvg-id="Weo.fr" tvg-logo="" group-title="Locales", 3059. Wéo (La Voix du Nord)
-https://live.digiteka.com/1/WGQ1NnhEN0lzM0NU/dk1EOHhw/hls/live/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TVPI.fr" tvg-logo=" " group-title="Locales", 3064. TVPi
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/pvIg7V4UzEg
-
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Locales", 3065. TV Lourdes
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=DsYJ00V_IAI
-
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Locales", 3071. Brionnais TV
-http://live.mandarine.media:1935/BrionnaisTV/smil:BrionnaisTV.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TV78.fr" tvg-logo="https://www.tv78.com/wp-content/uploads/2019/04/cropped-tv78_logo.png" group-title="Locales",3078. TV78
-https://streamtv.cdn.dvmr.fr/TV78/ngrp:tv78.stream_all/master.m3u8 
-
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Locales", 3081. Albi TV
-https://live.creacast.com/albi-tv-ch1/stream/master.m3u8
-
-#EXTINF:-1 tvg-id="Tebeo.fr" tvg-logo=" " group-title="Locales", 3129. Tébéo
-https://start-1.direct.live/hls/tebeo_hi/index.m3u8
-
-#EXTINF:-1 tvg-id="ViaOccitanie.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Viaoccitanie.png/512px-Viaoccitanie.png" group-title="Locales", 3131. viàOccitanie
-https://streamer01.myvideoplace.tv/streamer02/hls/MDS_VIA_PAD_301117.m3u8
-
-#EXTINF:-1 tvg-id="TL7.fr" tvg-logo="" group-title="Locales", 3142. TL 7
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x5ct4nu
-
-#EXTINF:-1 tvg-id="Telenantes.fr" tvg-logo="" group-title="Locales", 3144. Télénantes
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x5so98l
-
-#EXTINF:-1 tvg-logo="https://www.mosaik-cristal.tv/wp-content/uploads/2018/09/cropped-web_mosaik_cristal_640-1.png" group_title="Locales", 3157. Mosaïk Cristal
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=37JxViWBWC0
-
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Locales", 3171. Grand Charolais TV
-https://tvmcp.pro-fhi.net:1936/grandcharolaistv/grandcharolaistv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="7ALimoges.fr" tvg-logo="https://i.imgur.com/3AelRxI.png" group-title="Locales", 3187. 7ALimoges
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCdFv_ZWQ3Xk_NfRiaK-ryGg/live
-
-#EXTINF:-1 tvg-id="VosgesTV.fr" tvg-logo="https://www.vosgestelevision.tv/images/logo_vosgestv.png" group-title="Locales", 3188. Vosges Télévision
-https://vosgestv.live-kd.com/live/vosgestv/vosgestv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo=" " group-title="Locales", 3210. Canal 32
-https://canal32.vedge.infomaniak.com/livecast/canal32/manifest.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo=" " group-title="Locales", 3259. La Chaîne 32
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/YZA1Ak_eBYc
-
-#EXTINF:-1 tvg-id="TV7Bordeaux.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/Tv7Bordeaux-logo.png" group-title="Locales", 3333. TV7 Sud-Ouest
-http://live.digiteka.com/1/RVNZMmJtUURmd09I/U0dNU0tk/hls/live/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TLC.fr" tvg-logo=" " group-title="Locales", 3349. Télévision Locale du Choletais
-https://www.dailymotion.com/tlcdirect
-
-#EXTINF:-1 tvg-id="Tebesud.fr" tvg-logo=" " group-title="Locales", 3356. Tébésud
-https://start-2.direct.live/hls/tebesud_hi/index.m3u8
-
-#EXTINF:-1 tvg-id="MoselleTV.fr" tvg-logo=" " group-title="Locales", 3357. Moselle TV
-https://live.creacast.com/mirabelletv/smil:mirabelletv.smil/index.m3u8
-
-#EXTINF:-1 tvg-id=" " tvg-logo="https://www.tele-astv.fr/img/LOGO%20CARRE.png" group-title="Locales", 3359. ASTV
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=7PNU_fGEcyo
-
-#EXTINF:-1 tvg-id="LMTV.fr" tvg-logo="" group-title="Locales", 3372. LMTV Sarthe
-https://www.dailymotion.com/video/xuyx0h
-
-#EXTINF:-1 tvg-id="ViaMaTele.Fr" tvg-logo="https://www.lyngsat-stream.com/logo/tv/mm/matele-fr.png" group-title="Locales", 3402. MaTélé
-https://5dd226f8f01e8.streamlock.net/via-matele-live/matelelive_1080/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TVVendee.fr" tvg-logo="" group-title="Locales", 3485. TV Vendée
-https://www.dailymotion.com/video/x38yjeb
-
-#EXTINF:-1 tvg-id="TVR.fr" tvg-logo="https://www.tvr.bzh/favicon-1024.png" group-title="Locales", 3535. TVR 35 Bretagne
-https://streamtv.cdn.dvmr.fr/TVR/ngrp:tvr.stream_all/master.m3u8
-
-#EXTINF:-1 tvg-id="WeoPicardie.fr" tvg-logo="" group-title="Locales", 3580. Wéo (Le Courrier Picard)
-https://live.digiteka.com/1/Zks2L0VsM2V0T242/QTBqcFly/hls/live/playlist.m3u8
+#EXTINF:-1 tvg-id="TéléMag.ca" tvg-logo="https://tele-mag.tv/images/uploads/Logos/Logo_Telemag_2013_v1.jpg" tvg-chno=" " group-title="Locales", TéléMag
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCNKXYT-Nng5LBMUQrZJ9zWA/live
 
 #EXTGRP : RADIOVISION
 
@@ -967,7 +956,7 @@ http://cdnapi.kaltura.com/p/2288691/sp/39582391/playManifest/entryId/0_xs45iy5i/
 https://cloud.streamingconnect.tv:455/teletoledo/teletoledo.m3u8
 
 #EXTINF:-1 tvg-id="7TelevisionRegiondeMurcia.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/7TVRM.svg/512px-7TVRM.svg.png" group-title="Espagne", 70. 7 Televisión Región de Murcia
-https://rtv-murcia-live.globalmest.com/stream/abr/first.m3u8
+
 
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Espagne", 71. Canal Sur Andalucia
 https://cdnlive.codev8.net/rtvalive/smil:channel1.smil/playlist.m3u8
@@ -989,17 +978,6 @@ https://cloud.streamingconnect.tv:455/populartvrm/populartvrm.m3u8
 
 #EXTINF:-1 tvg-id="Taroteame.es" tvg-logo="https://i.imgur.com/OgEeQzl.jpg" group-title="Lifestyle", Tarotéame
 https://5d2733224ac48.streamlock.net/taroteame/tarot_web/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Lifestyle", Tarotvision
-http://149.12.64.81:8080/hls/tarotvision.m3u8
-
-#EXTGRP : ILES CANARIES
-
-#EXTINF:-1 tvg-id="RTVC.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Logo_del_Ente_P%C3%BAblico_Radio_Televisi%C3%B3n_Canaria.svg/512px-Logo_del_Ente_P%C3%BAblico_Radio_Televisi%C3%B3n_Canaria.svg.png" group-title="Canaries", 701. RTVC (Radio Televisión Canaria)
-https://rtvc-live1-rm.flumotion.com/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Canal4Tenerife.es" tvg-logo="https://i.imgur.com/xs26Rhq.png" group-title="Canaries", 704. Canal 4 Tenerife
-https://5940924978228.streamlock.net/Directo4/Directo4/playlist.m3u8
 
 #EXTGRP : GALICE
 
@@ -1061,63 +1039,72 @@ https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
 
 #EXTGRP : CATALOGNE
 
-#EXTINF:-1 tvg-id="La1.es" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tve1_es.png" group-title="Catalogne", 01. RTVE La 1 Catalunya
-https://rtvelivestream-clnx.rtve.es/rtvesec/cat/la1_cat_main_720.m3u8
-
-#EXTINF:-1 tvg-id="La2.es" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tve2_es.png" group-title="Catalogne", 02. RTVE La 2 Catalunya
-https://rtvelivestream-clnx.rtve.es/rtvesec/cat/la2_cat_main_720.m3u8
-
-#EXTINF:-1 tvg-id="TV3CAT.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/TV3CAT.svg/512px-TV3CAT.svg.png" group-title="Catalogne", 03. TV3 Catalunya
-https://directes-tv-int.ccma.cat/live-origin/tvi-hls/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.8tv.cat/uploads/logos/20220914103438_touchicon_13_logo[1].png" group-title="Catalogne", 08. 8TV
-https://us-b4-p-e-nq15.cdn.mdstrm.com/live-stream/636bd70b44680408872dbfc6/publish/media_1800.m3u8?aid=6363ba20af17240882d33a7d&uid=6h8RUNbMFA6nl5p6FawD5U5vWyr6uW5n&sid=z349pP3NCalTy3oQgyWckLCB32doHkFO&pid=TAV7bXrlCRKvgyrvaefvm4YpBcVyGEXf&ref=https://www.8tv.cat/&without_cookies=false&listenerid=&dnt=true&es=us-b4-p-e-nq15.cdn.mdstrm.com&ote=1669645730941&ot=-V2mR8qFq7l91zOQ4B27AA&proto=https&pz=us
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://laocho.tv/web2/assets_new/img/favicons/8tv.svg" group-title="Catalogne", 09. À Punt Media
+#EXTINF:-1 tvg-id="" tvg-logo="https://laocho.tv/web2/assets_new/img/favicons/8tv.svg" group-title="Catalogne", 25-01. À Punt 
 https://bcovlive-a.akamaihd.net/469e448f034b4d46afa4bcac53297d60/eu-central-1/6057955885001/playlist_dvr.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title=" " group-title="Catalogne", 25. 25TV
-https://cdnlive.shooowit.net/25televisiolive/smil:channel1.smil/master.m3u8
-
-#EXTINF:-1 tvg-logo="http://tvnov.com/images/span/24h.webp" group-title="Catalogne", 30. RTVE 24h Catalunya
-https://rtvelivestream-clnx.rtve.es/rtvesec/cat/24h_cat_main_720.m3u8
-
-#EXTINF:-1 tvg-id="IB3.es" tvg-logo="https://i.imgur.com/FejMmmF.png" group-title="Catalogne", 32. IB3 Global
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCff_CBVJDTHP4wOHPjP5BMg/live
-
-#EXTINF:-1 tvg-logo="" group-title="Catalogne", 33. SX3
-https://directes-tv-int.ccma.cat/live-origin/super3-hls/master.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Catalogne", 34. 3/24
-https://directes-tv-int.ccma.cat/live-origin/canal324-hls/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo=" " group-title="Catalogne", 36. Bon Dia TV
-https://directes-tv-int.ccma.cat/live-content/bondia-hls/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://laocho.tv/web2/assets_new/img/favicons/8tv.svg" group-title="Catalogne", 98. La 8 Mediterraneo
+#EXTINF:-1 tvg-id="" tvg-logo="https://laocho.tv/web2/assets_new/img/favicons/8tv.svg" group-title="Catalogne", 25-02. La 8 Mediterraneo
 https://streaming004.gestec-video.com/hls/8TV.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo=" " group-title="Catalogne", Betevé
-https://cdnapisec.kaltura.com/p/2346171/sp/234617100/playManifest/entryId/1_n6442jz0/format/applehttp/.m3u8?referrer=aHR0cHM6Ly9iZXRldmUuY2F0
+#EXTINF:-1 tvg-id="" tvg-logo=" " group-title="Catalogne", 26-01. Betevé
+https://cdnapisec.kaltura.com/p/2346171/sp/234617100/playManifest/entryId/1_n6442jz0/format/applehttp/protocol/https/uiConfId/42816492/a.m3u8?referrer=aHR0cHM6Ly9iZXRldmUuY2F0&playSessionId=3621d956-cda7-003e-6c61-2a37ab63a987
 
-#EXTINF:-1 tvg-id="" tvg-logo=" " group-title="Catalogne", Fibracat.TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://telesafor.com/wp-content/uploads/2016/08/telesafor_b.png" group-title="Catalogne", 26-02. Telesafor
+https://video.telesafor.com/hls/video_low.m3u8
+
+#EXTINF:-1 tvg-id="La1.es" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tve1_es.png" group-title="Catalogne", 31-01. RTVE La 1 Catalunya
+https://rtvelivestream-clnx.rtve.es/rtvesec/cat/la1_cat_main_720.m3u8
+
+#EXTINF:-1 tvg-id="La2.es" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tve2_es.png" group-title="Catalogne", 31-02. RTVE La 2 Catalunya
+https://rtvelivestream-clnx.rtve.es/rtvesec/cat/la2_cat_main_720.m3u8
+
+#EXTINF:-1 tvg-logo="http://tvnov.com/images/span/24h.webp" group-title="Catalogne", 31-03. RTVE 24h Catalunya
+https://rtvelivestream-clnx.rtve.es/rtvesec/cat/24h_cat_main_720.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.8tv.cat/uploads/logos/20220914103438_touchicon_13_logo[1].png" group-title="Catalogne", 33-01. 8TV
+https://us-b4-p-e-nq15.cdn.mdstrm.com/live-stream/636bd70b44680408872dbfc6/publish/media_1800.m3u8?aid=6363ba20af17240882d33a7d&uid=6h8RUNbMFA6nl5p6FawD5U5vWyr6uW5n&sid=z349pP3NCalTy3oQgyWckLCB32doHkFO&pid=TAV7bXrlCRKvgyrvaefvm4YpBcVyGEXf&ref=https://www.8tv.cat/&without_cookies=false&listenerid=&dnt=true&es=us-b4-p-e-nq15.cdn.mdstrm.com&ote=1669645730941&ot=-V2mR8qFq7l91zOQ4B27AA&proto=https&pz=us
+
+#EXTINF:-1 tvg-id="" tvg-logo=" " group-title="Catalogne", 33-04. Fibracat.TV
 https://cdn02.fibracat.cat/fibracattv/mse_ld
+
+#EXTINF:-1 tvg-id="TVGirona.es" tvg-logo="https://i.imgur.com/khRXhT1.png" group-title="Locales", 39-02. TV Girona
+http://ventdelnord.tv:8080/girona/directe.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo=" " group-title="Locales", 41-01. Lleida TV
+https://liveingesta118.cdnmedia.tv/lleidatvlive/live-1600/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="TV3CAT.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/TV3CAT.svg/512px-TV3CAT.svg.png" group-title="Catalogne", 44-01. TV3 Catalunya
+https://directes-tv-int.ccma.cat/live-origin/tvi-hls/master.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Catalogne", 44-02. SX3
+https://directes-tv-int.ccma.cat/live-origin/super3-hls/master.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Catalogne", 44-03. 3/24
+https://directes-tv-int.ccma.cat/live-origin/canal324-hls/master.m3u8
+
+#EXTINF:-1 tvg-id="IB3.es" tvg-logo="https://i.imgur.com/FejMmmF.png" group-title="Catalogne", 44-05. IB3 Global
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCff_CBVJDTHP4wOHPjP5BMg/live
+
+#EXTINF:-1 tvg-id="Tevecat.es" tvg-logo="https://i.imgur.com/z7NetQO.png" group-title="Locales", 48-01. Canal 4
+https://limited35.todostreaming.es/live/mitjans-livestream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title=" " group-title="Catalogne", 48-02. 25TV
+https://cdnlive.shooowit.net/25televisiolive/smil:channel1.smil/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title=" " group-title="Locales", 48-03. Canal 10 L'Escala
+http://ventdelnord.tv:8080/escala/directe.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo=" " group-title="Catalogne", Bon Dia TV
+https://directes-tv-int.ccma.cat/live-content/bondia-hls/master.m3u8
 
 #EXTINF:-1 tvg-id="MaestratTV.es" tvg-logo="https://i.imgur.com/CwJrVxQ.png" group-title="Catalogne", Maestrat TV 
 https://stream.maestrat.tv/hls/stream.m3u8
-
-#EXTINF:-1 tvg-id="Tevecat.es" tvg-logo="https://i.imgur.com/z7NetQO.png" group-title="Catalogne", Teve.cat
-https://limited35.todostreaming.es/live/mitjans-livestream.m3u8
-
-#EXTINF:-1 tvg-id="TVGirona.es" tvg-logo="https://i.imgur.com/khRXhT1.png" group-title="Catalogne", TV Girona
-http://ventdelnord.tv:8080/girona/directe.m3u8
 
 #EXTINF:-1 tvg-id="VentdelnordTV.es" tvg-logo="https://i.imgur.com/pdHYWPp.png" group-title="Catalogne", Ventdelnord TV
 http://ventdelnord.tv:8080/hls/directe.m3u8
 
 #EXTGRP : ANDORRE
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.andorradifusio.ad/images/logo/andorradifusio_logo_22122020091723.png" group-title="Andorre", 100. RTVA
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.andorradifusio.ad/images/logo/andorradifusio_logo_22122020091723.png" group-title="Andorre", 34-05. RTVA
 https://videos.rtva.ad/live/rtva/playlist.m3u8
 
 #EXTGRP : PAYS BASQUE
