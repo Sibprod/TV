@@ -137,6 +137,75 @@ http://www.callofliberty.fr/stream/france.3NoA/master1.m3u8
 #EXTINF:-1 tvg-id="TV8MontBlanc.fr" tvg-logo="https://i.imgur.com/74pAtJu.png" group-title="France", 374. 8 Mont-Blanc
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x71o73v
 
+#EXTINF:-1 tvg-id="LCP.fr" tvg-logo="https://www.ktv.zone/wp-content/uploads/2016/12/15_dune.png" group-title="France", La Chaîne Parlementaire 100%
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/xgepjr
+
+#EXTINF:-1 tvg-id="PublicSenat.fr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/public-senat-fr.png" group-title="France", Public Sénat
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/publicsenat
+
+#EXTINF:-1 tvg-id=" " tvg-logo="https://monacoinfo.com/wp-content/themes/monacoinfo_v4/assets/img/monacoinfo-color.png" group-title="Monaco", 70. Monaco Info
+https://webtvmonacoinfo.mc/live/prod_720/index.m3u8
+
+#EXTINF:-1 tvg-id="LaUne.be" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-164.png" group-title="Belgique", 01. La Une
+http://185.236.229.31:9981/play/a030
+
+#EXTINF:-1 tvg-id="Tipik.be" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-187.png" group-title="Belgique", 02. Tipik
+http://185.236.229.31:9981/play/a031
+
+#EXTINF:-1 tvg-id="LaTrois.be" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-892.png" group-title="Belgique", 03. La Trois
+http://185.236.229.31:9981/play/a02y
+
+#EXTINF:-1 tvg-id="EuronewsFrench.fr" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-140.png" group-title="Belgique", 04. Euronews (Français)
+https://euronews.alteox.app/hls/fr_stream.m3u8
+
+#EXTINF:-1 tvg-id="BX1.be" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear- .png" group-title="Belgique", 05. BX1
+https://59959724487e3.streamlock.net:443/stream/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Suisse", 01. RTS Un
+http://livetv.ktv.zone/1/play.m3u8 
+
+#EXTINF:-1 tvg-logo="" group-title="Suisse", 02. RTS Deux
+http://livetv.ktv.zone/2/play.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Suisse", 03. Léman Bleu
+https://185.125.25.66:443/livecast/naxoo/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Suisse", 04. One TV
+https://185.125.25.66:443/livecast/onefmhd/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://mytelevision.tv/assets/img/chaines/lfmtv.png" group-title="Suisse", 05. LFM TV
+https://185.125.25.66:443/livecast/lfmhd/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://mytelevision.tv/assets/img/chaines/rougetv.png" group-title="Suisse", 06. Rouge TV
+https://185.125.25.66:443/livecast/rougetv/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Suisse", 07. Canal Alpha (Neuchâtel)
+https://185.125.25.66:443/livecast/canalalpha/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Suisse", 08. Canal Alpha (Jura)
+https://canalalphaju.vedge.infomaniak.com/livecast/ik:canalalphaju/master.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Suisse", 10. SRF 1
+http://livetv.ktv.zone/128/play.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Suisse", 11. TV Suisse Plus
+https://185.125.25.66:443/livecast/compack_media_1/index.m3u8
+
+#EXTINF:-1 tvg-id="RTLTVI.be" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-168.png" group-title="Luxembourg", 24-01. RTL-TVi
+https://raw.githubusercontent.com/Sibprod/streams/main/files/RTL-TVI/master.m3u8
+
+#EXTINF:-1 tvg-id="ClubRTL.lu" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-50.png" group-title="Luxembourg", 24-02. Club RTL
+https://github.com/Sibprod/streams/raw/main/files/Club_RTL/master.m3u8
+
+#EXTINF:-1 tvg-id="PlugRTL.lu" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-377.png" group-title="Luxembourg", 24-03. Plug RTL
+https://github.com/Sibprod/streams/raw/main/files/Plug_RTL/master.m3u8
+
+#EXTINF:-1 tvg-id="RTL.lu" tvg-logo="https://play.rtl.lu/images/logo_rtl_outline.svg" group-title="Luxembourg", 27-01. RTL-Tele Lëtzeburg
+https://live-edge.rtl.lu/channel1/smil:channel1.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RTL.lu" tvg-logo="https://play.rtl.lu/images/logo_rtlzwee_outline.svg" group-title="Luxembourg", 27-02. RTL Zwee
+https://live-edge.rtl.lu/channel2/smil:channel2.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-id="TVBreizh.fr" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-225.png" group-title="France", TV Breizh
 https://wza.idipper.com/live/_definst_/channel/3006/TVBREIZH/manifest_mvtime.mpd?tracking=IW99147ac68317488369&ticket=15e219f1-5ae9-431a-be98-351f6fe93b3b
 
@@ -157,12 +226,6 @@ https://raw.githubusercontent.com/Sibprod/streams/main/files/TiJi/master.m3u8
 
 #EXTINF:-1 tvg-id="MCM.fr" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-121.png" group-title="France", MCM
 http://190.2.155.162:8080/mcm/mpegts
-
-#EXTINF:-1 tvg-id="LCP.fr" tvg-logo="https://www.ktv.zone/wp-content/uploads/2016/12/15_dune.png" group-title="France", 1301. La Chaîne Parlementaire 100%
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/xgepjr
-
-#EXTINF:-1 tvg-id="PublicSenat.fr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/public-senat-fr.png" group-title="France", Public Sénat
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/publicsenat
 
 #EXTINF:-1 tvg-id="FRBC4200004XH" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/FRBC4200004XH_20221109T010508.png" group-title="France", L'Équipe : Live 1
 https://d3awaj0f2u3w26.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gy7euubgydp20-ssai-prd/master.m3u8
@@ -287,51 +350,16 @@ http://tv.mondeduloisir.fr:1935/tixtv/smil:web.smil/playlist.m3u8
 #EXTINF:-1 tvg-chno=" " group-title="France", Pancrace TV
 https://tvmcp.pro-fhi.net:1936/pancracetv/pancracetv/playlist.m3u8
 
-#EXTGRP : MONACO
-
-#EXTINF:-1 tvg-id=" " tvg-logo="https://monacoinfo.com/wp-content/themes/monacoinfo_v4/assets/img/monacoinfo-color.png" group-title="Monaco", 70. Monaco Info
-https://webtvmonacoinfo.mc/live/prod_720/index.m3u8
-
 #EXTGRP : BELGIQUE - LUXEMBOURG
 
-#EXTINF:-1 tvg-id="FRBA3300060U8" tvg-chno="4411" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/06/92/FRBA3300060U8_20220323T075955.png" group-title="Luxembourg", Luxe.TV
+#EXTINF:-1 tvg-id="FRBA3300060U8" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/06/92/FRBA3300060U8_20220323T075955.png" group-title="Luxembourg", Luxe.TV
 https://amg00712-alchimie-luxefr-samsungfr-wjg07.amagi.tv/playlist/amg00712-alchimie-luxefr-samsungfr/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.bistvonline.com/assets/images/live/rtl9.png" group-title="Luxembourg", RTL9
 https://wza.idipper.com/live/_definst_/channel/3001/RTL9/manifest_mvtime.mpd?tracking=IW99147ac68317488369&ticket=2a2b3ba4-ed2a-4185-92a4-326461cb1ab8
 
-#EXTINF:-1 tvg-id="LaUne.be" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-164.png" group-title="Belgique", 01. La Une
-http://185.236.229.31:9981/play/a030
-
-#EXTINF:-1 tvg-id="Tipik.be" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-187.png" group-title="Belgique", 02. Tipik
-http://185.236.229.31:9981/play/a031
-
-#EXTINF:-1 tvg-id="LaTrois.be" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-892.png" group-title="Belgique", 03. La Trois
-http://185.236.229.31:9981/play/a02y
-
-#EXTINF:-1 tvg-id="EuronewsFrench.fr" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-140.png" group-title="Belgique", 04. Euronews (Français)
-https://euronews.alteox.app/hls/fr_stream.m3u8
-
-#EXTINF:-1 tvg-id="BX1.be" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear- .png" group-title="Belgique", 05. BX1
-https://59959724487e3.streamlock.net:443/stream/live/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo=" " group-title="Belgique", 22-03. Ketnet Junior
+#EXTINF:-1 tvg-id="" tvg-logo=" " group-title="Belgique", Ketnet Junior
 https://virtch.vrtcdn.be/v1/channel/KETNET_JUNIOR_PROD_HLS/ketnet_junior_prod_hls-hls.m3u8
-
-#EXTINF:-1 tvg-id="RTLTVI.be" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-168.png" group-title="Luxembourg", 24-01. RTL-TVi
-https://raw.githubusercontent.com/Sibprod/streams/main/files/RTL-TVI/master.m3u8
-
-#EXTINF:-1 tvg-id="ClubRTL.lu" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-50.png" group-title="Luxembourg", 24-02. Club RTL
-https://github.com/Sibprod/streams/raw/main/files/Club_RTL/master.m3u8
-
-#EXTINF:-1 tvg-id="PlugRTL.lu" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-377.png" group-title="Luxembourg", 24-03. Plug RTL
-https://github.com/Sibprod/streams/raw/main/files/Plug_RTL/master.m3u8
-
-#EXTINF:-1 tvg-id="RTL.lu" tvg-logo="https://play.rtl.lu/images/logo_rtl_outline.svg" group-title="Luxembourg", 27-01. RTL-Tele Lëtzeburg
-https://live-edge.rtl.lu/channel1/smil:channel1.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="RTL.lu" tvg-logo="https://play.rtl.lu/images/logo_rtlzwee_outline.svg" group-title="Luxembourg", 27-02. RTL Zwee
-https://live-edge.rtl.lu/channel2/smil:channel2.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AB3.be" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-254.png" group-title="Belgique", AB3
 http://37.235.38.139:4000/play/a0c6
@@ -349,36 +377,6 @@ https://live.digiteka.com/1/bEg0RmFLb1JMYXRI/dGhqbmIw/hls/vjgmsb8b/416/chunklist
 https://ms7.mx-cd.net/tv/226-1855782/XITE_NL.smil/chunklist_w323364313_b3328000_slNLD.m3u8
 
 #EXTGRP : SUISSE
-
-#EXTINF:-1 tvg-logo="" group-title="Suisse", 01. RTS Un
-http://livetv.ktv.zone/1/play.m3u8 
-
-#EXTINF:-1 tvg-logo="" group-title="Suisse", 02. RTS Deux
-http://livetv.ktv.zone/2/play.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Suisse", 03. Léman Bleu
-https://185.125.25.66:443/livecast/naxoo/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Suisse", 04. One TV
-https://185.125.25.66:443/livecast/onefmhd/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://mytelevision.tv/assets/img/chaines/lfmtv.png" group-title="Suisse", 05. LFM TV
-https://185.125.25.66:443/livecast/lfmhd/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://mytelevision.tv/assets/img/chaines/rougetv.png" group-title="Suisse", 06. Rouge TV
-https://185.125.25.66:443/livecast/rougetv/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Suisse", 07. Canal Alpha (Neuchâtel)
-https://185.125.25.66:443/livecast/canalalpha/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Suisse", 08. Canal Alpha (Jura)
-https://canalalphaju.vedge.infomaniak.com/livecast/ik:canalalphaju/master.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Suisse", 10. SRF 1
-http://livetv.ktv.zone/128/play.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Suisse", 11. TV Suisse Plus
-https://185.125.25.66:443/livecast/compack_media_1/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Suisse", Dieu TV
 https://katapy.hs.llnwd.net/dieutvwza1/DIEUTVLIVE/smil:dieutv.smil/playlist.m3u8
