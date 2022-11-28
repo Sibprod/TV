@@ -83,6 +83,9 @@ https://raw.githubusercontent.com/Sibprod/streams/main/files/France_Info/master_
 #EXTINF:-1 tvg-id="TV5MondeFranceBelgiumSwitzerland.fr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv5monde-france-belgique-suisse-monaco-fr.png" group-title="France", 28. TV5 Monde (France Belgique Suisse Monaco)
 https://raw.githubusercontent.com/Sibprod/streams/main/files/TV5_Monde_FBSM/master.m3u8
 
+#EXTINF:-1 tvg-id="TV8MontBlanc.fr" tvg-logo="https://i.imgur.com/74pAtJu.png" group-title="France", 31. 8 Mont-Blanc
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x71o73v
+
 #EXTINF:-1 tvg-logo="https://www.n31.tv/n31_logo.png" group-title="France", 31. N31
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/Nocturne_31
 
@@ -91,6 +94,9 @@ https://dacastmmd.mmdlive.lldns.net/dacastmmd/e446f4d33bad407daded05a77154b977/p
 
 #EXTINF:-1 tvg-id="France24French.fr" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-529.png" group-title="France", 33. France 24
 https://d4de59d01af447a498cb0565ad005588.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/viewmedia-7/live_092/HD/playlist.m3u8
+
+#EXTINF:-1 tvg-id="France3Corse.fr" tvg-logo="http://www.callofliberty.fr/tv/210-france.3corse/210-france.3corse.png" group-title="France", 33. Via Stella
+http://www.callofliberty.fr/stream/france.3corse/master1.m3u8
 
 #EXTINF:-1 channel-id="samsung-FRBC1400002JN" tvg-id="FRBC1400002JN" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/FRBC1400002JN_20221012T021116.png" group-title="France",35. Le Figaro Live
 https://d358c6mfrono1y.cloudfront.net/lefigaro/master.m3u8
@@ -113,38 +119,32 @@ https://sp1564435593.mytvchain.info/live/sp1564435593_720/index.m3u8
 #EXTINF:-1 tvg-id="KTO.fr" tvg-logo="https://i.imgur.com/LvbXFUy.jpg" group-title="France", 61. KTO
 https://live-kto.akamaized.net/hls/live/2033284/KTO/master.m3u8
 
+#EXTINF:-1 tvg-id=" " tvg-logo="https://monacoinfo.com/wp-content/themes/monacoinfo_v4/assets/img/monacoinfo-color.png" group-title="Monaco", 70. Monaco Info
+https://webtvmonacoinfo.mc/live/prod_720/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-232.png" group-title="France", 75. TV5 Monde Europe
 http://livetv.ktv.zone/61/play.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://s1.dmcdn.net/u/8vkDy1W6-hQe6j0ui/60x60" group-title="France", 95. Lyon Capitale TV
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x7z3zqa
 
-#EXTINF:-1 tvg-id="AntenneReunion.fr" tvg-logo="https://i.imgur.com/EPIMMaB.png" group-title="France", 220. Antenne Réunion
+#EXTINF:-1 tvg-id="LCP.fr" tvg-logo="https://www.ktv.zone/wp-content/uploads/2016/12/15_dune.png" group-title="France", 131. La Chaîne Parlementaire 100%
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/xgepjr
+
+#EXTINF:-1 tvg-id="PublicSenat.fr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/public-senat-fr.png" group-title="France", 132. Public Sénat
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/publicsenat
+
+#EXTINF:-1 tvg-id="AntenneReunion.fr" tvg-logo="https://i.imgur.com/EPIMMaB.png" group-title="France", 201. Antenne Réunion
 https://live-antenne-reunion.zeop.tv/live/c3eds/antreunihd/hls_fta/antreunihd.m3u8?location=ZEOP01
 
-#EXTINF:-1 tvg-id="ViaATV.mq" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Vi%C3%A0ATV.png/512px-Vi%C3%A0ATV.png" group-title="France", 228. ViàATV
+#EXTINF:-1 tvg-id="ViaATV.mq" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Vi%C3%A0ATV.png/512px-Vi%C3%A0ATV.png" group-title="France", 202. ViàATV
 https://streamer01.myvideoplace.tv/streamer02/hls/ATV_DIRECT_EV_111018_medium/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.callofliberty.fr/tv/46-TNTV/46-TNTV.png" group-title="France", 246. TNTV
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.callofliberty.fr/tv/46-TNTV/46-TNTV.png" group-title="France", 203. TNTV
 https://tntv-samsung-fr.amagi.tv/playlist1080p.m3u8
-
-#EXTINF:-1 tvg-id="France3Corse.fr" tvg-logo="http://www.callofliberty.fr/tv/210-france.3corse/210-france.3corse.png" group-title="France", 320. Via Stella
-http://www.callofliberty.fr/stream/france.3corse/master1.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.callofliberty.fr/tv/218-france.3NoA/218-france.3NoA.png" group-title="France", 333. NoA
 http://www.callofliberty.fr/stream/france.3NoA/master1.m3u8
-
-#EXTINF:-1 tvg-id="TV8MontBlanc.fr" tvg-logo="https://i.imgur.com/74pAtJu.png" group-title="France", 374. 8 Mont-Blanc
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x71o73v
-
-#EXTINF:-1 tvg-id="LCP.fr" tvg-logo="https://www.ktv.zone/wp-content/uploads/2016/12/15_dune.png" group-title="France", La Chaîne Parlementaire 100%
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/xgepjr
-
-#EXTINF:-1 tvg-id="PublicSenat.fr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/public-senat-fr.png" group-title="France", Public Sénat
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/publicsenat
-
-#EXTINF:-1 tvg-id=" " tvg-logo="https://monacoinfo.com/wp-content/themes/monacoinfo_v4/assets/img/monacoinfo-color.png" group-title="Monaco", 70. Monaco Info
-https://webtvmonacoinfo.mc/live/prod_720/index.m3u8
 
 #EXTINF:-1 tvg-id="LaUne.be" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-164.png" group-title="Belgique", 01. La Une
 http://185.236.229.31:9981/play/a030
