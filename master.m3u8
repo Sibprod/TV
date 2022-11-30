@@ -934,6 +934,9 @@ http://ventdelnord.tv:8080/girona/directe.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Locales",TV Lux
 https://tvlocales-live.freecaster.com/95d2f631-8941-4efd-b223-0ebd56a033c4/95d2f631-8941-4efd-b223-0ebd56a033c4.isml/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://i0.wp.com/via93.tv/wp-content/uploads/2022/01/cropped-logo_tvm93-site.png" group-title="Locales",TVM 93
+https://cineplume.vedge.infomaniak.com/livecast/cineplume/master.m3u8
+
 #EXTINF:-1 tvg-id="TVPI.fr" tvg-logo=" " group-title="Locales",TVPi
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/pvIg7V4UzEg
 
@@ -948,6 +951,9 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/TVV
 
 #EXTINF:-1 tvg-logo="" group-title="Locales",Védia
 https://tvlocales-live.freecaster.com/95d2f480-3c9f-48ba-ba4e-af64b58431ef/95d2f480-3c9f-48ba-ba4e-af64b58431ef.isml/master.m3u8
+
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Locales",Ventdelnord.TV
+http://ventdelnord.tv:8080/hls/directe.m3u8
 
 #EXTINF:-1 tvg-id="ViaOccitanie.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Viaoccitanie.png/512px-Viaoccitanie.png" group-title="Locales",viàOccitanie
 https://streamer01.myvideoplace.tv/streamer02/hls/MDS_VIA_PAD_301117.m3u8
