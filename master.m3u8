@@ -243,7 +243,7 @@ https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_3000.m3u8
 #EXTINF:-1 tvg-id="CAAJ17000040F" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/36/CAAJ17000040F_20220712T041518.png" group-title="TNT",Radio-Canada.ca
 https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_ca_radiocanada_001.m3u8
 
-#EXTINF:-1 tvg-id="CIVM.ca" tvg-logo="https://od.lk/s/MF8yNDU0MDY3MDFf/TeleQuebecCA_535x535.png" tvg-chno="26" group-title="TNT",Télé-Québec
+#EXTINF:-1 tvg-id="CIVM.ca" tvg-logo="https://od.lk/s/MF8yNDU0MDY3MDFf/TeleQuebecCA_535x535.png" group-title="TNT",Télé-Québec
 https://bcovlive-a.akamaihd.net/575d86160eb143458d51f7ab187a4e68/us-east-1/6101674910001/playlist.m3u8
 
 #EXTINF:-1 tvg-id="savoirmedia.ca" tvg-logo="https://od.lk/s/MF8yNDU0MDYzMTZf/CanalSavoir_363x363.png group-title="TNT",Savoir.Media
@@ -440,6 +440,9 @@ https://mdw-cji.akamaized.net/toutelhistoire/dash/manifest.mpd?hdnts=exp=1669895
 #EXTINF:-1 tvg-id="" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-1776.png" group-title="Cable-Satellite",Trek
 https://mdw-cji.akamaized.net/trekhd/dash/manifest.mpd?hdnts=exp=1669895491~acl=/trekhd/dash/*~hmac=403d4454a719a5296f214fc84ac2b4cfbb057bfcd9c89b3f9bb7ea656b154797
 
+#EXTINF:-1 tvg-logo="" group-title="Cable-Satellite",TV5 Québec-Canada
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/53810
+
 #EXTINF:-1 tvg-logo="" group-title="Cable-Satellite",TVM 3
 https://tvm3.vedge.infomaniak.com/livecast/ik:tvm3/playlist.m3u8
 
@@ -611,7 +614,7 @@ https://samsunguk-appletree-mytimefrance-samsungfr-69xit.amagi.tv/playlist/samsu
 #EXTINF:-1 tvg-id="FRBB4600002K5" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/45/FRBB4600002K5_20220323T080533.png" group-title="Cable-Satellite",Scream'IN
 https://d1jpd8j6nh8nwm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-uuryop9dra2jr-prod/screamin/master.m3u8
 
-#EXTINF:-1 tvg-id="FRBA3300054PU" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/FRBA3300054PU_20221026T004257.png" group-title="Cable-Satellite",Movies Central by TVPlayer
+#EXTINF:-1 tvg-id="FRBA3300054PU" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/FRBA3300054PU_20221026T004257.png" group-title="Cable-Satellite",TVPlayer : Movies Central
 https://amg00712-alchimie-moviescentralfr-samsungfr-ouncm.amagi.tv/playlist/amg00712-alchimie-moviescentralfr-samsungfr/playlist.m3u8
 
 #EXTINF:-1 tvg-id="FRBA2200008H8" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/16/FRBA2200008H8_20220323T080327.png" group-title="Cable-Satellite",UniversCiné
@@ -1407,7 +1410,7 @@ https://vimnitaly.akamaized.net/hls/live/2094034/super/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/motor-trend-it.png" group-title="DTT",Sportitalia
 https://di-j16ei4yq.vo.lswcdn.net/sportitalia/smil:sihd.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo=" " group-title="DTT", 61. Solo Calcio
+#EXTINF:-1 tvg-id="" tvg-logo=" " group-title="DTT",Solo Calcio
 https://sportitaliaamd.akamaized.net/video_0/Sportitalia/hls/B4DF7411EF2D38AD98B7D9FA9612B9753F214EFA/index.m3u8
 
 #EXTINF:-1 tvg-id=""tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/donna-tv-it.png" group-title="DTT",Donna TV
