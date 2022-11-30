@@ -87,7 +87,7 @@ https://raw.githubusercontent.com/Sibprod/streams/main/files/TV5_Monde_FBSM/mast
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_BUSINESS/index.m3u8?start=LIVE&end=END
 
 #EXTINF:-1 tvg-id="TV8MontBlanc.fr" tvg-logo="https://i.imgur.com/74pAtJu.png" group-title="France", 31. 8 Mont-Blanc
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x71o73v
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/tv8montblanc
 
 #EXTINF:-1 tvg-id="IDF1.fr" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-701.png" group-title="France", 32. IDF1
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/e446f4d33bad407daded05a77154b977/playlist.m3u8
@@ -273,7 +273,7 @@ https://bcovlive-a.akamaihd.net/cc8266d36bb5469b8b4a3097497e06e6/eu-central-1/53
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TECHANDCO/index.m3u8?start=LIVE&end=END
 
 #EXTINF:-1 tvg-id="GolfChannel.fr" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-1166.png" group-title="France", Golf Channel
-https://mdw-cji.akamaized.net/golfchannel/dash/manifest.mpd?hdnts=exp=1669658549~acl=/golfchannel/dash/*~hmac=6b8c2d4606a725ac82d546551b8512ac8fc1aa5ce8d736c7c4cd7f63c0de9ba4
+https://mdw-cji.akamaized.net/golfchannel/dash/manifest.mpd?hdnts=exp=1669895450~acl=/golfchannel/dash/*~hmac=b20124fea4e309b8d52a7ddf5ef7a28880dd93e76aea9f1bc79e44077c854ec6
 
 #EXTINF:-1 tvg-id="AutomotoLaChaine.fr" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-15.png" group-title="France", Automoto La Chaîne
 https://wza.idipper.com/live/_definst_/channel/3004/AB_MOTEURS/manifest_mvtime.mpd?tracking=IW99147ac68317488369&ticket=fb7976c1-ab99-4538-91e2-c2a4d09dd1cd
@@ -285,10 +285,10 @@ http://www.callofliberty.fr/stream/EQUIDIA/master.m3u8
 https://fusiontv.vedge.infomaniak.com/livecast/fusiontv/manifest.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear- .png" group-title="France", Lucky Jack
-https://mdw-cji.akamaized.net/luckyjack/dash/manifest.mpd?hdnts=exp=1669658669~acl=/luckyjack/dash/*~hmac=82d58a00afca3b948be1b0def6b69925eb86ea535ba60cfa9f48bf815acd405a
+https://mdw-cji.akamaized.net/luckyjack/dash/manifest.mpd?hdnts=exp=1669895513~acl=/luckyjack/dash/*~hmac=39193dc5de131447a994b17185c878014faf6cf1b4837ce1e1c093055035c9e1
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-2037.png" group-title="France", Crime District
-https://mdw-cji.akamaized.net/crimedistrict/dash/manifest.mpd?hdnts=exp=1669658507~acl=/crimedistrict/dash/*~hmac=b1862deb27e9aad05a20b03581703f2b779df2569ab9efd4cccbdea97fb1fffa
+https://mdw-cji.akamaized.net/crimedistrict/dash/manifest.mpd?hdnts=exp=1669895420~acl=/crimedistrict/dash/*~hmac=d5fcf0983753a990fbb679a9f8458dad2d80917583b0873da8b98d6b36de7545
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-10.png" group-title="France", Action
 http://37.235.38.139:4000/play/a048
@@ -297,22 +297,22 @@ http://37.235.38.139:4000/play/a048
 https://wza.idipper.com/live/_definst_/channel/3010/PARAMOUNT_CHANNEL/manifest_mvtime.mpd?tracking=IW99147ac68317488369&ticket=e98ffe66-d49d-4229-8395-b99c094b36d9
 
 #EXTINF:-1 tvg-id="Mangas.fr" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-6.png" group-title="France", Mangas
-https://mdw-cji.akamaized.net/mangas/dash/manifest.mpd?hdnts=exp=1669658287~acl=/mangas/dash/*~hmac=03c51f1ff30f36b6c4a16b0b7e36d732f0300708a8520558b1d7306587d45909
+https://mdw-cji.akamaized.net/mangas/dash/manifest.mpd?hdnts=exp=1669895340~acl=/mangas/dash/*~hmac=fa799e34a2d41e7c478c7042495eb33821b8bad1cff30d0a89e4d87cebd929a2
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-38.png" group-title="France", Chasse et Pêche
-https://mdw-cji.akamaized.net/chassepeche/dash/manifest.mpd?hdnts=exp=1669658603~acl=/chassepeche/dash/*~hmac=b7ed2d12c10b8894f17ff96b4f2cef0f1497667f5d15ad9b49216af9d2705eab
+https://mdw-cji.akamaized.net/chassepeche/dash/manifest.mpd?hdnts=exp=1669895467~acl=/chassepeche/dash/*~hmac=2bfd93bd3cbc161dd9dd2be5a365f6f6a25016d857147f2b04864d424dfb0263
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-63.png" group-title="France", Science & Vie
-https://mdw-cji.akamaized.net/scienceetvie/dash/manifest.mpd?hdnts=exp=1669658479~acl=/scienceetvie/dash/*~hmac=f75f9ba60b3f7d5071ec5a0c64f4b345abdcfe8c01eab9fb176b85e454e4474e
+ https://mdw-cji.akamaized.net/scienceetvie/dash/manifest.mpd?hdnts=exp=1669895403~acl=/scienceetvie/dash/*~hmac=39455f9fe44443584b71a45bf08f198a56672eaa69567e17dab0f32efa93c62c
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-12.png" group-title="France", Animaux
 https://wza.idipper.com/live/_definst_/channel/3003/ANIMAUX_TV/manifest_mvtime.mpd?tracking=IW99147ac68317488369&ticket=d5742bd0-450d-44c8-8f22-38de1e2dbf65
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-7.png" group-title="France", Toute l'Histoire
-https://mdw-cji.akamaized.net/toutelhistoire/dash/manifest.mpd?hdnts=exp=1669658432~acl=/toutelhistoire/dash/*~hmac=95a08fef240108eee07ae7d4c1ad588a1e43164e71c90070be489584054deb4a
+https://mdw-cji.akamaized.net/toutelhistoire/dash/manifest.mpd?hdnts=exp=1669895376~acl=/toutelhistoire/dash/*~hmac=95327793af2c9526bd84adba07e208eb352fd1e5ddb9027cf8a9db4bcc7c131c
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-1776.png" group-title="France", Trek
-https://mdw-cji.akamaized.net/trekhd/dash/manifest.mpd?hdnts=exp=1669658636~acl=/trekhd/dash/*~hmac=aa0be9fa49389255594043f2a05a4818df733469b4c492bd83d9b40a565215c0
+https://mdw-cji.akamaized.net/trekhd/dash/manifest.mpd?hdnts=exp=1669895491~acl=/trekhd/dash/*~hmac=403d4454a719a5296f214fc84ac2b4cfbb057bfcd9c89b3f9bb7ea656b154797
 
 #EXTINF:-1 tvg-logo="" group-title="France", Astrocenter.TV
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/user/astrocenterFR/live
@@ -606,7 +606,7 @@ https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_NORMANDIE/index.m3u8?start=LIVE&
 http://live.digiteka.com/1/RVNZMmJtUURmd09I/U0dNU0tk/hls/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TLC.fr" tvg-logo=" " group-title="Locales", 33. Télévision Locale du Choletais
-https://www.dailymotion.com/tlcdirect
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/tlcdirect
 
 #EXTINF:-1 tvg-id="Tebesud.fr" tvg-logo=" " group-title="Locales", 33. Tébésud
 https://start-2.direct.live/hls/tebesud_hi/index.m3u8
@@ -683,13 +683,13 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel
 #EXTGRP : RADIOVISION
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat-stream.com/radiochannels/fr/France-Inter.html" group-title="Radiovision", 01. France Inter
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/FranceInter/live
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/franceinter
 
 #EXTINF:-1 tvg-logo=" " group-title="Radiovision", 05. France Info
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/franceinfo
 
 #EXTINF:-1 tvg-logo="https://mytelevision.tv/assets/img/chaines/mouvtv.png" group-title="Radiovision", 06. Mouv'
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/mouv
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/Mouv
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-stream.com/logo/radio/rr/rfi_fr.png" group-title="Radiovision", 07. RFI
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/RFIfr/live
@@ -701,13 +701,13 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c//live
 https://www.dailymotion.com/video/xqjkfz
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-stream.com/logo/radio/rr/rtl_radio_fr.png" group-title="Radiovision", 61. RTL France
-https://www.dailymotion.com/video/x7rkctx
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/rtl-fr
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-stream.com/logo/radio/rr/rtl2_radio_fr.png" group-title="Radiovision", 62. RTL 2
-https://www.dailymotion.com/video/x7rkbk4
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/RTL2
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fun-vision-fr-be.png" group-title="Radiovision", 63. Fun Radio (France)
-https://www.dailymotion.com/video/x7rk9ec
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/funradio
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Radiovision", 82. Générations TV
 https://generation-tv.vedge.infomaniak.com/livecast/generation-tv/manifest.m3u8
