@@ -374,6 +374,9 @@ https://c3776ebb1c7742cb9c0191b41b8b2432.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-id="Business24Africa.ci" tvg-logo="https://service.canal-overseas.com/image-api/v1/image/663d6c877a14fa32b50f45345c9515ce" group-title="Cable-Satellite",Business TV
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/business24_tv/hls_video/index.m3u8
 
+#EXTINF:-1 channel-id="samsung-ITBA1400003WT" tvg-id="ITBA1400003WT" tvg-chno="4119" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/11/ITBA1400003WT_20220404T010007.png" group-title="Cable-Satellite",Canale Europa
+https://f123d461fa05419a8d092e49bf7ba9a6.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-it_CanaleEuropaTV/playlist.m3u8
+
 #EXTINF:-1 channel-id="pluto-6231ec93779a9d00079ba8e2" tvg-id="6231ec93779a9d00079ba8e2" tvg-chno="305" tvg-logo="https://images.pluto.tv/channels/6231ec93779a9d00079ba8e2/colorLogoPNG.png" group-title="Cable-Satellite",CBS News
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6231ec93779a9d00079ba8e2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
@@ -1311,6 +1314,9 @@ https://cloudvideo.servers10.com:8081/8004/index.m3u8
 #EXTINF:-1 channel-id="samsung-FRBB1900001FA" tvg-id="FRBB1900001FA" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/34/FRBB1900001FA_20220323T075747.png" group-title="Musique",Clubbing TV
 https://clubbingtv-oando.amagi.tv/hls/amagi_hls_data_clubbingt-clubbingtv-oando/CDN/playlist.m3u8
 
+#EXTINF:-1 channel-id="samsung-ITBC400004TU" tvg-id="ITBC400004TU" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/ITBC400004TU_20221109T010911.png" group-title="Musique",Cmusic
+https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_it_stingraycmusic_001.m3u8
+
 #EXTINF:-1 tvg-chno=" " group-title="Musique", Eurodance 90
 https://eurodance90.catcast.tv/content/36987/index.m3u8
 
@@ -1422,6 +1428,9 @@ https://eu.linear.zype.com/03279a29-1651-4cb5-b8e2-d94752ff3db2/e7545143-d088-4c
 
 #EXTINF:-1 tvg-id="VH1.it" tvg-logo="https://www.lyngsat-logo.com/logo/tv/vv/vh1-us.png" group-title="Musique",VH1 Italia
 https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
+
+#EXTINF:-1 channel-id="samsung-ITBA3300036R8" tvg-id="ITBA3300036R8"tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/ITBA3300036R8_20221012T021059.png" group-title="Musique",Vivaldi TV
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01297-themahqfranceme-vivalditv-samsungit/playlist.m3u8
 
 #EXTINF:-1 tvg-chno=" " group-title="Musique",Viva Russia
 https://live.prd.dlive.tv/hls/live/viva-russia.m3u8
