@@ -740,6 +740,9 @@ https://322e54f5122c41d4a6f2e2ddb3f5aeb5.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-id="FRBA3300024L2" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/08/72/FRBA3300024L2_20220323T080217.png" group-title="Cable-Satellite",Reuters
 https://f148ce707dce489790ec1aa756fe2dc4.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-fr_ReutersNow/playlist.m3u8
 
+#EXTINF:-1 tvg-id=" " tvg-logo="" group-title="Cable-Satellite",RMC Sport
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/rmcsport
+
 #EXTINF:-1 tvg-logo="" group-title="Cable-Satellite",RT France
 https://raw.githubusercontent.com/Sibprod/streams/main/files/RT_France/master.m3u8
 
