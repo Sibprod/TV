@@ -52,10 +52,10 @@ https://raw.githubusercontent.com/Sibprod/streams/main/files/ARTE/master.m3u8
 http://livetv.ktv.zone/15/play.m3u8
 
 #EXTINF:-1 tvg-id="LCP.fr" tvg-logo="https://www.ktv.zone/wp-content/uploads/2016/12/15_dune.png" group-title="TNT",La Chaîne Parlementaire 100%
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/xgepjr
+http://www.callofliberty.fr/stream/LCP/master.m3u8
 
 #EXTINF:-1 tvg-id="PublicSenat.fr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/public-senat-fr.png" group-title="TNT",Public Sénat
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/publicsenat
+http://www.callofliberty.fr/stream/PublicSenat/master.m3u8
 
 #EXTINF:-1 tvg-id="TV5MondeFranceBelgiumSwitzerland.fr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv5monde-france-belgique-suisse-monaco-fr.png" group-title="TNT",TV5 Monde FBSM
 https://raw.githubusercontent.com/Sibprod/streams/main/files/TV5_Monde_FBSM/master.m3u8
@@ -384,7 +384,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6231ec93779a9d00079ba8
 https://livefr.cgtn.com/1000f/prog_index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-38.png" group-title="Cable-Satellite",Chasse et Pêche
-https://mdw-cji.akamaized.net/chassepeche/dash/manifest.mpd?hdnts=exp=1669895467~acl=/chassepeche/dash/*~hmac=2bfd93bd3cbc161dd9dd2be5a365f6f6a25016d857147f2b04864d424dfb0263
+https://mdw-cji.akamaized.net/chassepeche/dash/manifest.mpd?hdnts=exp=1670009021~acl=/chassepeche/dash/*~hmac=f76a54e3e5e216b3c252bc1fba82f12b688fc538dfd4fbc35d022959836dec09
 
 #EXTINF:-1 tvg-id="FRBB3900001PZ" tvg-chno="4435" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/68/FRBB3900001PZ_20220323T080447.png" group-title="Cable-Satellite",Chefclub TV
 https://d19umdgd0zr2ln.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/Chefclub-FR-prod/chc/ch/ch.m3u8
@@ -399,7 +399,7 @@ https://wza.idipper.com/live/_definst_/channel/3020/COMEDY_CENTRAL/manifest_mvti
 https://d7z3qjdsxbwoq.cloudfront.net/groupa/live/f9809cea-1e07-47cd-a94d-2ddd3e1351db/live.isml/.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-2037.png" group-title="Cable-Satellite",Crime District
-https://mdw-cji.akamaized.net/crimedistrict/dash/manifest.mpd?hdnts=exp=1669895420~acl=/crimedistrict/dash/*~hmac=d5fcf0983753a990fbb679a9f8458dad2d80917583b0873da8b98d6b36de7545
+https://mdw-cji.akamaized.net/crimedistrict/dash/manifest.mpd?hdnts=exp=1670008959~acl=/crimedistrict/dash/*~hmac=bc3ea5ab1828c0f2c5bc2190a84b9694f18bc9323bc4bb6ab02204054cdd15d9
 
 #EXTINF:-1 channel-id="samsung-FRBC90000220" tvg-id="FRBC90000220" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/FRBC90000220_20220928T011222.png" group-title="Cable-Satellite",Enquêtes de Choc
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01796-fastmediabackbo-enquetesdechoc-samsungfr/playlist.m3u8
@@ -465,7 +465,7 @@ https://fusiontv.vedge.infomaniak.com/livecast/fusiontv/manifest.m3u8
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f8eccd81062c300078a11df/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 tvg-id="GolfChannel.fr" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-1166.png" group-title="Cable-Satellite",Golf Channel
-https://mdw-cji.akamaized.net/golfchannel/dash/manifest.mpd?hdnts=exp=1669895450~acl=/golfchannel/dash/*~hmac=b20124fea4e309b8d52a7ddf5ef7a28880dd93e76aea9f1bc79e44077c854ec6
+https://mdw-cji.akamaized.net/golfchannel/dash/manifest.mpd?hdnts=exp=1670008995~acl=/golfchannel/dash/*~hmac=746bfdddc7bee7f7712bb48d36e15787f29f9bdb1eead7789c1f3ad353d19738
 
 #EXTINF:-1 channel-id="samsung-FRBB49000014I" tvg-id="FRBB49000014I" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/88/FRBB49000014I_20220511T011734.png" group-title="Cable-Satellite",Gong
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01596-gongnetworks-gong-samsungfr/playlist.m3u8
@@ -507,7 +507,7 @@ https://live.digiteka.com/1/bEg0RmFLb1JMYXRI/dGhqbmIw/hls/vjgmsb8b/416/chunklist
 https://live-content.xumo.com/1852/content/XM02RV18Y1ZOMK/21783635/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear- .png" group-title="Cable-Satellite",Lucky Jack
-https://mdw-cji.akamaized.net/luckyjack/dash/manifest.mpd?hdnts=exp=1669895513~acl=/luckyjack/dash/*~hmac=39193dc5de131447a994b17185c878014faf6cf1b4837ce1e1c093055035c9e1
+https://mdw-cji.akamaized.net/luckyjack/dash/manifest.mpd?hdnts=exp=1670009090~acl=/luckyjack/dash/*~hmac=0cad3fb580109b982a634ee6afd96c0b7360585828cd1eadc65d76245775818c
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://s1.dmcdn.net/u/8vkDy1W6-hQe6j0ui/60x60" group-title="Cable-Satellite",Lyon Capitale TV
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/LyonCapTV
@@ -516,7 +516,7 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/Lyo
 http://www.callofliberty.fr/stream/MaisonEtTravauxTV/master.m3u8
 
 #EXTINF:-1 tvg-id="Mangas.fr" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-6.png" group-title="Cable-Satellite",Mangas
-https://mdw-cji.akamaized.net/mangas/dash/manifest.mpd?hdnts=exp=1669895340~acl=/mangas/dash/*~hmac=fa799e34a2d41e7c478c7042495eb33821b8bad1cff30d0a89e4d87cebd929a2
+https://mdw-cji.akamaized.net/mangas/dash/manifest.mpd?hdnts=exp=1670008524~acl=/mangas/dash/*~hmac=193af040fa585fc58e4e775558a1225d6ba75081f5cf739986f2181df9aa8442
 
 #EXTINF:-1 tvg-chno=" " group-title="Cable-Satellite",MDL
 http://tv.mondeduloisir.fr:1935/tixtv/smil:web.smil/playlist.m3u8
@@ -747,7 +747,7 @@ https://raw.githubusercontent.com/Sibprod/streams/main/files/RT_France/master.m3
 https://d2fih5ugbu4v3d.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-adwf5iz2j8r09-prod/run/rt_fr/rt_fr.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-63.png" group-title="Cable-Satellite",Science & Vie
-https://mdw-cji.akamaized.net/scienceetvie/dash/manifest.mpd?hdnts=exp=1669895403~acl=/scienceetvie/dash/*~hmac=39455f9fe44443584b71a45bf08f198a56672eaa69567e17dab0f32efa93c62c
+https://mdw-cji.akamaized.net/scienceetvie/dash/manifest.mpd?hdnts=exp=1670008930~acl=/scienceetvie/dash/*~hmac=f00f814d1b5dd71a7e7e26a1e0e2946023e06703cf19f83677721874cd8c4b01
 
 #EXTINF:-1 tvg-id="FRBB4600002K5" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/45/FRBB4600002K5_20220323T080533.png" group-title="Cable-Satellite",Scream'IN
 https://d1jpd8j6nh8nwm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-uuryop9dra2jr-prod/screamin/master.m3u8
@@ -792,7 +792,7 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-tlchdin-samsungin
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/TopSante
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-7.png" group-title="Cable-Satellite",Toute l'Histoire
-https://mdw-cji.akamaized.net/toutelhistoire/dash/manifest.mpd?hdnts=exp=1669895376~acl=/toutelhistoire/dash/*~hmac=95327793af2c9526bd84adba07e208eb352fd1e5ddb9027cf8a9db4bcc7c131c
+https://mdw-cji.akamaized.net/toutelhistoire/dash/manifest.mpd?hdnts=exp=1670008878~acl=/toutelhistoire/dash/*~hmac=f3052b86d138b75ce6ecc9fa48957bfe56e91d26f470567af03b30e913e5d1b3
 
 #EXTINF:-1 tvg-id="GBBB160000282" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/08/18/GBBB160000282_20220323T071158.png" group-title="Cable-Satellite",Trace Sport & Stars
 http://tracesportstars-samsunguk.amagi.tv/hls/amagi_hls_data_samsunguk-tracesportstars-samsunguk/CDN/playlist.m3u8
@@ -801,7 +801,7 @@ http://tracesportstars-samsunguk.amagi.tv/hls/amagi_hls_data_samsunguk-tracespor
 https://0b0a5371d15f48128cf69b029230eac6.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-fr_TravelXP/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-1776.png" group-title="Cable-Satellite",Trek
-https://mdw-cji.akamaized.net/trekhd/dash/manifest.mpd?hdnts=exp=1669895491~acl=/trekhd/dash/*~hmac=403d4454a719a5296f214fc84ac2b4cfbb057bfcd9c89b3f9bb7ea656b154797
+https://mdw-cji.akamaized.net/trekhd/dash/manifest.mpd?hdnts=exp=1670009050~acl=/trekhd/dash/*~hmac=7889883ca4977507f7946bbe0ea1c89176e98712e66938f87933bf54dd68cd01
 
 #EXTINF:-1 channel-id="pluto-5f8eb8a8b2619a000710605c" tvg-id="5f8eb8a8b2619a000710605c" tvg-chno="765" tvg-logo="https://images.pluto.tv/channels/5f8eb8a8b2619a000710605c/colorLogoPNG.png" group-title="Cable-Satellite", Troll TV
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f8eb8a8b2619a000710605c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -811,6 +811,9 @@ http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/53810
 
 #EXTINF:-1 tvg-logo="" group-title="Cable-Satellite",TVM 3
 https://tvm3.vedge.infomaniak.com/livecast/ik:tvm3/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/X2NQhjG/pitchoun.png",TV Pitchoun
+https://live.tvradio-pitchoun.fr/hls/live.m3u8
 
 #EXTINF:-1 tvg-id="FRBA2200008H8" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/16/FRBA2200008H8_20220323T080327.png" group-title="Cable-Satellite",UniversCiné
 https://samsunguk-universcine-samsung-fre-xxgab.amagi.tv/playlist/samsunguk-universcine-samsung-fre/playlist.m3u8
