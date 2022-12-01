@@ -991,6 +991,15 @@ http://live.creacast.com/iltv/smil:iltv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://kanaldude.eus/static/img/logo.gif" group-title="Locales",KanalDude
 https://5aa375514fbab.streamlock.net:8090/tbzain/smil:kanaldude.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Locales",L'Ardennais.TV
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/k2yXn98EZsSNGNx6zTS?
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Locales",L'Est Éclair TV
+https://live.digiteka.com/1/WWRMRDd6RUR1NGZ1/UytudnJv/hls/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Locales",L'Union.TV
+https://live.digiteka.com/1/TXhhUTRFNmVLRWhV/aVJTbDNQ/hls/live/playlist.m3u8
+
 #EXTINF:-1 tvg-id="La7.es" tvg-logo="https://i.imgur.com/haWbhrS.png" group-title="Locales",La7
 https://cdnlive.shooowit.net/la7live/smil:channel1.smil/master.m3u8
 
@@ -1065,6 +1074,9 @@ https://streaming01.divercom.be/notele_live/_definst_/direct.stream/playlist.m3u
 
 #EXTINF:-1 tvg-id="" tvg-logo=" " group-title="Locales",Porto Canal
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x8egnb8
+
+#EXTINF:-1 tvg-id="" tvg-logo=" " group-title="Locales",Puissance Télévision
+https://puissancetelevision.vedge.infomaniak.com/livecast/puissancetelevision/master.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Locales",RTC-Télé Liège
 https://tvlocales-live.freecaster.com/95d2f6eb-6f01-4d1d-8543-d14966de7b04/95d2f6eb-6f01-4d1d-8543-d14966de7b04.isml/master.m3u8
