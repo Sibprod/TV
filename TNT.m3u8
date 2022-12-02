@@ -78,9 +78,7 @@ https://raw.githubusercontent.com/Sibprod/streams/main/files/Bouygues/LCI/master
 https://raw.githubusercontent.com/Sibprod/streams/main/files/FTV/France-Info-TV/master.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="TNT",TV5 Monde FBSM
-http://livetv.ktv.zone/61/play.m3u8
-
-
+https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/variant.m3u8
 
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDU0MDYzMTZf/CanalSavoir_363x363.png group-title="TNT",Savoir.Media
 https://hls.savoir.media/live/stream.m3u8
