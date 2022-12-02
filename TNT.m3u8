@@ -41,6 +41,9 @@ http://www.callofliberty.fr/stream/LCP-PS/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TNT",LCP 100%
 http://www.callofliberty.fr/stream/LCP/master.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="TNT",BFM TV
+https://raw.githubusercontent.com/Sibprod/streams/main/files/Altice/BFM-TV/master.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="TNT",CNews
 https://raw.githubusercontent.com/Sibprod/streams/main/files/Bollore/C-News/master.m3u8
 
