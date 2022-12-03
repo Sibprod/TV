@@ -225,7 +225,7 @@ https://raw.githubusercontent.com/Sibprod/streams/main/files/Bouygues/Ushuaia-TV
 http://livetv.ktv.zone/61/play.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="TNT",RT France
-https://raw.githubusercontent.com/Sibprod/streams/main/files/RT_France/master.m3u8?token=GHSAT0AAAAAABXXPAI5TXCEFYB5ONNPOZ7WY4LB4AQ
+https://raw.githubusercontent.com/Sibprod/streams/main/files/Autres/RT_France/master.m3u8?token=GHSAT0AAAAAABXXPAI5HQXVOPDLPXINY7NOY4LB5BQ
 
 #EXTINF:-1 tvg-logo="https://mytelevision.tv/assets/img/chaines/ortb.png" group-title="TNT",ORTB
 https://strhls.streamakaci.tv/ortb/ortb1-multi/playlist.m3u8
