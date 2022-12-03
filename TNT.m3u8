@@ -147,7 +147,7 @@ https://raw.githubusercontent.com/Sibprod/streams/main/files/Altice/i24-News-FR/
 https://sp1564435593.mytvchain.info/live/sp1564435593_720/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="TNT",Radio Contact
-https://github.com/Sibprod/streams/blob/main/files/RTL/Radio-Contact-BE/master.m3u8
+https://raw.githubusercontent.com/Sibprod/streams/main/files/RTL/Radio-Contact-BE/master.m3u8
 
 #EXTINF:-1 tvg-id="LaUne.be" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-164.png" group-title="TNT",La Une
 http://185.236.229.31:9981/play/a030
