@@ -215,6 +215,9 @@ https://amg00712-alchimie-luxefr-samsungfr-wjg07.amagi.tv/playlist/amg00712-alch
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/radio/rr/radio-monte-carlo-it.png" group-title="Radiovision",Radio Monte-Carlo TV
 https://live2-radio-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(bb)/index.m3u8
 
+#EXTINF:-1 tvg-logo=" " group-title="TNT",Ushuaïa TV
+https://raw.githubusercontent.com/Sibprod/streams/main/files/Bouygues/Ushuaia-TV/master.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="TNT",TV5 Monde Europe
 http://livetv.ktv.zone/61/play.m3u8
 
