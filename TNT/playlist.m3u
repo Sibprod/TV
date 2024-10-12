@@ -1,0 +1,56 @@
+#EXTM3U
+#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
+#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-192.png",[001] TF1
+https://live.tntdirect.tv:443/9CM2pADCxF/w5BA32MP6P/1.m3u8
+#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-4.png",[002] France 2
+https://live.tntdirect.tv:443/9CM2pADCxF/w5BA32MP6P/2.m3u8
+#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-80.png",[003] France 3
+https://live.tntdirect.tv:443/9CM2pADCxF/w5BA32MP6P/3.m3u8
+#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-34.png",[004] Canal +
+https://live.tntdirect.tv:443/9CM2pADCxF/w5BA32MP6P/4.m3u8
+#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-47.png",[005] France 5
+https://live.tntdirect.tv:443/9CM2pADCxF/w5BA32MP6P/5.m3u8
+#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-118.png",[006] M6
+https://live.tntdirect.tv:443/9CM2pADCxF/w5BA32MP6P/6.m3u8
+#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-111.png",[007] Arte
+https://live.tntdirect.tv:443/9CM2pADCxF/w5BA32MP6P/7.m3u8
+#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-445.png",[008] C8
+https://live.tntdirect.tv:443/9CM2pADCxF/w5BA32MP6P/8.m3u8
+#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-119.png",[009] W9
+https://live.tntdirect.tv:443/9CM2pADCxF/w5BA32MP6P/9.m3u8
+#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-195.png",[010] TMC
+https://live.tntdirect.tv:443/9CM2pADCxF/w5BA32MP6P/10.m3u8
+#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-446.png",[011] TFX
+https://live.tntdirect.tv:443/9CM2pADCxF/w5BA32MP6P/11.m3u8
+#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-444.png",[012] NRJ 12
+https://live.tntdirect.tv:443/9CM2pADCxF/w5BA32MP6P/12.m3u8
+#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-234.png",[013] LCP
+https://live.tntdirect.tv:443/9CM2pADCxF/w5BA32MP6P/13.m3u8
+#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-78.png",[014] France 4
+https://live.tntdirect.tv:443/9CM2pADCxF/w5BA32MP6P/14.m3u8
+#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-481.png",[015] BFM TV
+https://live.tntdirect.tv:443/9CM2pADCxF/w5BA32MP6P/15.m3u8
+#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-226.png",[016] CNEWS
+https://live.tntdirect.tv:443/9CM2pADCxF/w5BA32MP6P/16.m3u8
+#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-458.png",[017] CSTAR
+https://live.tntdirect.tv:443/9CM2pADCxF/w5BA32MP6P/17.m3u8
+#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-482.png",[018] Gulli
+https://live.tntdirect.tv:443/9CM2pADCxF/w5BA32MP6P/18.m3u8
+#EXTINF:-1 tvg-logo="",[019] France Ô
+https://live.tntdirect.tv:443/9CM2pADCxF/w5BA32MP6P/19.m3u8
+#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-1404.png",[020] TF1 Séries-Films
+https://live.tntdirect.tv:443/9CM2pADCxF/w5BA32MP6P/20.m3u8
+#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-1401.png",[021] La Chaîne L'Équipe
+https://live.tntdirect.tv:443/9CM2pADCxF/w5BA32MP6P/21.m3u8
+#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-1403.png",[022] 6ter
+https://live.tntdirect.tv:443/9CM2pADCxF/w5BA32MP6P/22.m3u8
+#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-1402.png",[023] RMC Story
+https://live.tntdirect.tv:443/9CM2pADCxF/w5BA32MP6P/23.m3u8
+#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-1400.png",[024] RMC Découverte
+https://live.tntdirect.tv:443/9CM2pADCxF/w5BA32MP6P/24.m3u8
+#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-1399.png",[025] Chérie 25
+https://live.tntdirect.tv:443/9CM2pADCxF/w5BA32MP6P/25.m3u8
+#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-112.png",[026] LCI
+https://live.tntdirect.tv:443/9CM2pADCxF/w5BA32MP6P/26.m3u8
+#EXTINF:-1 tvg-logo="https://focus.telerama.fr/0000/00/01/clear-2111.png",[027] Franceinfo:
+https://live.tntdirect.tv:443/9CM2pADCxF/w5BA32MP6P/27.m3u8
